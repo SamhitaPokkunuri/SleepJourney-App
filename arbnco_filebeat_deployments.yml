@@ -1,0 +1,57 @@
+# filebeat.inputs:
+# - type: log
+#   enabled: false
+#   paths:
+#     - /var/log/*.log
+# - type: filestream
+#   enabled: false
+#   paths:
+#     - /var/log/*.log
+
+filebeat.config.modules:
+  path: ${path.config}/modules.d/*.yml
+  reload.enabled: false
+
+setup.template.settings:
+  index.number_of_shards: 1
+  #index.codec: best_compression
+  #_source.enabled: false
+
+# Processing of the message
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: json
+
+# Filebeat input from deployments, buildings+floors and beacons api call from spaceti
+filebeat.inputs:
+  - type: httpjson
+    url: http://localhost:3000/arbnco?SITEID=${SITEID}&type=deployments&mode=realtime
+    http_headers:
+      Authorization: "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMzAsImV4cCI6MTkyMDYyODk4OSwicmFuZGsiOiI0OTIwNzgwMDQ2NSJ9.JkyWwXO8Rn0J4zWhrZyulqkux0F9YBSSMJDhSQ2OtGw"
+    http_method: GET
+    json_objects_array: data.devices
+    interval: 10s
+    tags: ["deployments"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/arbnco?SITEID=${SITEID}&type=deployments&mode=history
+    http_headers:
+      Authorization: "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMzAsImV4cCI6MTkyMDYyODk4OSwicmFuZGsiOiI0OTIwNzgwMDQ2NSJ9.JkyWwXO8Rn0J4zWhrZyulqkux0F9YBSSMJDhSQ2OtGw"
+    http_method: GET
+    json_objects_array: data.devices
+    interval: 20s
+    tags: ["deployments"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+# output config to logstash at port 5026
+output.logstash:
+   # The Logstash hosts
+  hosts: ["localhost:5026"]

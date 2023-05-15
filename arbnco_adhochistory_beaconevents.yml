@@ -1,0 +1,34 @@
+setup.template.settings:
+  index.number_of_shards: 1
+
+# Processing of the message
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: json
+      process_array: false
+      max_depth: 6
+      overwrite_keys: true
+      when:
+        regexp:
+          jsonmessage: '^\{'
+
+# Filebeat input from beacon_events api call from spaceti
+filebeat.inputs:
+  ########################## History Filebeats ###########################
+  - type: httpjson
+    url: http://localhost:3000/arbnco/adhochistory?pageSize=500&pageNumber=1&SITEID=${SITEID}
+    http_method: GET
+    interval: 1m
+    tags: ["beacon_events"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+# output config to logstash at port 5024
+output.console:
+  pretty: true
+
+
+
