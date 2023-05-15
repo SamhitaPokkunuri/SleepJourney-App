@@ -1,0 +1,83 @@
+# tempate number of shards
+setup.template.settings:
+  index.number_of_shards: 1
+
+# Processing of the message
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: json
+  - drop_fields:
+      when:
+        contains:
+          tags: "microshare"
+      fields: ["message", "json._source.message","json._source.json.origin"]
+      ignore_missing: false
+  - drop_fields:
+      when:
+        contains:
+          tags: "arbnco"
+      fields: ["message","json._source.agent","json._source.host","json._source.ecs","json._source.input","json._source.tags"]
+      ignore_missing: false
+  - drop_fields:
+      when:
+        contains:
+          tags: "spaceti"
+      fields: ["message","json._source.agent","json._source.host","json._source.ecs","json._source.input","json._source.tags"]
+      ignore_missing: false
+
+filebeat.inputs:
+  ########################## ADHOC History Filebeats ###########################
+
+  - type: httpjson
+    url: http://localhost:3000/elastic/adhochistory?type=microshare&pageSize=500&mode=history
+    http_headers:
+      #Authorization: "Basic c2F0ZWVzaHBAd2VhcmVkYXVudGxlc3MuY29tOnNhbjdhdW5nLmthaWNfTFVL"
+      Content-Type: "application/json"
+    http_method: GET
+    interval: 120s
+    timeout: 300s
+    json_objects_array: hits.hits
+    tags: ["microshare"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/elastic/adhochistory?type=arbnco&pageSize=500&mode=history
+    http_headers:
+      #Authorization: "Basic c2F0ZWVzaHBAd2VhcmVkYXVudGxlc3MuY29tOnNhbjdhdW5nLmthaWNfTFVL"
+      Content-Type: "application/json"
+    http_method: GET
+    interval: 130s
+    timeout: 300s
+    json_objects_array: hits.hits
+    tags: ["arbnco"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/elastic/adhochistory?type=spaceti&pageSize=500&mode=history
+    http_headers:
+      #Authorization: "Basic c2F0ZWVzaHBAd2VhcmVkYXVudGxlc3MuY29tOnNhbjdhdW5nLmthaWNfTFVL"
+      Content-Type: "application/json"
+    http_method: GET
+    interval: 140s
+    timeout: 300s
+    json_objects_array: hits.hits
+    tags: ["spaceti"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+
+# output config to logstash at port 5030
+# change the hosts array to the correct logstash server name
+output.logstash:
+  hosts: ["localhost:5030"]
+  timeout: 300s
+  bulk_max_size: 204800

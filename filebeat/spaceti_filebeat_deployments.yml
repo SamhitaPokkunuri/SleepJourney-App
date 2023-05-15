@@ -1,0 +1,40 @@
+# tempate number of shards
+setup.template.settings:
+  index.number_of_shards: 1
+
+# Processing of the message
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: json
+
+# Filebeat input from deployments, buildings+floors and beacons api call from spaceti
+filebeat.inputs:
+  - type: httpjson
+    url: http://localhost:3000/spaceti?pageSize=1000&type=deployment
+    http_method: GET
+    json_objects_array: data
+    interval: 5m
+    tags: ["deployments"]
+
+  - type: httpjson
+    url: http://localhost:3000/spaceti?pageSize=1000&type=building
+    http_method: GET
+    json_objects_array: data
+    interval: 5m
+    tags: ["buildings"]
+
+  - type: httpjson
+    url: http://localhost:3000/spaceti?pageSize=1000&type=beacon
+    http_method: GET
+    json_objects_array: data
+    interval: 5m
+    tags: ["beacons"]
+
+# output config to logstash at port 5025
+# change the hosts array to the correct logstash server name
+output.logstash:
+   # The Logstash hosts
+  hosts: ["localhost:5025"]
+
+

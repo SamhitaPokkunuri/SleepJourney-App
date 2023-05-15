@@ -1,0 +1,24 @@
+# tempate number of shards
+setup.template.settings:
+  index.number_of_shards: 1
+
+# Processing of the message
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: json
+
+# Filebeat input from deployments, buildings+floors and beacons api call from spaceti
+filebeat.inputs:
+  - type: httpjson
+    url: http://localhost:3000/arbnco?SITEID=${SITEID}&type=deployments
+    http_method: GET
+    json_objects_array: data.devices
+    interval: 10s
+    tags: ["deployments"]
+
+# output config to logstash at port 5026
+# change the hosts array to the correct logstash server name
+output.logstash:
+   # The Logstash hosts
+  hosts: ["localhost:5026"]

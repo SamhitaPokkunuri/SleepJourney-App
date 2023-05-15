@@ -1,0 +1,136 @@
+# tempate number of shards
+setup.template.settings:
+  index.number_of_shards: 1
+
+# Processing of the message
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: json
+  - convert:
+      fields:
+        - {from: "_id", to: "doc_id", type: "string"}
+        - {from: "json.data.current", type: "string"}
+      ignore_missing: true
+      fail_on_error: false
+
+# Filebeat input from deployments, api call from microshare
+filebeat.inputs:
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=current&mode=realtime&firsttime=true
+    http_method: GET
+    interval: 240s
+    json_objects_array: objs
+    tags: ["current"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=leak&mode=realtime&firsttime=true
+    http_method: GET
+    interval: 250s
+    json_objects_array: objs
+    tags: ["leak"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=openclose&mode=realtime&firsttime=true
+    http_method: GET
+    interval: 260s
+    json_objects_array: objs
+    tags: ["openclose"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=occupancy&mode=realtime&firsttime=true
+    http_method: GET
+    interval: 270s
+    json_objects_array: objs
+    tags: ["occupancy"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=environment&mode=realtime&firsttime=true
+    http_method: GET
+    interval: 280s
+    json_objects_array: objs
+    tags: ["environment"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  ########################## History Filebeats ###########################
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=current&mode=history&firsttime=true
+    http_method: GET
+    interval: 60m
+    json_objects_array: objs
+    tags: ["current"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=leak&mode=history&firsttime=true
+    http_method: GET
+    interval: 60m
+    json_objects_array: objs
+    tags: ["leak"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=openclose&mode=history&firsttime=true
+    http_method: GET
+    interval: 60m
+    json_objects_array: objs
+    tags: ["openclose"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=occupancy&mode=history&firsttime=true
+    http_method: GET
+    interval: 60m
+    json_objects_array: objs
+    tags: ["occupancy"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  - type: httpjson
+    url: http://localhost:3000/microshare?pageSize=500&pageNumber=1&type=environment&mode=history&firsttime=true
+    http_method: GET
+    interval: 60m
+    json_objects_array: objs
+    tags: ["environment"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  
+
+# output config to logstash at port 5029
+# change the hosts array to the correct logstash server name
+output.logstash:
+  hosts: ["localhost:5029"]

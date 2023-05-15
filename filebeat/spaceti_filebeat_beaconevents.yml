@@ -1,0 +1,43 @@
+# tempate number of shards
+setup.template.settings:
+  index.number_of_shards: 1
+
+# Processing of the message
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: json
+
+# Filebeat input from beacon_events api call from spaceti
+filebeat.inputs:
+  - type: httpjson
+    url: http://localhost:3000/spaceti?pageSize=500&mode=realtime
+    http_method: GET
+    json_objects_array: data
+    interval: 10s
+    tags: ["beacon_events"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+  ########################## History Filebeats ###########################
+
+  - type: httpjson
+    url: http://localhost:3000/spaceti?pageSize=500&mode=history
+    http_method: GET
+    json_objects_array: data
+    interval: 60m
+    tags: ["beacon_events"]
+    pagination:
+      header:
+        field_name: Link
+        regex_pattern: '([^"]*)'
+
+# output config to logstash at port 5024
+# change the hosts array to the correct logstash server name
+output.logstash:
+   # The Logstash hosts
+  hosts: ["localhost:5024"]
+
+

@@ -1,0 +1,24 @@
+# tempate number of shards
+setup.template.settings:
+  index.number_of_shards: 1
+
+# Processing of the message
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: json
+
+# Filebeat input from beacon_events api call from microshare
+# TODO Add beacon event url
+filebeat.inputs:
+  - type: httpjson
+    url: ""
+    http_method: GET
+    json_objects_array: objs
+    interval: 10s
+    tags: ["beacon_events"]
+
+# output config to logstash at port 5028
+# change the hosts array to the correct logstash server name
+output.logstash:
+  hosts: ["localhost:5028"]
