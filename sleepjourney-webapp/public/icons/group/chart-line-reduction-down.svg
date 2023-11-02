@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152.383" height="144.846" viewBox="0 0 152.383 144.846">
+    <defs>
+        <style>
+            .cls-1{stroke:#333;stroke-width:4px;stroke-linejoin:round; fill:none;stroke-linecap:round}
+            .cls-3{stroke:#e60000;stroke-width:7px; fill:none;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="REDUCTION_INFOGRAPHIC" transform="translate(2.021 3.593)">
+        <path id="Path_9815" d="M0 0s11.856 20.051 11.2 59.23 10.13 65.283 10.13 65.283" fill='none' stroke-linecap='round' stroke='#333' stroke-width='4px' stroke-linejoin='round' transform="rotate(-62.03 26.973 -9.382)"/>
+        <path id="Path_9816" d="M0 2.26l14.618 14.01S26.565 6.451 28.243 0" fill='none' stroke-linecap='round' stroke='#333' stroke-width='4px' stroke-linejoin='round' transform="rotate(-72 108.909 -50.735)"/>
+        <path id="Path_9817" fill="none" stroke="#333" stroke-linecap="round" stroke-width="4px" d="M13017.186-20522.039c-6.542-.824-39.56 1.33-55.619 1.242-41.1-.225-71.643-1.707-75.3-1.822-5.06-.158-6.421-134.744-6.421-134.744" transform="translate(-12879.844 20660.049)"/>
+        <path id="Path_9818" d="M12895.7-20596.648s4.146 39.758 3.727 53.037-1.72 21.1-1.639 21.758 0 4.1 0 4.1" fill='none' stroke-linecap='round' stroke='#e60000' stroke-width='7px' stroke-linejoin='round' transform="translate(-12870.164 20638.309)"/>
+        <path id="Path_9819" d="M12931.606-20579.115s-.02 23.57.879 28.861-.8 24.371 0 25.881 0 12.055 0 12.055" fill='none' stroke-linecap='round' stroke='#e60000' stroke-width='7px' stroke-linejoin='round' transform="translate(-12875.048 20633.006)"/>
+        <path id="Path_9820" d="M2.66 0s.235 25.3 0 29.57S.585 45.052.18 47.614a50.62 50.62 0 0 0 0 8.068" fill='none' stroke-linecap='round' stroke='#e60000' stroke-width='7px' stroke-linejoin='round' transform="matrix(.998 -.07 .07 .998 82.425 64.46)"/>
+        <path id="Path_9821" d="M2.523 0c.053 7.354.125 21.158-.043 24.212C2.244 28.483.4 39.694 0 42.256" fill='none' stroke-linecap='round' stroke='#e60000' stroke-width='7px' stroke-linejoin='round' transform="matrix(.998 -.07 .07 .998 112.354 77.851)"/>
+    </g>
+</svg>

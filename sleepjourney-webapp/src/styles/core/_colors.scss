@@ -1,0 +1,33 @@
+// Colors
+$vf-white: #fff;
+$vf-black: #000;
+$vf-grey-default: #4a4d4e;
+$vf-grey: #afafaf;
+$vf-grey2: #d8d8d8;
+$vf-dim-grey: #666;
+$vf-dark-grey: #424242;
+$vf-dark-grey2: #333;
+$vf-nobel: #999;
+$vf-nobel2: #979797;
+$vf-nobel3: #c8c8c8;
+$vf-whisper: #ebebeb; // possibly get rid
+$vf-white-smoke: #ccc;
+$vf-white-smoke2: #f4f4f4;
+$vf-red2: #fe61af; // one reference
+$vf-teal: #007c92; // one reference
+$vf-cyan: #00b0ca;
+$vf-light-green: #aeba00; // one reference
+$vf-red: #e60000;
+$vf-dark-red: #bd0000;
+$vf-yellow: #fecb00;
+$vf-red-trans: rgba(230, 0, 0, 0.75);
+
+//Supply chain colors
+$tier-two: #a1a601;
+$tier-three: rgb(127, 29, 124);
+$tier-four: rgb(0, 112, 121);
+
+// Shadows
+$vf-shadow: 0 2px 4px 0 rgba($vf-black, 0.2);
+$vf-shadow-inset: inset 0 0 5px 1px rgba($vf-black, 0.08); // one instance
+$vf-table-shadow: inset -45px 0 15px -35px rgba($vf-black, 0.06); // one instance

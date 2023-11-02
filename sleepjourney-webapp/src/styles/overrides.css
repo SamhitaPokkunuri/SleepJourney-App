@@ -1,0 +1,21 @@
+.vdf-group.save-the-date .block-icon-features {
+  max-width: 66.6%;
+}
+
+.vdf-group.save-the-date .block-icon-feature > div {
+  max-width: 100%;
+}
+
+.vdf-group.save-the-date .MuiButton-label > span {
+  display: flex;
+}
+
+.vdf-group.save-the-date .MuiButton-label > span > img {
+  margin-right: 16px;
+  height: 28px;
+  width: 28px;
+}
+
+.vdf-group.save-the-date .MuiButtonBase-root {
+  margin-bottom: 16px;
+}

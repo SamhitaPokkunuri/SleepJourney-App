@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Africa",
+    "countries": [
+      {
+        "name": "Egypt (EN)",
+        "code": "eg",
+        "link": "//web.vodafone.com.eg/en/home",
+        "divided": true
+      },
+      {
+        "name": "DR Congo",
+        "code": "cd",
+        "link": "//www.vodacom.cd/",
+        "divided": true
+      },
+      {
+        "name": "مصر",
+        "code": "eg",
+        "link": "//www.vodafone.com.eg/",
+        "divided": true
+      },
+      {
+        "name": "South Africa",
+        "code": "za",
+        "link": "//www.vodacom.co.za/",
+        "divided": true
+      },
+      {
+        "name": "Ghana",
+        "code": "gh",
+        "link": "//vodafone.com.gh/",
+        "divided": true
+      },
+      {
+        "name": "Kenya",
+        "code": "ke",
+        "link": "//www.safaricom.co.ke/",
+        "divided": true
+      },
+      {
+        "name": "Lesotho",
+        "code": "ls",
+        "link": "//www.vodacom.co.ls/"
+      },
+      {
+        "name": "Tanzania (EN)",
+        "code": "tz",
+        "link": "//www.vodacom.co.tz/"
+      },
+      {
+        "name": "Tanzania (SW)",
+        "code": "tz",
+        "link": "//www.vodacom.co.tz/"
+      },
+      { "name": "Moçambique", "code": "mz", "link": "//vm.co.mz/" },
+      {
+        "name": "Nigeria",
+        "code": "ng",
+        "link": "//www.vodacom.com.ng/"
+      }
+    ]
+  },
+  {
+    "title": "Asia Pacific",
+    "countries": [
+      {
+        "name": "Australia",
+        "code": "au",
+        "link": "//www.vodafone.com.au/"
+      },
+      { "name": "India", "code": "in", "link": "//www.vodafone.in/" },
+      {
+        "name": "New Zealand",
+        "code": "nz",
+        "link": "//www.vodafone.co.nz/"
+      },
+      {
+        "name": "Türkiye",
+        "code": "tr",
+        "link": "//www.vodafone.com.tr/"
+      }
+    ]
+  },
+  {
+    "title": "Europe",
+    "countries": [
+      {
+        "name": "Česká Republika",
+        "code": "cz",
+        "link": "//www.vodafone.cz/",
+        "divided": true
+      },
+      {
+        "name": "Italia",
+        "code": "it",
+        "link": "//www.vodafone.it/",
+        "divided": true
+      },
+      {
+        "name": "Deutschland",
+        "code": "de",
+        "link": "//www.vodafone.de/",
+        "divided": true
+      },
+      {
+        "name": "España",
+        "code": "es",
+        "link": "//www.vodafone.es/",
+        "divided": true
+      },
+      {
+        "name": "Nederland",
+        "code": "nl",
+        "link": "//www.vodafone.nl/",
+        "divided": true
+      },
+      {
+        "name": "Portugal",
+        "code": "pt",
+        "link": "//www.vodafone.pt/",
+        "divided": true
+      },
+      {
+        "name": "Ελλάδα",
+        "code": "gr",
+        "link": "//www.vodafone.gr/",
+        "divided": true
+      },
+      {
+        "name": "România",
+        "code": "ro",
+        "link": "//www.vodafone.ro/",
+        "divided": true
+      },
+      {
+        "name": "Shqipëri",
+        "code": "al",
+        "link": "//www.vodafone.al/"
+      },
+      {
+        "name": "Magyarország",
+        "code": "hu",
+        "link": "//www.vodafone.hu/"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "gb",
+        "link": "//www.vodafone.co.uk/"
+      },
+      {
+        "name": "Ireland",
+        "code": "ie",
+        "link": "//n.vodafone.ie/en.html"
+      }
+    ]
+  }
+]

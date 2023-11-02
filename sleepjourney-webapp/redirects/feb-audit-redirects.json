@@ -1,0 +1,734 @@
+[
+  {
+    "source": "/content/apps/external-redirects/callplus/android/terms",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/investors/shareholders/adr_holders/dividends.html",
+    "destination": "https://investors.vodafone.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-launches-2019-global-trends-report-and-announces-enterprise-brand-refresh",
+    "destination": "/news/technology-news/vodafone-launches-2019-global-trends-report-and-announces-enterprise-brand-refresh",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860456761&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860679067&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860449198&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860447154&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860452608&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860448278&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860446352&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860452036&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860678714&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860372086&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508861306222&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/BlobServer\\?blobtable=MungoBlobs&blobwhere=1508860456427&blobkey=id&blobcol=urldata&blobnocache=true",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/messageplus/android/tr/feedback.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/digitising-europe-pulse-pandemic-recovery-funds",
+    "destination": "/news/digital-society/digitising-europe-pulse-pandemic-recovery-funds",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/messageplus/android/hu/feedback.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/press-release/free-online-learning-resources-support-coronavirus-crisis",
+    "destination": "/news/digital-society/free-online-learning-resources-support-coronavirus-crisis",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/press-release/vodafone-and-ast-spacemobile-unveil-launch-plans-space-based-mobile-network-initially-reaching-16",
+    "destination": "/news/technology-news/vodafone-and-ast-spacemobile-unveil-launch-plans-space-based-mobile-network-initially-reaching-16",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/vodafone-americas.html",
+    "destination": "/about-vodafone/where-we-operate/vodafone-markets/vodafone-in-the-americas",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-embeds-purpose-commitments-in-its-supply-chain",
+    "destination": "/news/planet-news/vodafone-embeds-purpose-commitments-in-its-supply-chain",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/future-ready-vodafone",
+    "destination": "/news/digital-society/future-ready-vodafone",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/lgbt-youth",
+    "destination": "/news/inclusion/lgbt-youth",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/vodafones-italy-ceo-discusses-the-coronavirus-crisis",
+    "destination": "/news/inclusion/vodafones-italy-ceo-discusses-the-coronavirus-crisis",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/messageplus/android/hu/faqs.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/Africas-fight-against-maternal-mortality",
+    "destination": "/news/digital-society/africas-fight-against-maternal-mortality",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodacom-group-partners-auda-nepad-major-vaccine-roll-out",
+    "destination": "/news/digital-society/vodacom-group-partners-auda-nepad-major-vaccine-roll-out",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/discovery-and-vodafone-announce-landmark-partnership-including-new-discovery-streaming-service",
+    "destination": "/news/services/discovery-and-vodafone-announce-landmark-partnership-including-new-discovery-streaming-service",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/viewpoint/europe-needs-much-bigger-push-hit-its-digital-decade-targets",
+    "destination": "/news/digital-society/europe-needs-much-bigger-push-hit-its-digital-decade-targets",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/art-students-in-kenyan-refugee-camp-amazed-by",
+    "destination": "/news/vodafone-foundation-news/art-students-in-kenyan-refugee-camp-amazed-by",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-tests-new-tech-can-track-vehicles-drones-and-precious-cargo-remotely-within",
+    "destination": "/news/technology-news/vodafone-tests-new-tech-can-track-vehicles-drones-and-precious-cargo-remotely-within",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/harnessing-ai-and-mobile-supercomputing",
+    "destination": "/news/technology-news/harnessing-ai-and-mobile-supercomputing",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/digital-learning-gap-leaves-european-students-risk-online-infodemic-new-oecd-pisa",
+    "destination": "/news/vodafone-foundation-news/digital-learning-gap-leaves-european-students-risk-online-infodemic-new-oecd-pisa",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-launches-five-point-plan-to-help-counter-the-impacts-of-the-covid-19-outbreak",
+    "destination": "/news/public-policy-news/vodafone-launches-five-point-plan-to-help-counter-the-impacts-of-the-covid-19-outbreak",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/press-release/m-pesa-celebrates-reaching-50-million-customers",
+    "destination": "/news/services/m-pesa-celebrates-reaching-50-million-customers",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/global-partnership-ethiopia-welcomes-licence-award-operate-telecom-services-ethiopia",
+    "destination": "/news/digital-society/global-partnership-ethiopia-welcomes-licence-award-operate-telecom-services-ethiopia",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/press-release/vodafone-commits-to-net-zero-carbon-emissions-by-2040",
+    "destination": "/news/planet/vodafone-commits-to-net-zero-carbon-emissions-by-2040",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/groudbreaking_global_survey",
+    "destination": "/news/digital-society/groudbreaking_global_survey",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/current-recovery-resilience-plans-digital-decade-2030",
+    "destination": "/news/public-policy-news/current-recovery-resilience-plans-digital-decade-2030",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/future-of-work",
+    "destination": "/news/digital-society/future-of-work",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-ericsson-safe-passage-drones",
+    "destination": "/news/services/vodafone-ericsson-safe-passage-drones",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/messageplus/android/tr/faqs.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/content/apps/ext/messageplus/android/tr/messageplus.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/mobile-broadband-software/mobile-broadband-software---faqs",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/external-redirects/callplus/android/terms/ES",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/callplus/android/hu/faqs.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/press-release/vodafone-nokia-partnership",
+    "destination": "/news/technology-news/vodafone-nokia-partnership",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-recognised-cdp-score-climate-change-actions-and-transparency",
+    "destination": "/news/planet-news/vodafone-recognised-cdp-score-climate-change-actions-and-transparency",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/callplus/android/en_gb/faqs.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-supports-families-with-new-global-policy-offering-16-weeks-paid-parental-leave-to-all-employees",
+    "destination": "/news/inclusion/vodafone-supports-families-with-new-global-policy-offering-16-weeks-paid-parental-leave-to-all-employees",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/callplus/android/el/legal.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/conduct/170518_VF_Code_Of_Conduct_EXTERNAL_Global_ID.pdf",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/code-of-conduct",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-completes-worlds-first-connection-of-5g-smartphones-to-its-network",
+    "destination": "/news/products/vodafone-completes-worlds-first-connection-of-5g-smartphones-to-its-network",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-launches-support-package-jobseekers",
+    "destination": "/news/services/vodafone-launches-support-package-jobseekers",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/external-redirects/callplus/android/GB.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/callplus/android/el/faqs.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/foundation-ambulance-taxi",
+    "destination": "/news/vodafone-foundation/foundation-ambulance-taxi",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/content/dam/vodcom/devices/ec-declaration/h300-s_tr.pdf",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-launch-nreal-ar-and-mr-glasses-across-europe",
+    "destination": "/news/products/vodafone-launch-nreal-ar-and-mr-glasses-across-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/how-a-truly-digital-approach-can-accelerate-the-post-covid-economic-recovery",
+    "destination": "/news/digital-society/how-a-truly-digital-approach-can-accelerate-the-post-covid-economic-recovery",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/technology-news/Vodafone.com/media/contact",
+    "destination": "/news/contact-us",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-foundation-announces-global-plans-for-app-to-help-those-affected-by-domestic-abuse",
+    "destination": "/news/vodafone-foundation-news/vodafone-foundation-announces-global-plans-for-app-to-help-those-affected-by-domestic-abuse",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/100percent-renewables",
+    "destination": "/news/technology-news/100percent-renewables",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/change-the-face",
+    "destination": "/news/inclusion/change-the-face",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/societal-prejudice-restricts-girls-access-to-mobile",
+    "destination": "/news/inclusion/societal-prejudice-restricts-girls-access-to-mobile",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/changetheface-alliance",
+    "destination": "/news/inclusion/change-the-face-alliance",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-european-network-to-go-100-percent-green",
+    "destination": "/news/planet-news/vodafone-european-network-to-go-100-percent-green",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/broadband-commission-vodafone-urge-action-connect-people-smartphones",
+    "destination": "/news/planet-news/broadband-commission-vodafone-urge-action-connect-people-smartphones",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/mobile-broadband-devices/extras/troubleshoot-guide/Monitor_App_Guide_iOS-V2.pdf",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/press-release/report-international-investment-african-philanthropy-sustainable-social-impact",
+    "destination": "/news/digital-society/report-international-investment-african-philanthropy-sustainable-social-impact",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/messageplus/android/hu/messageplus.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/4g-industry-leader",
+    "destination": "/news/technology-news/4g-industry-leader",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/stories/mwc19-here-comes-5g",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-group-to-sponsor-porsche-formula-e-team",
+    "destination": "/news/technology-news/vodafone-group-to-sponsor-porsche-formula-e-team",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/sites/default/files/styles/large/public/2020-10/key-b2c-new.png.rendition.1984.1984.png",
+    "has": [
+      {
+        "type": "query",
+        "key": "itok",
+        "value": "bU11BPT9"
+      }
+    ],
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/mpesa-25million",
+    "destination": "/news/digital-society/mpesa-25million",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-foundation-and-unhcr-expand-instant-network-schools-programme",
+    "destination": "/news/vodafone-foundation/vodafone-foundation-and-unhcr-expand-instant-network-schools-programme",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/skills-upload-europe",
+    "destination": "/news/digital-society/skills-upload-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/creating-stronger-digital-europe",
+    "destination": "/news/public-policy-news/creating-stronger-digital-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-partners-detect-coastal-landslides-support-smart-farms",
+    "destination": "/news/digital-society/vodafone-partners-detect-coastal-landslides-support-smart-farms",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/callplus/android/en_ie/legal.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-foundation-and-vodacom-group-donate-secure-covid-vaccine-supply-its-africa",
+    "destination": "/news/vodafone-foundation-news/vodafone-foundation-and-vodacom-group-donate-secure-covid-vaccine-supply-its-africa",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-business-boosting-packages-small-businesses-europe",
+    "destination": "/news/services/vodafone-business-boosting-packages-small-businesses-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/default/files/2022-01/We-Are-Vodafone-Episode4-Transcript.pdf",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-foundation-imperial-college-london-team-up-with-dreamlab-against-coronavirus",
+    "destination": "/news/vodafone-foundation-news/vodafone-foundation-imperial-college-london-team-up-with-dreamlab-against-coronavirus",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/content/index/about/about-us/code-of-conduct.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/code-of-conduct",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/conversations/internet-of-things-spanish-motorsports-driver-isidre-esteve-is-back-in-the-race",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/conversations/internet-of-things-spanish-motorsports-driver-isidre-esteve-is-back-in-the-race\\?elqTrackId=4fcbf0f9e50e4cf4a877a417d1f476eb&elqaid=2807&elqat=2",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/conversations/internet-of-things-spanish-motorsports-driver-isidre-esteve-is-back-in-the-race/\\?elqTrackId=4fcbf0f9e50e4cf4a877a417d1f476eb&elqaid=2807&elqat=2",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/home/terms-and-conditions.jsp",
+    "destination": "/terms-and-conditions",
+    "statusCode": 301
+  },
+  {
+    "source": "/home/terms-and-conditions.jsp\\?elqTrackId=86f51cfaf5f546788d7c70c7ebef0392&elqaid=1302&elqat=2",
+    "destination": "/terms-and-conditions",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/about-us/code-of-conduct.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/code-of-conduct",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/about-us/code-of-conduct.html\\?elqTrackId=ab2428849e5c48378af9d5500a9b4716&elqaid=1302&elqat=2",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/code-of-conduct",
+    "statusCode": 301
+  },
+  {
+    "source": "/home/privacy-policy.jsp",
+    "destination": "/cookie-policies",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/home/privacy-policy.jsp\\?elqTrackId=63b3eee8a0244f3dbe0a868db96ed695&elqaid=1302&elqat=2",
+    "destination": "/cookie-policies",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/our-future-ready-ways-working",
+    "destination": "/news/digital-society/our-future-ready-ways-working",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-pioneers-innovative-network-tech-to-increase-suppliers-and-extend-rural-internet-access",
+    "destination": "/news/technology-news/vodafone-pioneers-innovative-network-tech-to-increase-suppliers-and-extend-rural-internet-access",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/viewpoint/tackling-e-waste-and-enabling-circular-economy-electronic-products",
+    "destination": "/news/planet-news/tackling-e-waste-and-enabling-circular-economy-electronic-products",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/iot-drone-tracking",
+    "destination": "/news/products/iot-drone-tracking",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/press-release/new-pan-industry-eco-rating-scheme-launched-mobile-phones",
+    "destination": "/news/technology-news/new-pan-industry-eco-rating-scheme-launched-mobile-phones",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/mobile-tracking-and-control-technology-for-long-distance-drone-flights",
+    "destination": "/news/products/mobile-tracking-and-control-technology-for-long-distance-d",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodacom-and-safaricom-joint-venture-to-accelerate-m-pesa-expansion",
+    "destination": "/news/technology-news/vodacom-and-safaricom-joint-venture-to-accelerate-m-pesa-expansion",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/news/press-release/mohamed-salah-joins-up-with-vodafone-foundation",
+    "destination": "/news/vodafone-foundation-news/mohamed-salah-joins-up-with-vodafone-foundation",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/creating-stronger-digital-europe",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-european-network-to-go-100-percent-green",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-launches-five-point-plan-to-help-counter-the-impacts-of-the-covid-19-outbreak",
+    "destination": "/news/public-policy-news/vodafone-launches-five-point-plan-to-help-counter-the-impacts-of-the-covid-19-outbreak",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/art-students-in-kenyan-refugee-camp-amazed-by",
+    "destination": "/news/vodafone-foundation-news/art-students-in-kenyan-refugee-camp-amazed-by",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-pioneers-innovative-network-tech-to-increase-suppliers-and-extend-rural-internet-access",
+    "destination": "/news/technology-news/vodafone-pioneers-innovative-network-tech-to-increase-suppliers-and-extend-rural-internet-access",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/all-devices/mobile-broadband-software/mobile-broadband-software---faqs",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/foundation-ambulance-taxi",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-foundation-announces-global-plans-for-app-to-help-those-affected-by-domestic-abuse",
+    "destination": "/news/vodafone-foundation-news/vodafone-foundation-announces-global-plans-for-app-to-help-those-affected-by-domestic-abuse",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/covid19/news/vodafones-italy-ceo-discusses-the-coronavirus-crisis",
+    "destination": "/news/inclusion/vodafones-italy-ceo-discusses-the-coronavirus-crisis",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2015/groundbreaking_global_survey.html",
+    "destination": "/news/digital-society/groudbreaking_global_survey",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/stories/mwc19-here-comes-5g/",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/groudbreaking_global_survey",
+    "destination": "/news/digital-society/groudbreaking_global_survey",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/4g-industry-leader",
+    "destination": "/news/technology-news/4g-industry-leader",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/mobile-tracking-and-control-technology-for-long-distance-drone-flights",
+    "destination": "/news/products/mobile-tracking-and-control-technology-for-long-distance-d",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-foundation-and-unhcr-expand-instant-network-schools-programme",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/harnessing-ai-and-mobile-supercomputing",
+    "destination": "/news/technology-news/harnessing-ai-and-mobile-supercomputing",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2018/mobile-tracking-and-control-technology-for-long-distance-drone-flights.html",
+    "destination": "/news/products/mobile-tracking-and-control-technology-for-long-distance-d",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/lgbt-youth",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2018/iot-drone-tracking.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2018/vodafone-launches-2019-global-trends-report-and-announces-enterprise-brand-refresh.html",
+    "destination": "/news/technology-news/vodafone-launches-2019-global-trends-report-and-announces-enterprise-brand-refresh",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-foundation-announces-european-digital-skills-drive-release",
+    "destination": "/news/digital-society/skills-upload-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/free-online-learning-resources-support-coronavirus-crisis",
+    "destination": "/news/digital-society/free-online-learning-resources-support-coronavirus-crisis",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/mohamed-salah-joins-up-with-vodafone-foundation",
+    "destination": "/news/vodafone-foundation-news/mohamed-salah-joins-up-with-vodafone-foundation",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2019/vodafone-completes-worlds-first-connection-of-5g-smartphones-to-its-network.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/change-the-face",
+    "destination": "/news/inclusion/change-the-face",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/Africas-fight-against-maternal-mortality",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/major-european-operators-commit-open-ran-developments",
+    "destination": "/news/technology-news/major-european-operators-commit-open-ran-developments",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/mobile-broadband-software/vodafone-mobile-broadband-usb-sticks/windows-7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software/vodafone-mobile-broadband-usb-sticks/windows-7",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/mobile-broadband-software/vodafone-mobile-wi-fi-routers",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software/vodafone-mobile-wi-fi-routers",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/mobile-broadband-software/extras",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software/extras",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/mobile-broadband-software/mobile-broadband-software-for-mac",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software/mobile-broadband-software-for-mac",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/mobile-broadband-software/vodafone-mobile-broadband-usb-sticks",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software/vodafone-mobile-broadband-usb-sticks",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/mobile-broadband-software/vodafone-mobile-broadband-usb-sticks/windows-8",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software/vodafone-mobile-broadband-usb-sticks/windows-8",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/mobile-broadband-software/vodafone-mobile-broadband-usb-sticks/windows-10",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software/vodafone-mobile-broadband-usb-sticks/windows-10",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/device-requirements-and-compliance-framework",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/device-requirements-and-compliance-framework",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/mobile-broadband-software",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software",
+    "statusCode": 301
+  }
+]

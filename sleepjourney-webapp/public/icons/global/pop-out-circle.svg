@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon_pop_out" data-name="icon pop out" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path d="M12,0C5.37,0,0,5.37,0,12s5.37,12,12,12,12-5.37,12-12S18.63,0,12,0Zm6,18H6V6h3.51v1.39h-2.11v9.22h9.21v-2.12h1.39v3.51Zm0-5.62h-1.39v-4.01l-4.61,4.61-.99-.98,4.61-4.61h-4.01v-1.39h6.38v6.38Z"/>
+</svg>

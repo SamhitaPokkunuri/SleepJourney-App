@@ -1,0 +1,227 @@
+{
+  "clientId": "a1716b56-9dda-47bf-a94c-22901726da95",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "attributes": {
+    "customColors": {
+      "text": "",
+      "background": ""
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": true,
+      "text": "Vodafone is a leader in technology communications through mobile, fixed, broadband and TV.",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "paddingTop": true,
+    "paddingBottom": true,
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    }
+  },
+  "innerBlocks": [
+    {
+      "clientId": "79b12f5f-15de-4cf1-9a3b-97fdf62b3a22",
+      "name": "core/paragraph",
+      "isValid": true,
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "We have extensive experience in connectivity, convergence and the Internet of Things, as well as championing mobile financial services and digital transformation in emerging markets.",
+        "dropCap": false,
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "99212777-d2f4-4e4a-b848-863a34f35aa2",
+      "name": "core/paragraph",
+      "isValid": true,
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "Since making the first mobile call in the UK on 1 January 1985, Vodafone has grown into an international business and one of the most valuable brands in the world.&nbsp;We have mobile operations in 22 countries, partner with mobile networks in 42 more, and provide fixed broadband in 17 markets.",
+        "dropCap": false,
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "0bd3b9af-8596-4b7e-88fe-e6c61d9dabce",
+      "name": "core/paragraph",
+      "isValid": true,
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "As of 30 June 2020, Vodafone Group had approximately 625 million mobile customers, 27 million fixed broadband customers and 22 million TV customers, including all of the customers in Vodafone’s joint ventures and associates.",
+        "dropCap": false,
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "43e4198c-419b-4a76-9a3e-670e80e6d7c0",
+      "name": "core/video",
+      "isValid": true,
+      "attributes": {
+        "controls": true,
+        "preload": "metadata",
+        "widthControlExt": {
+          "outerWidth": 10
+        },
+        "vdfblocks": {
+          "custom": true
+        },
+        "src": "https://www.vodafone.com/content/dam/vodcom/videos/vdf_videos_2020/VF_19-20_HIGHLIGHTS.mp4",
+        "poster": "http://localhost:3000/media/img3.png",
+        "className": "col-10"
+      },
+      "innerBlocks": []
+    }
+  ]
+}

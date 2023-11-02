@@ -1,0 +1,62 @@
+[
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vantage-towers-announces-remaining-supervisory-board-nominations",
+    "destination": "/news/press-release/vantage-towers-announces-remaining-supervisory-board-nominations",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-foundation-announces-european-digital-skills-drive-release",
+    "destination": "/news/press-release/skills-upload-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-foundation-announces-european-digital-skills-drive-release",
+    "destination": "/news/press-release/skills-upload-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-announces-tender-offer-kabel-deutschland-minority-holdings",
+    "destination": "/news/press-release/vodafone-announces-tender-offer-kabel-deutschland-minority-holdings",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-announces-discussions-egypt-stc-have-been-terminated",
+    "destination": "/news/press-release/vodafone-announces-discussions-egypt-stc-have-been-terminated",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-and-ast-spacemobile-unveil-launch-plans-space-based-mobile-network-initially-reaching-16",
+    "destination": "/news/press-release/vodafone-and-ast-spacemobile-unveil-launch-plans-space-based-mobile-network-initially-reaching-16",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-announces-executive-committee-changes-jeffery-essam-froment-curtil",
+    "destination": "/news/press-release/vodafone-announces-executive-committee-changes-jeffery-essam-froment-curtil",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/inclusion/international-day-education",
+    "destination": "/news/viewpoint/international-day-education",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/Vodafone.com/media/contact",
+    "destination": "/news/contact-us",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/where-we-operate/partner-markets/news",
+    "destination": "/about-vodafone/where-we-operate/partner-markets/partner-market-storiess",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/inclusion/undefined",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business",
+    "destination": "/sustainable-business/our-purpose-pillars",
+    "statusCode": 301
+  }
+]

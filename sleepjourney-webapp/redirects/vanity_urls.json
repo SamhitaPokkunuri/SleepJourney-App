@@ -1,0 +1,1028 @@
+[
+  {
+    "source": "/sdg13-test",
+    "destination": "/our-purpose/our-contribution-to-un-sdgs?overlay=/node/78371",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/annual-report-2020",
+    "destination": "/content/dam/vodcom/files/vdf_files_2020/pdfs/vodafone-annual-report-2020.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/focus-areas/tecsos",
+    "destination": "/vodafone-foundation/focus-areas/apps-against-abuse",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/focus-areas/vodafone-business-ventures",
+    "destination": "/business/why-vodafone/vodafone-business-ventures/connected-living",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects",
+    "destination": "/vodafone-foundation/focus-areas",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/apps-against-abuse",
+    "destination": "/vodafone-foundation/focus-areas/apps-against-abuse",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/dreamlab-app",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/girls-and-mobile",
+    "destination": "/vodafone-foundation/focus-areas/girls-and-mobile",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/hiv-treatment",
+    "destination": "/vodafone-foundation/focus-areas",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/instant-network-emergency-response",
+    "destination": "/vodafone-foundation/focus-areas/vodafone-volunteers",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/instant-network-schools",
+    "destination": "/vodafone-foundation/focus-areas/instant-network-schools",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/instant-schools",
+    "destination": "/vodafone-foundation/focus-areas/instant-schools",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/introducing-leadership-lessons",
+    "destination": "/vodafone-foundation/focus-areas",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/mobilising-maternal-health",
+    "destination": "/vodafone-foundation/focus-areas/m-mama",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundation/our-projects/uk-projects",
+    "destination": "/vodafone-foundation/focus-areas",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/vodafone-foundationdreamlab",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/where-we-operate/partner-markets",
+    "destination": "/about-vodafone/where-we-operate/partner-markets",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2020",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/careers",
+    "destination": "https://careers.vodafone.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/adapting-to-the-new-reality",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/adapting-to-the-new-reality",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/getting-through-this-together",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/getting-through-this-together-keeping-people-safe-and-your-business-running?ecmp=dotcom_inpage_&src=dotcom_inpage_",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/how-iot-helping-doctors-and-patients-connect-ifema-field-hospital",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/how-iot-dash-buttons-are-helping-doctors-and-patients-connect-in-a-covid-19-hospital",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/how-to-make-the-most-of-remote-working",
+    "destination": "/business/news-and-insights/glossary/what-is-remote-working",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/innovating-supply-chains-with-integrated-sim",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/how-bayer-is-innovating-its-supply-chain-with-integrated-sim",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/life-after-covid",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/life-after-covid-how-big-data-and-location-insights-can-help-to-ease-lockdowns",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/over-150-global-corporations-urge-world-leaders",
+    "destination": "https://unglobalcompact.org/news/4535-05-18-2020",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/safaricom-commits-funds-to-fight-covid-19-pandemic-in-kenya",
+    "destination": "https://www.safaricom.co.ke/about/media-center/publications/press-releases/release/925",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/staying-connected-through-isolation",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/staying-connected-through-isolation-adapting-the-mencap-connected-living-solution-to-help-with-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/sustainability-has-never-been-more-important",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/sustainability-has-never-been-more-important-heres-how-technology-can-help",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/vodafone-business-prepared-for-the-unexpected-through-covid-19",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/vodafone-business-prepared-for-the-unexpected-through-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/adapting-to-the-new-reality",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/adapting-to-the-new-reality",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/getting-through-this-together",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/getting-through-this-together-keeping-people-safe-and-your-business-running?ecmp=dotcom_inpage_&src=dotcom_inpage_",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/how-iot-helping-doctors-and-patients-connect-ifema-field-hospital",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/how-iot-dash-buttons-are-helping-doctors-and-patients-connect-in-a-covid-19-hospital",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/how-to-make-the-most-of-remote-working",
+    "destination": "/business/news-and-insights/glossary/what-is-remote-working",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/innovating-supply-chains-with-integrated-sim",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/how-bayer-is-innovating-its-supply-chain-with-integrated-sim",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/life-after-covid",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/life-after-covid-how-big-data-and-location-insights-can-help-to-ease-lockdowns",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/over-150-global-corporations-urge-world-leaders",
+    "destination": "https://unglobalcompact.org/news/4535-05-18-2020",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/safaricom-commits-funds-to-fight-covid-19-pandemic-in-kenya",
+    "destination": "https://www.safaricom.co.ke/about/media-center/publications/press-releases/release/925",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/staying-connected-through-isolation",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/staying-connected-through-isolation-adapting-the-mencap-connected-living-solution-to-help-with-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/sustainability-has-never-been-more-important",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/sustainability-has-never-been-more-important-heres-how-technology-can-help",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/vodafone-business-prepared-for-the-unexpected-through-covid-19",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/vodafone-business-prepared-for-the-unexpected-through-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/videos",
+    "destination": "/about-vodafone/how-we-operate/covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/videos-connected",
+    "destination": "/everyone-connected",
+    "statusCode": 301
+  },
+  {
+    "source": "/esg2020",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/europeconnected",
+    "destination": "/about-vodafone/how-we-operate/public-policy/europe-connected",
+    "statusCode": 301
+  },
+  {
+    "source": "/genie01_uk/ec-declaration",
+    "destination": "/sites/default/files/2021-03/genie01-uk-ec-declaration.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/humanrightspolicystatement",
+    "destination": "/content/dam/vodcom/sustainability/pdfs/vodafone-group-human-rights-policy-statement-december-2019.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors",
+    "destination": "https://investors.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/k5161h/ec-declaration",
+    "destination": "/content/dam/vodcom/devices/ec-declaration/k5161h.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/modernslaverydisclosure",
+    "destination": "https://www.vodafone.co.uk/cs/groups/public/documents/webcontent/modernslaverydisclosure.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/mumandbaby",
+    "destination": "/news/inclusion/mum-baby-south-africa-sms-vaccination",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/about-vodafone-group",
+    "destination": "/content/dam/vodcom/files/About_Vodafone_Plc_July_2020.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/about-vodafone-group0",
+    "destination": "/content/dam/vodcom/files/About-Vodafone-Plc-January-2020.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/image-library",
+    "destination": "https://www.flickr.com/photos/vodafonegroup/",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news",
+    "destination": "/news/for-journalists",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/att-vodafone-business-in-commercial-inter-carrier-arrangement-for-nb-iot-roaming-across-us-and-europe",
+    "destination": "/business/news-and-insights/press-release/att-and-vodafone-business-in-commercial-inter-carrier-arrangement-for-nb-iot-roaming-across-us-and-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/ryanair-chooses-vodafone-business-to-transform-digital-infrastru",
+    "destination": "/business/news-and-insights/company-news/ryanair-chooses-vodafone-business-to-transform-digital-infrastructure-in-seven-year-technology-partnership",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-business-and-america-movil-announce-iot-partnership",
+    "destination": "/business/vodafone-business-and-america-movil-announce-iot-partnership",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-privacy-policy",
+    "destination": "/cookie-policies",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/reporting-centre/conflict-minerals",
+    "destination": "/content/dam/vodcom/sustainability/pdfs/conflictminerals2019.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/reporting-centre/helen-lamprell-in-the-new-year-honours-list",
+    "destination": "https://newscentre.vodafone.co.uk/press-release/vodafones-helen-lamprell-awarded-obe-for-services-to-business-and-equality/",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/reporting-centre/modern-slavery-statement",
+    "destination": "/content/dam/vodcom/sustainability/pdfs/modern-slavery-statement-2019-20.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/reporting-centre/vodafone-launches-changetheface",
+    "destination": "https://newscentre.vodafone.co.uk/press-release/changetheface-to-improve-diversity-and-representation-in-tech-sector/",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/before-vodafone-i-would-have-never-entertained-the-thought-of-coming-out-in-the-workplace",
+    "destination": "/news/inclusion/before-vodafone-id-have-never-entertained-the-thought-of-coming-out-in-the-workplace",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/future-proofing-business-how-mobile-private-network-helping-ford-rethink-manufacturing",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/future-proofing-a-business-how-a-mobile-private-network-is-helping-ford-rethink-manufacturing",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/how-to-ensure-small-businesses-are-more-resilient",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/how-to-ensure-small-businesses-are-more-resilient-and-more-digital-than-ever-before",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/mo-salah-is-the-instant-network-schools-new-ambassador",
+    "destination": "https://www.youtube.com/watch?v=YsCE-M9KlQQ&feature=youtu.be",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/the-man-who-made-the-first-mobile-phone-call-on-vodafones-network",
+    "destination": "https://gigalife.vodafone.com/meet-the-man-who-made-the-first-vodafone-mobile-phone-call/",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/blog/the-tipping-point-consider-what-5g-can-do-for-your-business",
+    "destination": "/business/news-and-insights/blog/gigabit-thinking/the-tipping-point-consider-what-5g-can-do-for-your-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/gigabit",
+    "destination": "/business/blog/gigabit-thinking",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/gigalife",
+    "destination": "https://gigalife.vodafone.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/innovation",
+    "destination": "/content/index/what/innovation.html#innovationstories",
+    "statusCode": 301
+  },
+  {
+    "source": "/porsche-formula-e-racing-sponsorship/formula-e-season-berlin-finale/porsches-website-on-formula-e",
+    "destination": "https://www.porsche.com/international/motorsportandevents/motorsport/formulae/",
+    "statusCode": 301
+  },
+  {
+    "source": "/r219h/ec-declaration",
+    "destination": "/content/dam/vodcom/devices/ec-declaration/r219h.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/r219z/ec-declaration",
+    "destination": "/content/dam/vodcom/devices/ec-declaration/r219z.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-al",
+    "destination": "/apps/rcsprivacy/albanian/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-cz",
+    "destination": "/apps/rcsprivacy/czech/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-de",
+    "destination": "/apps/rcsprivacy/german/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-es",
+    "destination": "/apps/rcsprivacy/spanish/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-gb",
+    "destination": "/apps/rcsprivacy/english-gb/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-gr",
+    "destination": "/apps/rcsprivacy/greek/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-hu",
+    "destination": "/apps/rcsprivacy/hungarian/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-ie",
+    "destination": "/apps/rcsprivacy/english-ie/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-it",
+    "destination": "/apps/rcsprivacy/italian/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-nl",
+    "destination": "/apps/rcsprivacy/netherlands/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-nz",
+    "destination": "/apps/rcsprivacy/english-nz/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-pt",
+    "destination": "/apps/rcsprivacy/portuguese/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-ro",
+    "destination": "/apps/rcsprivacy/romanian/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-tr",
+    "destination": "/apps/rcsprivacy/turkish/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcsprivacy-za",
+    "destination": "/apps/rcsprivacy/english-za/privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/rcstermsc-nl",
+    "destination": "/apps/rcs/netherlands/legal",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/mmh",
+    "destination": "/sustainable-business/operating-responsibly/mobiles-masts-and-health",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarte9/ec-declaration",
+    "destination": "/content/dam/vodcom/devices/smart-e9/ec-declaration-of-conformity-528.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/uk-gender-pay-gap",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/uk-gender-pay-gap",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/albania/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/dreamlab-albania",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/germany",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/germany",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/germany/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/germany",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/ghana/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/dreamlab-ghana",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/ireland/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/dreamlab-ireland",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/lesotho/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/Lesotho",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/mozambique/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/dreamlab-mozambique",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/netherlands/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/dreamlab-netherlands",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/portugal/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/dreamlab-portugal",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/southafrica/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/dreamlab-south-afrca",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/spain",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/spain",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/spain",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/spain/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/spain",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/uk",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/uk",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/tanzania/news",
+    "destination": "/vodafone-foundation/focus-areas/dreamlab-app/dreamlab-tanzania",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/vbyvodafone",
+    "destination": "https://eshop.v.vodafone.com/uk",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/connected-she-can/i-felt-like-my-career-break-wiped-clean-all-of-my-previous-achie",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/connected-she-can/more-than-half-of-young-lgbt--employees-hide-their-sexuality-or-",
+    "destination": "https://careers.vodafone.com/content/Diversity--LGBT/",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/connected-she-can/the-technology-helping-survivors-of-domestic-abuse",
+    "destination": "/vodafone-foundation/focus-areas/apps-against-abuse",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/innovation/innovation-stories/5gdig-the-winners",
+    "destination": "/news/technology/5gdig-winners-2019-supponor-ar-surgeonmate",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/innovation/innovation-stories/bright-sparks",
+    "destination": "/news/planet/bright-sparks-cycle-land-sustainable-future",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/innovation/innovation-stories/dig-it",
+    "destination": "/news/technology/vodafone-5g-dig-finalists",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/innovation/innovation-stories/innovation-unbound",
+    "destination": "/news/digital-society/innovation-unbound-winning-startups-social-issuess-tackle-social-issues",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/vodafonebusiness",
+    "destination": "/business/home?ecmp=dotcom_topnav_carousel_&src=dotcom_topnav_carousel_",
+    "statusCode": 301
+  },
+  {
+    "source": "/whatif",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if",
+    "statusCode": 301
+  },
+  {
+    "source": "/R219t/ec-declaration",
+    "destination": "/sites/default/files/2022-01/eu-uk-doc-r219t.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/europeconnected/recovery",
+    "destination": "/about-vodafone/how-we-operate/public-policy/delivering-europe’s-digital-future-today",
+    "statusCode": 301
+  },
+  {
+    "source": "/careers/undefined",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/europe-connected",
+    "destination": "/about-vodafone/how-we-operate/public-policy/europe-connected",
+    "statusCode": 301
+  },
+  {
+    "source": "/africa-connected",
+    "destination": "/about-vodafone/how-we-operate/public-policy/africa-connected",
+    "statusCode": 301
+  },
+  {
+    "source": "/africaconnected",
+    "destination": "/about-vodafone/how-we-operate/public-policy/africa-connected",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/planet/news",
+    "destination": "/news?tag=Planet",
+    "statusCode": 301
+  },
+  {
+    "source": "/R219h",
+    "destination": "https://deviceguides.vodafone.co.uk/vodafone/r219-mac-os-catalina",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/shareholders/jcr%3Acontent/agm",
+    "destination": "https://investors.vodafone.com/individual-shareholders/agm",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/shareholders/agm",
+    "destination": "https://investors.vodafone.com/individual-shareholders/agm",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/shareholders/jcr%3Acontent/Copy%20of%20agm",
+    "destination": "https://investors.vodafone.com/individual-shareholders/agm",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/contact-us",
+    "destination": "https://investors.vodafone.com/contacts",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/debt-investors/uk-shelf",
+    "destination": "https://investors.vodafone.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/debt-investors/uk-shelf/uk-shelf",
+    "destination": "https://investors.vodafone.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/debt-investors/us-shelf/us-shelf",
+    "destination": "https://investors.vodafone.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/debt-investors/us-shelf",
+    "destination": "https://investors.vodafone.com/",
+    "statusCode": 301
+  },
+  { "source": "/index", "destination": "/", "statusCode": 301 },
+  {
+    "source": "/iot/the-iot-barometer-2016",
+    "destination": "/about-vodafone/what-we-do/technology/internet-of-things",
+    "statusCode": 301
+  },
+  {
+    "source": "/404",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/k5161h",
+    "destination": "https://deviceguides.vodafone.co.uk/vodafone/k5161-mac-os-catalina/",
+    "statusCode": 301
+  },
+  {
+    "source": "/r219z",
+    "destination": "https://deviceguides.vodafone.co.uk/vodafone/r219-mac-os-catalina/",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/investors/eu-shelf.html",
+    "destination": "https://investors.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/shareholders/jcr:content/Copy%20of%20agm",
+    "destination": "https://investors.vodafone.com/individual-shareholders/agm",
+    "statusCode": 301
+  },
+  {
+    "source": "/DxIW387_cz/ec-declaration",
+    "destination": "/sites/default/files/2021-03/dxiw387_cz.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/vsb3930_es/ec-declaration",
+    "destination": "/sites/default/files/2021-03/vsb3930_es.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/thg3000_uk/conformity-declaration",
+    "destination": "/sites/default/files/2021-06/eu-uk-declaration-conformity-thg3000.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/IEGigaboxplus/conformity-declaration",
+    "destination": "/sites/default/files/2022-04/IEGigaboxplus.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/tg3442_de/ec-declaration",
+    "destination": "/sites/default/files/2021-08/tg3442-de.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/MU5001/ec-declaration",
+    "destination": "/sites/default/files/2021-10/mu5001-eu-declaration-conformity.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/HH500V/conformity-declaration",
+    "destination": "/sites/default/files/2022-01/hh500v-ukca-ce-doc.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/HG8247X6-8N/ec-declaration",
+    "destination": "/sites/default/files/2021-08/hg8247x6-8n.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/procurementcompany",
+    "destination": "/about-vodafone/how-we-operate/suppliers/vodafone-procurement-company",
+    "statusCode": 301
+  },
+  {
+    "source": "/MWC-2021",
+    "destination": "/mobile-world-congress-2021",
+    "statusCode": 301
+  },
+  {
+    "source": "/campaigns-events",
+    "destination": "/news/campaigns-events",
+    "statusCode": 301
+  },
+  {
+    "source": "/mobile-world-congress-la-2021",
+    "destination": "/news/campaigns-events/mobile-world-congress-la-2021",
+    "statusCode": 301
+  },
+  {
+    "source": "/mobile-world-congress-2021",
+    "destination": "/news/campaigns-events/mobile-world-congress-2021",
+    "statusCode": 301
+  },
+  {
+    "source": "/porsche-formula-e-racing-sponsorship",
+    "destination": "/news/campaigns-events/porsche-formula-e-racing-sponsorship",
+    "statusCode": 301
+  },
+  {
+    "source": "/globalcitizen-prize-2020",
+    "destination": "/news/campaigns-events/globalcitizen-prize-2020",
+    "statusCode": 301
+  },
+  {
+    "source": "/DxI362_al/ec-declaration",
+    "destination": "/sites/default/files/2021-10/dxl362-al.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/reporting-centre/sustainability-reporting",
+    "destination": "/about-vodafone/reporting-centre/sustainability-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/9",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/8",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/7",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/6",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/5",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/4",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/3",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/2",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/1",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/embed/0",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/womens-empowerment/gender-equality-in-our-workforce.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-equality",
+    "statusCode": 301
+  },
+  {
+    "source": "/apps/rcs/german/vodafone.de/kontakt",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/callplus/android/en_za/faqs.html",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/apps/ext/callplus/android/en_ie/faqs.html",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-insights/blog/gigabit-thinking/vodafone-automotive-and-unu-drive-the-connected-travel-of-the-future",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/business/news-and-insights/blog/gigabit-thinking/business/why-vodafone/5G-for-business",
+    "destination": "/business/why-vodafone/5G-for-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/devices/smart-n8/EC%20Declaration%20of%20Conformity.pdf",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/reporting-centre/tax-and-economic-contribution/multinationals%2C-governments-and-tax/developing-tax-regimes-digital-age",
+    "destination": "/about-vodafone/reporting-centre/tax-and-economic-contribution/multinationals%2c-governments-and-tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/business/news-and-insights/blog/gigabit-thinking/business/why-vodafone/5G-for-business",
+    "destination": "/business/why-vodafone/5G-for-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/reporting-centre/tax-and-economic-contribution/vodafone%2C-luxembourg-and-tax-havens/european-commission-illegal-state-aid-investigations",
+    "destination": "/about-vodafone/reporting-centre/tax-and-economic-contribution/vodafone%2c-luxembourg-and-tax-havens",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/vdf_files_2020/pdfs/Vodafone_Connected_Education.pdf",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-for-all/digital-skills-and-education",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/how-we-operate/suppliers/about-vodafone/how-we-operate/suppliers/supplier-ethics",
+    "destination": "/about-vodafone/how-we-operate/suppliers/supplier-ethics",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/how-we-operate/suppliers/ExternalWorkforce_Privacy_Statement",
+    "destination": "/sites/default/files/2021-11/vgsl-vssl-external-workforce-privacy-statement.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/https%3a/vodafone.com/news/corporate-and-financial/tradingupdate_31december2016",
+    "destination": "/news/corporate-and-financial/tradingupdate_31december2016",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-europe-first-commercial-open-ran-network",
+    "destination": "/news/corporate-and-financial/vodafone-europe-first-commercial-open-ran-network",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/deborah-kerr-join-board-non-executive-director",
+    "destination": "/news/corporate-and-financial/deborah-kerr-join-board-non-executive-director",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-strategic-partnership-agreement-telekom-srbija",
+    "destination": "/news/corporate-and-financial/vodafone-strategic-partnership-agreement-telekom-srbija",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/egypttransfer",
+    "destination": "/news/corporate-and-financial/egypttransfer",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/change-the-face-alliance",
+    "destination": "/news/inclusion/change-the-face-alliance",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/vodafone-group-half-year-2022-results",
+    "destination": "/news/corporate-and-financial/vodafone-group-half-year-2022-results",
+    "statusCode": 301
+  },
+  {
+    "source": "/Cyber-security",
+    "destination": "/about-vodafone/how-we-operate/consumer-privacy-and-cyber-security/cyber-security",
+    "statusCode": 301
+  },
+  {
+    "source": "/shg3060/ec-declaration",
+    "destination": "/sites/default/files/2022-04/shg3060.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability-reports",
+    "destination": "/about-vodafone/reporting-centre/sustainability-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/agriculture-digitalisation",
+    "destination": "/news/digital-society/digitalisation-future-agriculture",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodapay-launch",
+    "destination": "/news/inclusion/vodapay-launch",
+    "statusCode": 301
+  },
+  {
+    "source": "/change-the-face-alliance",
+    "destination": "/news/inclusion/change-the-face-alliance-launch",
+    "statusCode": 301
+  },
+  {
+    "source": "/renewables",
+    "destination": "/sustainable-business/our-purpose-pillars/planet/reducing-emissions-in-our-operations#purchasing-renewable-electricity",
+    "statusCode": 301
+  },
+  {
+    "source": "/self-powered-mobile-masts",
+    "destination": "/news/planet/self-powered-mobile-masts",
+    "statusCode": 301
+  },
+  {
+    "source": "/closing-the-digital-dive-through-partnership",
+    "destination": "/news/digital-society/closing-digital-divide-requires-partnership",
+    "statusCode": 301
+  },
+  {
+    "source": "/Human-Rights",
+    "destination": "/sustainable-business/operating-responsibly/human-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/ai-framework",
+    "destination": "/about-vodafone/how-we-operate/public-policy/policy-positions/artificial-intelligence-framework",
+    "statusCode": 301
+  },
+  {
+    "source": "/board-committees",
+    "destination": "/investors/group/governance/board-committees",
+    "statusCode": 301
+  },
+  {
+    "source": "/wellbeing",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-equality#wellbeing",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2022",
+    "destination": "https://investors.vodafone.com/reports-information/results-reports-presentations",
+    "statusCode": 301
+  },
+  {
+    "source": "/first-green-island",
+    "destination": "/news/digital-society/introducing-greece-first-green-island",
+    "statusCode": 301
+  },
+  {
+    "source": "/eco-rating",
+    "destination": "/news/planet/eco-rating-initiative",
+    "statusCode": 301
+  }
+]

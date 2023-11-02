@@ -1,0 +1,362 @@
+[
+  {
+    "source": "/dxi362_cz/ec-declaration",
+    "destination": "/sites/default/files/2021-01/DxI362_cz.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/DxIW387_gr/ec-declaration",
+    "destination": "/sites/default/files/2021-01/dtiw387_gr.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxIW387_gr/ec-declaration",
+    "destination": "/sites/default/files/2021-01/dtiw387_gr.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxiw387_gr/ec-declaration",
+    "destination": "/sites/default/files/2021-01/dtiw387_gr.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/DxI362_hu/ec-declaration",
+    "destination": "/sites/default/files/2021-01/DxI362_hu.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxI362_hu/ec-declaration",
+    "destination": "/sites/default/files/2021-01/DxI362_hu.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxi362_hu/ec-declaration",
+    "destination": "/sites/default/files/2021-01/DxI362_hu.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/DxI362_pt/ec-declaration",
+    "destination": "/sites/default/files/2021-01/di362_pt.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxi362_pt/ec-declaration",
+    "destination": "/sites/default/files/2021-01/di362_pt.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/DxIW387_pt/ec-declaration",
+    "destination": "/sites/default/files/2021-01/diw387_pt.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxIW387_pt/ec-declaration",
+    "destination": "/sites/default/files/2021-01/diw387_pt.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxiw387_pt/ec-declaration",
+    "destination": "/sites/default/files/2021-01/diw387_pt.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/DxI362_ro/ec-declaration",
+    "destination": "/sites/default/files/2021-01/Dxl362_ro.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxI362_ro/ec-declaration",
+    "destination": "/sites/default/files/2021-01/Dxl362_ro.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dxi362_ro/ec-declaration",
+    "destination": "/sites/default/files/2021-01/Dxl362_ro.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/dcti384_es/ec-declaration",
+    "destination": "/sites/default/files/2021-01/dcti384_es.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/devices/downloads/ec-declaration/DxI362_cz.pdf",
+    "destination": "/sites/default/files/2021-01/DxI362_cz.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/devices/vodafone-tv/dtiw387_gr.pdf",
+    "destination": "/sites/default/files/2021-01/DxI362_cz.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/devices/vodafone-tv/DxI362_hu.pdf",
+    "destination": "/sites/default/files/2021-01/DxI362_hu.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/devices/vodafone-tv/di362_pt.pdf",
+    "destination": "/sites/default/files/2021-01/di362_pt.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/devices/vodafone-tv/diw387_pt.pdf",
+    "destination": "/sites/default/files/2021-01/diw387_pt.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/devices/vodafone-tv/Dxl362_ro.pdf",
+    "destination": "/sites/default/files/2021-01/Dxl362_ro.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/devices/vodafone-tv/dcti384_es.pdf",
+    "destination": "/sites/default/files/2021-01/dcti384_es.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/default/files/2021-02/Digitalisation-An-Opportunity-for-Europe.pdf",
+    "destination": "/sites/default/files/2021-03/Digitalisation-An-Opportunity-for-Europe.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/Shareholder-centre/Manage-your-holdings/vodafone-drip-mandate2.pdf",
+    "destination": "https://investors.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/vdf_files_2020/dreamlabs/Te%CC%81rminos-y-Condiciones.pdf",
+    "destination": "/sites/default/files/2020-09/Te%CC%81rminos-y-Condiciones.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/usd-aug-46.pdf",
+    "destination": "/sites/default/files/2020-09/usd-aug-46.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/usd%20march-21-60m.pdf",
+    "destination": "/sites/default/files/2020-09/usd%20march-21-60m.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/usd-dec-45.pdf",
+    "destination": "/sites/default/files/2020-09/usd-dec-45.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-aug-23.pdf",
+    "destination": "/sites/default/files/2020-09/eur-aug-23.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/sustainability/downloads/women2017.pdf",
+    "destination": "/sites/default/files/2020-09/women2017.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/group/investors/downloads/2010_review_of_the_year_and_notice_of_agm.pdf",
+    "destination": "/sites/default/files/2020-09/2010_review_of_the_year_and_notice_of_agm.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/usd-feb-23.pdf",
+    "destination": "/sites/default/files/2020-09/usd-feb-23.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-jan-24.pdf",
+    "destination": "/sites/default/files/2020-09/eur-jan-24.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/chf-24.pdf",
+    "destination": "/sites/default/files/2020-09/chf-24.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-dec-28.pdf",
+    "destination": "/sites/default/files/2020-09/eur-dec-28.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/usd-sept-22.pdf",
+    "destination": "/sites/default/files/2020-09/usd-sept-22.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/gbp-nov-32.pdf",
+    "destination": "/sites/default/files/2020-09/gbp-nov-32.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-dec-34.pdf",
+    "destination": "/sites/default/files/2020-09/eur-dec-34.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/nexleaf.html",
+    "destination": "/news/technology/nexleaf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/5g-nsa-standard.html",
+    "destination": "/news/technology/5g-nsa-standard",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/about/vodafone-foundation.html",
+    "destination": "/vodafone-foundation/about-vodafone-foundation",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/perspectives/blog/ai-human-hands.html",
+    "destination": "/news/viewpoint/ai-human-hands",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/group/policy/downloads/A597-Vodafone-SME-digitisation-paper-final.pdf",
+    "destination": "/sites/default/files/2020-10/sme-digitalisation.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone/investors/debt_investors/usd-may18%20issuance.pdf",
+    "destination": "/sites/default/files/2020-09/usd-may18%20issuance.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/shareholder-centre/pdfs/2015-Annual-General-Meeting-Notice.pdf",
+    "destination": "/sites/default/files/2020-09/2015-Annual-General-Meeting-Notice.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/Vodafone_DRP_TCs.pdf",
+    "destination": "https://investors.vodafone.com/",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-aug-21.pdf",
+    "destination": "/sites/default/files/2020-09/eur-aug-21.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/usd-march-21.pdf",
+    "destination": "/sites/default/files/2020-09/usd-march-21.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/gbp-dec-25.pdf",
+    "destination": "/sites/default/files/2020-09/gbp-dec-25.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/gbp-600m-nov%2020-equity%20linked.pdf",
+    "destination": "/sites/default/files/2020-09/gbp-600m-nov%2020-equity%20linked.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/gbp-aug-56.pdf",
+    "destination": "/sites/default/files/2020-09/gbp-aug-56.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/gbp-nov-18.pdf",
+    "destination": "/sites/default/files/2020-09/gbp-nov-18.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-aug-26.pdf",
+    "destination": "/sites/default/files/2020-09/eur-aug-26.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/nok-nov-25.pdf",
+    "destination": "/sites/default/files/2020-09/nok-nov-25.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/2016-Annual-General-Meeting-Notice.pdf",
+    "destination": "/sites/default/files/2020-09/2016-Annual-General-Meeting-Notice.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-jan-22.pdf",
+    "destination": "/sites/default/files/2020-09/eur-jan-22.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/gbp-aug-56.pdf",
+    "destination": "/sites/default/files/2020-09/gbp-aug-56.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/gbp-aug-49.pdf",
+    "destination": "/sites/default/files/2020-09/gbp-aug-49.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/group/investors/downloads/agm14/2014-Annual-General-Meeting-Notice.pdf",
+    "destination": "/sites/default/files/2020-09/2014-Annual-General-Meeting-Notice.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-june-22.pdf",
+    "destination": "/sites/default/files/2020-09/eur-june-22.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/group/investors/downloads/2011_review_of_the_year_and_notice_of_agm.pdf",
+    "destination": "/sites/default/files/2020-09/2011_review_of_the_year_and_notice_of_agm.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/group/investors/downloads/015873_VODA_NOM_v7.pdf",
+    "destination": "/sites/default/files/2020-09/015873_VODA_NOM_v7.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-july-31.pdf",
+    "destination": "/sites/default/files/2020-09/eur-july-31.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/chf-31.pdf",
+    "destination": "/sites/default/files/2020-09/chf-31.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/group/investors/downloads/2012_review_of_the_year_and_notice_of_agm.pdf",
+    "destination": "/sites/default/files/2020-09/2012_review_of_the_year_and_notice_of_agm.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/suppliers/device-requirements-compliance-framework.pdf",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices/device-requirements-and-compliance-framework",
+    "statusCode": 301
+  },
+  {
+    "source": "/vdf4960/ec-declaration",
+    "destination": "/sites/default/files/2021-05/vdf4960.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/vdf4960/opensource",
+    "destination": "/sites/default/files/2021-05/vdf4960-opensource.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/cga6444vf/ec-declaration",
+    "destination": "/sites/default/files/2021-07/EU_DECLARATION_OF_CONFORMITY_Vodafone_v2.0_TCH-CGA6444VF_15Mar2021.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/sites/default/files/2021-02/digitalisation-an-opportunity-for-europe.pdf",
+    "destination": "/sites/default/files/2021-03/Digitalisation-An-Opportunity-for-Europe.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/cga6444vfes/ec-declaration",
+    "destination": "/sites/default/files/2022-04/cga6444vfes.pdf",
+    "statusCode": 301
+  }
+]

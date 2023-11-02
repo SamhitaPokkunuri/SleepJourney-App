@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Division_Line_11"
+   width="1920"
+   height="90"
+   viewBox="0 0 1920 90"
+   version="1.1"
+   sodipodi:docname="pattern-11.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata9005">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1395"
+     id="namedview9003"
+     showgrid="false"
+     inkscape:zoom="0.80728024"
+     inkscape:cx="960"
+     inkscape:cy="51"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Division_Line_11" />
+  <defs
+     id="defs8920">
+    <clipPath
+       id="clip-path">
+      <path
+         id="Rectangle_1095"
+         fill="#ffffff"
+         stroke="#707070"
+         d="M 0,0 H 1920 V 102 H 0 Z"
+         opacity="0.839"
+         transform="translate(0,3869)" />
+    </clipPath>
+    <clipPath
+       id="clip-path-2">
+      <path
+         d="M 0,0 H 1937.689 V 10.594 H 0 Z"
+         class="cls-2"
+         id="path8909" />
+    </clipPath>
+    <clipPath
+       id="clip-path-3">
+      <path
+         d="M 0,0 H 2084.689 V 9.047 H 0 Z"
+         class="cls-2"
+         id="path8912" />
+    </clipPath>
+    <clipPath
+       id="clip-path-4">
+      <path
+         d="M 0,0 H 2110 V 7.223 H 0 Z"
+         class="cls-2"
+         id="path8915" />
+    </clipPath>
+    <style
+       id="style8918">
+            .cls-2{fill:none}.cls-6{fill:#e60000}.cls-8{fill:#ef6565}.cls-10{fill:#f49898}
+        </style>
+  </defs>
+  <g
+     id="Mask_Group_144"
+     clip-path="url(#clip-path)"
+     transform="translate(0,-3870.497)">
+    <path
+       id="Line_186"
+       fill="none"
+       stroke="#e60000"
+       stroke-miterlimit="10"
+       stroke-width="10px"
+       d="M 0,0 H 1920"
+       transform="translate(0.5,3875.497)" />
+    <g
+       id="Repeat_Grid_13"
+       clip-path="url(#clip-path-2)"
+       transform="translate(15,3897.497)">
+      <g
+         transform="translate(-15,-3897.497)"
+         id="g8924">
+        <path
+           id="Path_14375"
+           d="m 1144.008,1812.244 a 3.951,3.951 0 0 0 -3.951,-3.951 l -349.514,3.951 349.769,3.951 v -0.026 a 3.941,3.941 0 0 0 3.696,-3.925 z"
+           class="cls-6"
+           transform="translate(-775.543,2089.204)" />
+      </g>
+      <g
+         transform="translate(339,-3897.497)"
+         id="g8927">
+        <path
+           id="Path_14375-2"
+           d="m 1144.008,1812.244 a 3.951,3.951 0 0 0 -3.951,-3.951 l -349.514,3.951 349.769,3.951 v -0.026 a 3.941,3.941 0 0 0 3.696,-3.925 z"
+           class="cls-6"
+           transform="translate(-775.543,2089.204)" />
+      </g>
+      <g
+         transform="translate(693,-3897.497)"
+         id="g8930">
+        <path
+           id="Path_14375-3"
+           d="m 1144.008,1812.244 a 3.951,3.951 0 0 0 -3.951,-3.951 l -349.514,3.951 349.769,3.951 v -0.026 a 3.941,3.941 0 0 0 3.696,-3.925 z"
+           class="cls-6"
+           transform="translate(-775.543,2089.204)" />
+      </g>
+      <g
+         transform="translate(1047,-3897.497)"
+         id="g8933">
+        <path
+           id="Path_14375-4"
+           d="m 1144.008,1812.244 a 3.951,3.951 0 0 0 -3.951,-3.951 l -349.514,3.951 349.769,3.951 v -0.026 a 3.941,3.941 0 0 0 3.696,-3.925 z"
+           class="cls-6"
+           transform="translate(-775.543,2089.204)" />
+      </g>
+      <g
+         transform="translate(1401,-3897.497)"
+         id="g8936">
+        <path
+           id="Path_14375-5"
+           d="m 1144.008,1812.244 a 3.951,3.951 0 0 0 -3.951,-3.951 l -349.514,3.951 349.769,3.951 v -0.026 a 3.941,3.941 0 0 0 3.696,-3.925 z"
+           class="cls-6"
+           transform="translate(-775.543,2089.204)" />
+      </g>
+      <g
+         transform="translate(1755,-3897.497)"
+         id="g8939">
+        <path
+           id="Path_14375-6"
+           d="m 1144.008,1812.244 a 3.951,3.951 0 0 0 -3.951,-3.951 l -349.514,3.951 349.769,3.951 v -0.026 a 3.941,3.941 0 0 0 3.696,-3.925 z"
+           class="cls-6"
+           transform="translate(-775.543,2089.204)" />
+      </g>
+    </g>
+    <g
+       id="Repeat_Grid_14"
+       clip-path="url(#clip-path-3)"
+       transform="translate(-132,3922.886)">
+      <g
+         transform="translate(-282,-3922.886)"
+         id="g8943">
+        <path
+           id="Path_14376"
+           d="m 1101.614,1811.77 a 3.477,3.477 0 0 0 -3.477,-3.477 l -307.594,3.477 307.819,3.477 v -0.023 a 3.468,3.468 0 0 0 3.252,-3.454 z"
+           class="cls-8"
+           transform="translate(-444.543,2114.593)" />
+      </g>
+      <g
+         transform="translate(30,-3922.886)"
+         id="g8946">
+        <path
+           id="Path_14376-2"
+           d="m 1101.614,1811.77 a 3.477,3.477 0 0 0 -3.477,-3.477 l -307.594,3.477 307.819,3.477 v -0.023 a 3.468,3.468 0 0 0 3.252,-3.454 z"
+           class="cls-8"
+           transform="translate(-444.543,2114.593)" />
+      </g>
+      <g
+         transform="translate(342,-3922.886)"
+         id="g8949">
+        <path
+           id="Path_14376-3"
+           d="m 1101.614,1811.77 a 3.477,3.477 0 0 0 -3.477,-3.477 l -307.594,3.477 307.819,3.477 v -0.023 a 3.468,3.468 0 0 0 3.252,-3.454 z"
+           class="cls-8"
+           transform="translate(-444.543,2114.593)" />
+      </g>
+      <g
+         transform="translate(654,-3922.886)"
+         id="g8952">
+        <path
+           id="Path_14376-4"
+           d="m 1101.614,1811.77 a 3.477,3.477 0 0 0 -3.477,-3.477 l -307.594,3.477 307.819,3.477 v -0.023 a 3.468,3.468 0 0 0 3.252,-3.454 z"
+           class="cls-8"
+           transform="translate(-444.543,2114.593)" />
+      </g>
+      <g
+         transform="translate(966,-3922.886)"
+         id="g8955">
+        <path
+           id="Path_14376-5"
+           d="m 1101.614,1811.77 a 3.477,3.477 0 0 0 -3.477,-3.477 l -307.594,3.477 307.819,3.477 v -0.023 a 3.468,3.468 0 0 0 3.252,-3.454 z"
+           class="cls-8"
+           transform="translate(-444.543,2114.593)" />
+      </g>
+      <g
+         transform="translate(1278,-3922.886)"
+         id="g8958">
+        <path
+           id="Path_14376-6"
+           d="m 1101.614,1811.77 a 3.477,3.477 0 0 0 -3.477,-3.477 l -307.594,3.477 307.819,3.477 v -0.023 a 3.468,3.468 0 0 0 3.252,-3.454 z"
+           class="cls-8"
+           transform="translate(-444.543,2114.593)" />
+      </g>
+      <g
+         transform="translate(1590,-3922.886)"
+         id="g8961">
+        <path
+           id="Path_14376-7"
+           d="m 1101.614,1811.77 a 3.477,3.477 0 0 0 -3.477,-3.477 l -307.594,3.477 307.819,3.477 v -0.023 a 3.468,3.468 0 0 0 3.252,-3.454 z"
+           class="cls-8"
+           transform="translate(-444.543,2114.593)" />
+      </g>
+    </g>
+    <g
+       id="Repeat_Grid_15"
+       clip-path="url(#clip-path-4)"
+       transform="translate(-151,3953.933)">
+      <g
+         transform="translate(-15,-3953.933)"
+         id="g8965">
+        <path
+           id="Path_14377"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(171,-3953.933)"
+         id="g8968">
+        <path
+           id="Path_14377-2"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(357,-3953.933)"
+         id="g8971">
+        <path
+           id="Path_14377-3"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(543,-3953.933)"
+         id="g8974">
+        <path
+           id="Path_14377-4"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(729,-3953.933)"
+         id="g8977">
+        <path
+           id="Path_14377-5"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(915,-3953.933)"
+         id="g8980">
+        <path
+           id="Path_14377-6"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(1101,-3953.933)"
+         id="g8983">
+        <path
+           id="Path_14377-7"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(1287,-3953.933)"
+         id="g8986">
+        <path
+           id="Path_14377-8"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(1473,-3953.933)"
+         id="g8989">
+        <path
+           id="Path_14377-9"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(1659,-3953.933)"
+         id="g8992">
+        <path
+           id="Path_14377-10"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(1845,-3953.933)"
+         id="g8995">
+        <path
+           id="Path_14377-11"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+      <g
+         transform="translate(2031,-3953.933)"
+         id="g8998">
+        <path
+           id="Path_14377-12"
+           d="m 976.488,1810.371 a 2.078,2.078 0 0 0 -2.078,-2.078 l -183.867,2.078 184,2.078 v -0.013 a 2.073,2.073 0 0 0 1.945,-2.065 z"
+           class="cls-10"
+           transform="translate(-775.543,2145.64)" />
+      </g>
+    </g>
+  </g>
+</svg>

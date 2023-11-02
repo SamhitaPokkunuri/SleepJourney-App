@@ -1,0 +1,14 @@
+.sb-show-main.sb-main-centered #root {
+  justify-content: center;
+  width: 100%;
+  display: flex;
+  padding: 60px;
+}
+
+.sb-show-main.sb-main-padded {
+  padding: 60px;
+}
+
+.docs-story {
+  transform: scale(1);
+}

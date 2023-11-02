@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86.3" height="144.951" viewBox="0 0 86.3 144.951">
+    <defs>
+        <style>
+            .cls-3{fill:none;stroke-width:3px;stroke:#333;stroke-linecap:round}
+            .cls-1{stroke-linejoin:round; fill:none;stroke-width:3px;stroke:#333;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="JUSTTEXT_GIVING_INFOGRAPHIC" transform="translate(1.549 1.5)">
+        <g id="Group_1806">
+            <g id="Group_1805">
+                <path id="Path_7946" d="M5463.435 226.623h29.932c10.585 0 10.024 8.42 10.024 8.42v17.9a4.015 4.015 0 0 1 1.146 1.585s.2 7.778.135 8.627a3.515 3.515 0 0 1-.741 1.661s.1 73.849 0 89.1c-.091 13.667-12.346 14.2-16.841 14.022-14.324-.556-20.29.111-20.29.111l-1.372.114c-10.248.127-18.629-.848-26.174-.848-19.907 0-17.75-14.909-17.75-14.909V235.7c0-9.177 10.806-9.077 10.806-9.077h30.406s-.847 5.847 1.175 5.979 13.305-1.454 2.079-1.3-14.884.483-8.529.887 7.013-.5 6.953 1.108a16.493 16.493 0 0 1-1.334 4.428s32.581-.538 33.738 1.568 3 97.35 3 97.6.018 13.732-.911 14.77-69.43-1.362-69.43-1.362-2.739-.449-3.36-9.493-1-50.378-.9-56.57.88-43.291.88-43.291-.433-1.363 1.566-1.653 35.844-1.62 35.844-1.62" stroke='#333' stroke-width='3px'  fill='none' stroke-linecap='round' stroke-linejoin='round' transform="translate(-5421.436 -226.623)"/>
+            </g>
+        </g>
+        <g id="Group_2730" transform="translate(18.534 33.607)">
+            <path id="Path_9462" fill="none" stroke="#e60000" stroke-linejoin="round" stroke-width="3px" d="M32.665 8.424c2.166 13.42-15.781 20.066-16.423 19.852C7.777 25.51-6.088 6.676 2.94 1.953S16.242 4.7 16.242 4.7 29-8.037 32.665 8.424z" transform="rotate(20 9.584 54.356)"/>
+            <path id="Path_9463" d="M-3348.517-20065.078c-2.1 1.479-4.97 7.664-5.784 9.076a20.328 20.328 0 0 1-3.037 3.449" stroke='#333' stroke-width='3px'  fill='none' stroke-linecap='round' transform="translate(3357.338 20093.932)"/>
+            <path id="Path_9465" d="M-3348.517-20065.078c-2.1 1.479-4.97 7.664-5.784 9.076a20.328 20.328 0 0 1-3.037 3.449" stroke='#333' stroke-width='3px'  fill='none' stroke-linecap='round' transform="translate(3385.125 20104.352)"/>
+            <path id="Path_9464" d="M-3340.405-20053.006a68.312 68.312 0 0 0-6.392 8.482c-2.539 4.18-4.822 6.125-5.38 6.086" stroke='#333' stroke-width='3px'  fill='none' stroke-linecap='round' transform="translate(3358.152 20095.84)"/>
+        </g>
+    </g>
+</svg>

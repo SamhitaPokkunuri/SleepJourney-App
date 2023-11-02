@@ -1,0 +1,493 @@
+{
+  "clientId": "bdbe08df-a492-463b-a531-217211a8fc67",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "attributes": {
+    "customColors": {
+      "text": "",
+      "background": ""
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Stone Grey",
+        "color": "#4a4d4e"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "paddingTop": true,
+    "paddingBottom": true,
+    "fullWidth": false,
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    }
+  },
+  "innerBlocks": [
+    {
+      "clientId": "a0d27b82-214b-4ab0-84cc-8a7d48a0bb3e",
+      "name": "core/group",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        },
+        "className": "vdf-large-number-statement"
+      },
+      "innerBlocks": [
+        {
+          "clientId": "23742512-0191-4341-985d-7b79fead4ac7",
+          "name": "core/heading",
+          "isValid": true,
+          "attributes": {
+            "customColors": {
+              "text": "",
+              "background": ""
+            },
+            "displayTextColor": true,
+            "displayBackgroundColor": false,
+            "textColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Dark Grey",
+                "color": "#333333"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "backgroundColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Shade Grey",
+                "color": "#F4F4F4"
+              },
+              {
+                "name": "Stone Grey",
+                "color": "#4a4d4e"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "content": "Women only hold",
+            "level": 3,
+            "widthControlExt": {
+              "outerWidth": 12
+            },
+            "vdfblocks": {
+              "custom": true
+            },
+            "align": "center"
+          },
+          "innerBlocks": []
+        },
+        {
+          "clientId": "94be6d3c-7d72-40d2-bb61-7eceed520c3d",
+          "name": "vdfblocks/large-number",
+          "isValid": true,
+          "attributes": {
+            "customColors": {
+              "text": "#E20613",
+              "background": ""
+            },
+            "displayTextColor": true,
+            "displayBackgroundColor": false,
+            "textColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Dark Grey",
+                "color": "#333333"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "backgroundColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Shade Grey",
+                "color": "#F4F4F4"
+              },
+              {
+                "name": "Stone Grey",
+                "color": "#4a4d4e"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "value": "14%",
+            "align": "center",
+            "numberSize": 100,
+            "vdfblocks": {
+              "custom": true
+            },
+            "className": "vdf-text-vodafonered"
+          },
+          "innerBlocks": []
+        },
+        {
+          "clientId": "6808ca1e-9d81-464f-89c9-03dd2134d6eb",
+          "name": "core/heading",
+          "isValid": true,
+          "attributes": {
+            "customColors": {
+              "text": "",
+              "background": ""
+            },
+            "displayTextColor": true,
+            "displayBackgroundColor": false,
+            "textColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Dark Grey",
+                "color": "#333333"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "backgroundColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Shade Grey",
+                "color": "#F4F4F4"
+              },
+              {
+                "name": "Stone Grey",
+                "color": "#4a4d4e"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "content": "of senior positions in Europe’s 600 largest companies",
+            "level": 3,
+            "widthControlExt": {
+              "outerWidth": 12
+            },
+            "vdfblocks": {
+              "custom": true
+            },
+            "align": "center"
+          },
+          "innerBlocks": []
+        }
+      ]
+    },
+    {
+      "clientId": "a0d27b82-214b-4ab0-84cc-8a7d48a0bb3e",
+      "name": "core/group",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        },
+        "className": "vdf-large-number-statement"
+      },
+      "innerBlocks": [
+        {
+          "clientId": "94be6d3c-7d72-40d2-bb61-7eceed520c3d",
+          "name": "vdfblocks/large-number",
+          "isValid": true,
+          "attributes": {
+            "customColors": {
+              "text": "#E20613",
+              "background": ""
+            },
+            "displayTextColor": true,
+            "displayBackgroundColor": false,
+            "textColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Dark Grey",
+                "color": "#333333"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "backgroundColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Shade Grey",
+                "color": "#F4F4F4"
+              },
+              {
+                "name": "Stone Grey",
+                "color": "#4a4d4e"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "value": "14%",
+            "align": "center",
+            "numberSize": 100,
+            "vdfblocks": {
+              "custom": true
+            },
+            "className": "vdf-text-vodafonered"
+          },
+          "innerBlocks": []
+        },
+        {
+          "clientId": "6808ca1e-9d81-464f-89c9-03dd2134d6eb",
+          "name": "core/heading",
+          "isValid": true,
+          "attributes": {
+            "customColors": {
+              "text": "",
+              "background": ""
+            },
+            "displayTextColor": true,
+            "displayBackgroundColor": false,
+            "textColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Dark Grey",
+                "color": "#333333"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "backgroundColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Shade Grey",
+                "color": "#F4F4F4"
+              },
+              {
+                "name": "Stone Grey",
+                "color": "#4a4d4e"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "content": "of senior positions in Europe’s 600 largest companies",
+            "level": 3,
+            "widthControlExt": {
+              "outerWidth": 12
+            },
+            "vdfblocks": {
+              "custom": true
+            },
+            "align": "center"
+          },
+          "innerBlocks": []
+        }
+      ]
+    },
+    {
+      "clientId": "a0d27b82-214b-4ab0-84cc-8a7d48a0bb3e",
+      "name": "core/group",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        },
+        "className": "vdf-large-number-statement"
+      },
+      "innerBlocks": [
+        {
+          "clientId": "23742512-0191-4341-985d-7b79fead4ac7",
+          "name": "core/heading",
+          "isValid": true,
+          "attributes": {
+            "customColors": {
+              "text": "",
+              "background": ""
+            },
+            "displayTextColor": true,
+            "displayBackgroundColor": false,
+            "textColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Dark Grey",
+                "color": "#333333"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "backgroundColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Shade Grey",
+                "color": "#F4F4F4"
+              },
+              {
+                "name": "Stone Grey",
+                "color": "#4a4d4e"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "content": "Women only hold",
+            "level": 3,
+            "widthControlExt": {
+              "outerWidth": 12
+            },
+            "vdfblocks": {
+              "custom": true
+            },
+            "align": "center"
+          },
+          "innerBlocks": []
+        },
+        {
+          "clientId": "94be6d3c-7d72-40d2-bb61-7eceed520c3d",
+          "name": "vdfblocks/large-number",
+          "isValid": true,
+          "attributes": {
+            "customColors": {
+              "text": "#E20613",
+              "background": ""
+            },
+            "displayTextColor": true,
+            "displayBackgroundColor": false,
+            "textColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Dark Grey",
+                "color": "#333333"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "backgroundColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Shade Grey",
+                "color": "#F4F4F4"
+              },
+              {
+                "name": "Stone Grey",
+                "color": "#4a4d4e"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "value": "14%",
+            "align": "center",
+            "numberSize": 100,
+            "vdfblocks": {
+              "custom": true
+            },
+            "className": "vdf-text-vodafonered"
+          },
+          "innerBlocks": []
+        }
+      ]
+    }
+  ]
+}

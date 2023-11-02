@@ -1,0 +1,33 @@
+version: 1.0.0
+events:
+  build:
+    steps:
+      - install-yarn:
+          script:
+            - echo 'Start installing Yarn and set the Node.js version'
+            - nvm install v14.17.3
+            - nvm use 14.17.3
+            - curl -o- -L https://yarnpkg.com/install.sh | bash
+            - export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+            - echo 'Finished installing Yarn and setting Node.js'
+      - install-dependencies:
+          script:
+            - echo 'Install dependencies'
+            - yarn install
+            - echo 'Finished installing dependencies'
+      - nextjs-build:
+          script:
+            - echo 'Run NextJS build'
+            - yarn build
+            - echo 'Finished NextJS build'
+            - node scripts/sitemap.js
+            - echo 'Sitemap generated'
+      - upload-artifact:
+          script:
+            - PIPELINE_VCS_PATH=artifact PIPELINE_GIT_HEAD_REF=$SOURCE_VCS_PATH pipelines-artifact start
+            - pipelines-artifact upload $SOURCE_DIR
+  fail-on-build:
+    steps:
+      - fail:
+          script:
+            - pipelines-artifact fail

@@ -1,0 +1,2330 @@
+[
+  {
+    "source": "/575",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/annual_report",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/annual_report15",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2012",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2012/conversation",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2013",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2014",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2015",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2016",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2017",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2019",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/ar2018",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/connectedwomen",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/connectultra6z",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/connectusbspeed6",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about.html",
+    "destination": "/about-vodafone",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/board.html",
+    "destination": "/about-vodafone/who-we-are/leadership/board-of-directors",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/exco.html",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/mmh.html",
+    "destination": "/sustainable-business/operating-responsibly/mobiles-masts-and-health",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/mmh/health-the-science-and-evidence.html",
+    "destination": "/sustainable-business/operating-responsibly/mobiles-masts-and-health/health-the-science-and-evidence",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/mmh/how-the-technology-works.html",
+    "destination": "/sustainable-business/operating-responsibly/mobiles-masts-and-health/how-the-technology-works",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/mmh/independent-scientific-research.html",
+    "destination": "/sustainable-business/operating-responsibly/mobiles-masts-and-health/independent-research",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/mmh/independent-scientific-research.html#independentreports",
+    "destination": "/sustainable-business/operating-responsibly/mobiles-masts-and-health/independent-research/independent-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/mmh/our-commitments-and-goals.html",
+    "destination": "/sustainable-business/operating-responsibly/mobiles-masts-and-health/our-commitments-and-goals",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/policy/news.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/suppliers/supplier-ethics.html",
+    "destination": "/about-vodafone/how-we-operate/suppliers/supplier-ethics",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/careers/opportunities_at_vodafone.html",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/careers/opportunities_at_vodafone",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/careers/technologygraduate",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/careers/vssindia",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/careers.html",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/careers/diversity.html",
+    "destination": "https://careers.vodafone.com/be-yourself-and-belong",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/content/index/careers/our-global-locations.html",
+    "destination": "https://careers.vodafone.com/our-locations",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/careers/professionals-at-vodafone.html",
+    "destination": "https://careers.vodafone.com/professionals",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/investors.html",
+    "destination": "https://investors.vodafone.com/investor-relations",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/investors/contact_us.html",
+    "destination": "https://investors.vodafone.com/investors-analysts/contact-us",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/investors/debt_investors.html",
+    "destination": "https://investors.vodafone.com/debt-investors/overview",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/investors/investor_information.html",
+    "destination": "https://investors.vodafone.com/investor-relations",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/investors/shareholders.html",
+    "destination": "https://investors.vodafone.com/retail-shareholders/overview",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/media-contacts.html",
+    "destination": "/news/contact-us",
+    "statusCode": 301
+  },
+  {
+    "source": "/media",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2015/global-maternity-policy.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2014/vodafone-acquisition-ono.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/misc/error.html",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/misc/error.html",
+    "destination": "/500",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/misc/privacy-policy.html",
+    "destination": "/cookie-policies",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/securenet/privacy-policy/group.html",
+    "destination": "/securenet/privacy-policy",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what.html",
+    "destination": "/about-vodafone/what-we-do",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/connected-she-can.html",
+    "destination": "/what-we-do/technology/connected-she-can",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/innovation.html",
+    "destination": "/about-vodafone/what-we-do/innovation",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/m-pesa.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/m-pesa",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/m-pesa/m-pesa-faqs.html",
+    "destination": "/what-we-do/services/m-pesa/m-pesa-faqs",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/m-pesa/faqs",
+    "destination": "/what-we-do/services/m-pesa/m-pesa-faqs",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/partner-markets.html",
+    "destination": "/about-vodafone/where-we-operate/partner-markets",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/play-faster.html",
+    "destination": "/what-we-do/technology/playfaster",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/roaming.html",
+    "destination": "/about-vodafone/where-we-operate/roaming-services",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/vodafone-shared-services.html",
+    "destination": "/careers/professional-career-areas/shared-services",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/parents",
+    "destination": "/sustainable-business/operating-responsibly/child-rights-and-online-safety",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/parents.html",
+    "destination": "/sustainable-business/operating-responsibly/child-rights-and-online-safety",
+    "statusCode": 301
+  },
+  {
+    "source": "/parents",
+    "destination": "/sustainable-business/operating-responsibly/child-rights-and-online-safety",
+    "statusCode": 301
+  },
+  {
+    "source": "/parents/tools",
+    "destination": "/sustainable-business/operating-responsibly/child-rights-and-online-safety",
+    "statusCode": 301
+  },
+  {
+    "source": "/digitalparenting",
+    "destination": "https://www.vodafone.co.uk/digitalparenting",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smart4",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smart4fun",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smart4max",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smart4mini",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smart4power",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smart4turbo",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartfirst",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartfirst7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartmini7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartplatinum7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartprime6",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartprime7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartspeed6",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smarttab3g",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smarttab4",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smarttab4g",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartultra6",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/smartultra7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/tabmini7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/tabprime",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/tabprime6",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices/tabspeed",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/k4203-z",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/k4607-z",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/mobileworldcongress",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/policy",
+    "destination": "/about-vodafone/how-we-operate/public-policy",
+    "statusCode": 301
+  },
+  {
+    "source": "/powertoyou",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/r207-z",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/r209-z",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/r216-z",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart2",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart3",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart4",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart4g",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart4max",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart4mini",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart4power",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smart4turbo",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartchat",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarte8",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarte8",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartfirst",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartfirst7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartmini",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartmini7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartmini7dual",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartn8",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartplatinum7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartprime",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartprime7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartspeed6",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttab",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttab2",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttab2-10",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttab2-7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttab3",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttab4",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttab4g",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttabn8",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartturbo7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartturbo7dual",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartultra",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartultra7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartv8",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/assurance",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/connectedfarming",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/connectedworker",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/sustainability/environmental-footprint",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/lawenforcement",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/lawenforcement",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/report",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/report2013",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/report2014",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/report2015",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/report2016",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/report2017",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/supply-chain",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/transformational-solutions",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainablebusiness",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/tabmini7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/tabprime",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/tabprime6",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/tabprime7",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafone351",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafone353",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafone354",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafone355",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafone555blue",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafone575",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafonechat",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/media_relations/news/group_press_releases/2007/vodafone_to_offer0.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/media_relations/news/group_press_releases/2007/vodafone_to_offer0",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/media_relations/news/group_press_releases/2009/vodafone_and_htc_unveil.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/media_relations/news/group_press_releases/2009/vodafone_and_htc_unveil",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/media_relations/news/group_press_releases/2009/360.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/media_relations/news/group_press_releases/2009/360",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/media_relations/news/local_press_releases/italy/italy_press_release/vodafone_italia_launches1.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/start/media_relations/news/local_press_releases/italy/italy_press_release/vodafone_italia_launches1",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartfamily",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/privacy",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/report-issue-by-issue",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/digitalrights",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/annualreport/annual_report08/downloads/vodafone_ar_business.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/annualreport/annual_report13/downloads/strategy.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index/phones.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index/smarte8.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index/smartn8.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index/smarttabn8.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index/smartv8.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index/tablets.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/publicpolicyseries",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarta9",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartc9/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartc9",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartn9",
+    "destination": "/what-we-do/devices/smart-n9",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartn9lite",
+    "destination": "/what-we-do/devices/smart-n9-lite",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartn",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/support",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/tabspeed",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vsosband",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/devices/vsosband.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/devices/support.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-business-report-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-emerging-consumer-report-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-europe-consumer-report-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-financials-spreadsheet-2019.xlsx",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-financial-statements-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-full-annual-report-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-governance-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-improving-asset-utilisation-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-kpis-report-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-strategic-report-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/downloads/vodafone-transforming-our-operating-model-2019.pdf",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/digital-rights.html",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability.html",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/law_enforcement/country_by_country.html",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/law_enforcement.html",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/sustainabilityreport/2014/index/operating_responsibly/privacy_and_security/law_enforcement.html",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/operating-responsibly/digital-rights-and-freedoms.html",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/research-and-reports.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/sustainablebusiness2016.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/sustainablebusiness2017.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/sustainability/downloads/sustainablebusinessstrategy2017.pdf",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/sustainabilityreport/2014.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/sustainabilityreport/2014",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/sustainabilityreport/2015.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/sustainabilityreport/2015",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/digitalrights",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/drf",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/energy",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sbreport2018",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+
+  {
+    "source": "/sbreporting",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainability/lawenforcement2014",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/sustainabilityreport/2015/index/operating-responsibly/privacy-and-security/law-enforcement.html",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainablebusiness2018",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/sustainablebusiness2019",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/women",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/youthskills",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/20f",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/flash/futures",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/flash/futures",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/flash/futures/index.jsp",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/flash/futures/index.jsp\\?action=hasFlash&lang=0&displayMode=normal&bandwidth=hi",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/flash/future/application/index.html",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/flash/future/application/index",
+    "destination": "https://careers.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/investors/investor_information/annual_report.html",
+    "destination": "https://investors.vodafone.com/investors-analysts/annual-reports",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/devices-index/phones.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/devices",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartfamily",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafonechat",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/ad1018_es/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/bra14nr_es/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/bts3205b/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/easybox904_lte/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/easybox904_xdsl/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/hg253s_es/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/hg568c_ie/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/r226-z/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartturbo7/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartultra7/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartprime7/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/k4203/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/r209-zr/ec-declaration",
+    "destination": "/content/dam/vodcom/devices/r209-zr/ec-r209zr.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarte8/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartmini7/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartn8/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartplatinum7/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smarttabn8/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartv8/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/tabmini7/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/tabprime7/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/tabspeed6/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/gigatv_4k_stb/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartfirst7/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartx9/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartn9lite/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartn9/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartne9-527/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartne9-528/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/smartne9-529/ec-declaration",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/sustainabilityreport/2015/index/operating-responsibly/privacy-and-security.html",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/sustainability/downloads/Vodafone_Group_CR_Dialogue_pages.pdf",
+    "destination": "/content/dam/vodcom/sustainability/pdfs/Vodafone_Group_CR_Dialogue_pages.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/sustainability/downloads/vodafone_law_enforcement_disclosure_report_2015-4.pdf",
+    "destination": "/content/dam/vodcom/sustainability/pdfs/vodafone_law_enforcement_disclosure_report_2015-4.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/sustainability/downloads/VodafoneGroupFAQsonPrivacyandSecurity_December2017.pdf",
+    "destination": "/content/dam/vodcom/sustainability/pdfs/VodafoneGroupFAQsonPrivacyandSecurity_December2017.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/energy-innovation/energy-innovation-in-our-operations.html",
+    "destination": "/sustainable-business/our-purpose-pillars/planet/reducing-emissions-in-our-operations",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/energy-innovation/helping-our-customers-to-reduce-their-emissions.html",
+    "destination": "/sustainable-business/our-purpose-pillars/planet/helping-society-to-decarbonise",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/operating-responsibly/human-rights/digital-rights-and-freedoms.html",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/operating-responsibly/supply-chain-integrity",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/operating-responsibly/supply-chain-integrity/our-supply-chain.html",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain/how-we-manage-our-supply-chain",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/approach-and-reporting/reporting-centre.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/index.html",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/energy-innovation",
+    "destination": "/sustainable-business/our-purpose-pillars/planet",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/energy-innovation/index.html",
+    "destination": "/sustainable-business/our-purpose-pillars/planet",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/energy-innovation",
+    "destination": "/sustainable-business/our-purpose-pillars/planet",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/approach-and-reporting.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/approach-and-reporting",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/approach-and-reporting",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/approach-and-reporting/reporting-centre.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/approach-and-reporting/index.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/approach-and-reporting/sustainable-business-report-highlights.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/approach-and-reporting/sustainable-business-report-highlights.html",
+    "destination": "/about-vodafone/reporting-centre",
+    "statusCode": 301
+  },
+  {
+    "source": "/hhg2500_ie/ec-declaration",
+    "destination": "/content/dam/vodcom/devices/ec-declaration/shg3000_it.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/shg3000_ie/ec-declaration",
+    "destination": "/content/dam/vodcom/devices/ec-declaration/shg3000_it.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/operating-responsibly",
+    "destination": "/sustainable-business/operating-responsibly",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety",
+    "destination": "/sustainable-business/operating-responsibly/child-rights-and-online-safety",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/parents-and-carers",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/schools",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/young-people",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/tools-and-controls",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/blogs/screen-time",
+    "destination": "/our-purpose/operating-responsibly/child-online-safety/blogs/screen-time",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/blogs/bullying",
+    "destination": "/our-purpose/operating-responsibly/child-online-safety/blogs/bullying",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/parents-and-carers/decoding-code",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/current-challenges",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/current-challenges/what-children-see-online",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/current-challenges/who-children-meet-online",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/current-challenges/how-children-behave-online",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/blogs/saferinternetday-2017",
+    "destination": "/our-purpose/operating-responsibly/child-online-safety/blogs/saferinternetday-2017",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/blogs/be-strong-online-emojis",
+    "destination": "/our-purpose/operating-responsibly/child-online-safety/blogs/be-strong-online-emojis",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/blogs/stand-up-to-bullying",
+    "destination": "/our-purpose/operating-responsibly/child-online-safety/blogs/stand-up-to-bullying",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/parents-and-carers/family-views",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/parents-and-carers/family-views/marco-erica-chiara",
+    "destination": "/our-purpose/operating-responsibly/child-online-safety/parents-and-carers/family-views/marco-erica-chiara",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/parents-and-carers/family-views/markus_and_max",
+    "destination": "/news/products/markus_and_max",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/child-online-safety/parents-and-carers/family-views/danielle-eva-avery",
+    "destination": "/news/public-policy/danielle-eva-avery",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/human-rights/digital-rights-and-freedoms",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/operating-responsibly/human-rights/digital-rights-and-freedoms.html",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/our-commitment-to-workplace-safety/key-safety-risks",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-safety/managing-key-safety-risks",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/operating-responsibly/safety/managing-key-safety-risks.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-safety/managing-key-safety-risks",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/our-commitment-to-workplace-safety/safety-data",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-safety/safety-data",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/operating-responsibly/safety/our-safety-data.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-safety/safety-data",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/supply-chain-integrity",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/operating-responsibly/supply-chain-integrity",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/supply-chain-integrity/supply-chain",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain/how-we-manage-our-supply-chain",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/operating-responsibly/supply-chain-integrity/our-supply-chain.html",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain/how-we-manage-our-supply-chain",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/supply-chain-integrity/addressing-supply-chain-risks",
+    "destination": "/our-purpose/operating-responsibly/supply-chain-integrity/addressing-supply-chain-risks",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/operating-responsibly/supply-chain-integrity/addressing-supply-chain-risks.html",
+    "destination": "/our-purpose/operating-responsibly/supply-chain-integrity/addressing-supply-chain-risks",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/supply-chain-integrity/building-supplier-capability",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain/engaging-with-our-suppliers",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability/operating-responsibly/supply-chain-integrity/building-supplier-capability.html",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain/engaging-with-our-suppliers",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/all-devices",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/smart-n10",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/smart-v10",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/smart-x9",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/smart-e9",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/vodafone-features",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/devices/our-promise",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/responsible-business/sustainability",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/connected-she-can/encourage-more-girls-to-codelikeagirl.html",
+    "destination": "/news/inclusion/codelikeagirl",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/10-most-exciting-technology-projects-day2.html",
+    "destination": "/news/technology/10-most-exciting-technology-projects-day2",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/m-pesa-indian-pension.html",
+    "destination": "/news/inclusion/m-pesa-indian-pension",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/m-pesa-pay-india.html",
+    "destination": "/news/inclusion/m-pesa-pay-india",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/Vodafone.com/media/contact",
+    "destination": "/news/contact-us",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/sustainable-business",
+    "destination": "/about-vodafone/who-we-are/our-purpose",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/sandbox/codelikeagirl",
+    "destination": "/news/inclusion/codelikeagirl",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/privacy-centre/our-approach-to-privacy",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/equipping-commercial.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-safety/managing-key-safety-risks",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/improving-fleet-efficiency.html",
+    "destination": "/sustainable-business/our-purpose-pillars/digital-society",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/supporting-employees-to-thrive.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/supporting-lgbt--employees-in-italy.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/supporting-lgbt.html",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain/engaging-with-our-suppliers",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/tackling-loneliness-with-tech.html",
+    "destination": "/sustainable-business/our-purpose-pillars/digital-society",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/tax-principles.html",
+    "destination": "/about-vodafone/reporting-centre/tax-and-economic-contribution/vodafone's-tax-principles-and-strategy",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/use-of-government-tax-incentives.html",
+    "destination": "/about-vodafone/reporting-centre/tax-and-economic-contribution/corporate-responsibilities-and-obligations",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/women-first.html",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-for-all/bringing-mobile-to-more-women",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/women-in-business.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/uk-gender-pay-gap",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/case-studies/working-towards-our-network-waste-target.html",
+    "destination": "/sustainable-business/our-purpose-pillars/planet/building-a-circular-economy",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/digitising-europees-small-businesses.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/business",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/emergencyeye-helps-400-doctors-in-germany.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/government",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/lifesaver-app-continues-to-add-features.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/government",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/phones-tablets-donated-to-hospitals-first-aid-centres-across-italy.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/people",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/providing-vital-connectivity-for-the-elderly-through-alone.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/people",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/the-netherlands-launch-work-from-home-platform.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/business",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/vodafone-offer-smes-and-micro-businesses-free-bundles.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/business",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/vodafone-strengthens-communications-infrastructure-of-ifema-hospital.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/infrastructure",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/content/overlay/what-if/welcome-to-sabugueiro.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if/infrastructure",
+    "statusCode": 301
+  },
+  {
+    "source": "/rhg3006/ec-declaration",
+    "destination": "/content/dam/vodcom/devices/ec-declaration/rhg3006_esit.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-insights/press-release/vodafone-and-lamborghini-together-to-change-the-driving-experience-with-connectivity",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-insights/press-release/vodafone-joins-forces-with-china-mobile-in-internet-of-things-partnership",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/node/67011",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-for-all/bringing-mobile-to-more-women",
+    "statusCode": 301
+  },
+  {
+    "source": "/node/67016",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-for-all/bringing-mobile-to-more-women",
+    "statusCode": 301
+  },
+  {
+    "source": "/node/67021",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-for-all/bringing-mobile-to-more-women",
+    "statusCode": 301
+  },
+  {
+    "source": "/node/67026",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-for-all/bringing-mobile-to-more-women",
+    "statusCode": 301
+  },
+  {
+    "source": "/node/67031",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-for-all/bringing-mobile-to-more-women",
+    "statusCode": 301
+  },
+  {
+    "source": "/node/67036",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-for-all/bringing-mobile-to-more-women",
+    "statusCode": 301
+  },
+  {
+    "source": "/node/67121",
+    "destination": "/about-vodafone/who-we-are/leadership/board-of-directors",
+    "statusCode": 301
+  },
+  {
+    "source": "/undefined",
+    "destination": "https://www.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/can-4g-revolutionise-maritime-connectivity",
+    "destination": "/about-vodafone/where-we-operate/roaming-services/maritime-mobility",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/changetheface",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-equality",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/chief-executive-forward",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/uk-gender-pay-gap",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/code-girl",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/uk-gender-pay-gap",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/detecting-and-tackling-modern-day-slavery",
+    "destination": "/our-purpose/operating-responsibly/supply-chain-integrity/addressing-supply-chain-risks",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/enabling-vehicles-to-become-smarter/improving-fleet-efficiency",
+    "destination": "/sustainable-business/our-purpose-pillars/digital-society",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/enhanced-maternity-leave",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/uk-gender-pay-gap",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/equipping-commercial-vendors-safety-training",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-safety/managing-key-safety-risks",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/european-commission-illegal-state-aid-investigations",
+    "destination": "/about-vodafone/reporting-centre/tax-and-economic-contribution/vodafone,-luxembourg-and-tax-havens",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/people-and-culture/supporting-employees-to-thriVe",
+    "destination": "/about-vodafone/who-we-are/people-and-culture",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/people-and-culture/supporting-LGBT-employees-in-Italy",
+    "destination": "/about-vodafone/who-we-are/people-and-culture",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/providing-our-suppliers-direct-support-and-building-capability",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain/engaging-with-our-suppliers",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/reconnect-bringing-skilled-people-back-workforce",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-equality",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/revenues-and-corporation-tax-illustrative-example",
+    "destination": "/about-vodafone/reporting-centre/tax-and-economic-contribution/corporate-responsibilities-and-obligations",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/supporting-employees-suffering-domestic-violence-and-abuse",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/workplace-equality",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/supporting-lgbt-communities-our-supply-chain",
+    "destination": "/sustainable-business/operating-responsibly/responsible-supply-chain/engaging-with-our-suppliers",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/tax-and-emerging-markets/contributing-to-socio-economic-development",
+    "destination": "/about-vodafone/reporting-centre/tax-and-economic-contribution/tax-and-emerging-markets",
+    "statusCode": 301
+  },
+  {
+    "source": "/overlays/women-business",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/uk-gender-pay-gap",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/ahmed-essam",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/aldo-bisio",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/colman-deegan",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/dr-hannes-ametsreiter",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/joakim-reiter",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/john-wibergh",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/leanne-wood",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/nick-jeffery",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/rosemary-martin",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/serpil-timuray",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/shameel-joosub",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/executive-committee/vinod-kumar",
+    "destination": "/about-vodafone/who-we-are/leadership/executive-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/group/suppliers/downloads/VPC_Supplier_Policy_A3_Health_and_Safety_(3.0).pdf",
+    "destination": "/about-vodafone/how-we-operate/suppliers/policies-and-requirements",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/group/suppliers/downloads/VPC_Supplier%20Policy_A2_Code_of_%20Ethical_Purchasing_(V3.0).pdf",
+    "destination": "/about-vodafone/how-we-operate/suppliers/policies-and-requirements",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/conduct.html",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/code-of-conduct",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/sustainability/operating-responsibly/human-rights/digital-rights-and-freedoms",
+    "destination": "/about-vodafone/reporting-centre/government-assistance-demands-reporting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/about/where.html",
+    "destination": "/about-vodafone/where-we-operate",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/contacts/journalists-and-bloggers.html",
+    "destination": "/news/contact-us",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/m-pesa.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/m-pesa",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/10-most-exciting-technology-projects-day4.html",
+    "destination": "/news/technology/10-most-exciting-technology-projects-day4",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/smartphone-become-the-eyes-of-blind-person.html",
+    "destination": "/news/inclusion/smartphone-become-the-eyes-of-blind-person",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/vodafone-images/devices/vmb/downloads/vmb-10-5/Setup-10_5_7_56405-RC1-full-compressed.zip",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodcom/files/vodafone-images/devices/vmb/downloads/vmb-10-3/Setup-10_3_417_56411-RC1-full-compressed.zip",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/mobile/vodafone-mobile-devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/news-and-media/vodafone-group-releases/news/mobile_clicks2010.html",
+    "destination": "/news-and-media/vodafone-group-releases/news/mobile_clicks2010",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/news-and-media/vodafone-group-releases/news/vodafone_devices.html",
+    "destination": "/news-and-media/vodafone-group-releases/news/vodafone_devices",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/news-and-media/vodafone-group-releases/news/tate_debates.html",
+    "destination": "/news-and-media/vodafone-group-releases/news/tate_debates",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/news-and-media/vodafone-group-releases/news/reconnect.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/services/m-pesa.html",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/m-pesa",
+    "statusCode": 301
+  },
+  {
+    "source": "/node",
+    "destination": "https://www.vodafone.com",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/operating-responsibly/child-online-safety/blogs/undefined",
+    "destination": "/our-purpose/operating-responsibly/child-online-safety/blogs",
+    "statusCode": 301
+  },
+  {
+    "source": "/superwifi/countryselector",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/broadband-and-super-wifi/super-wifi/service-activation-download-page",
+    "statusCode": 301
+  },
+  {
+    "source": "/superwifi",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/broadband-and-super-wifi",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/vodafone-shared-services",
+    "destination": "/careers/professional-career-areas/shared-services",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/operating-responsibly/code-of-conduct",
+    "destination": "/about-vodafone/who-we-are/people-and-culture/code-of-conduct",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/igniting-innovation.html",
+    "destination": "/news/technology/igniting-innovation",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/five-ventures-about-to-improve-the-world-join-vodafone-institutes-accelerator-f-lane.html",
+    "destination": "/news/digital-society/five-ventures-about-to-improve-the-world-join-vodafone-institutes-accelerator-f-lane1",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/news-and-media/vodafone-group-releases/news/iot-drone-tracking.html",
+    "destination": "/news/press-release/iot-drone-tracking",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/five-ventures-about-to-improve-the-world-join-vodafone-institutes-accelerator-f-lane-2.html",
+    "destination": "/news/digital-society/five-ventures-about-to-improve-the-world-join-vodafone-institutes-accelerator-f-lane-2",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/foundation/instant-network-emergency.html",
+    "destination": "/vodafone-foundation/focus-areas/vodafone-volunteers",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/multi-access-edge-computing-to-power-artificial-intelligence-for-automotive.html",
+    "destination": "/news/technology/multi-access-edge-computing-to-power-artificial-intelligence-for-automotive",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/foundation/tecsos.html",
+    "destination": "/vodafone-foundation/focus-areas/apps-against-abuse",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/multi-access-edge-computing-to-power-artificial-intelligence-for-automotive.html",
+    "destination": "/news/technology/multi-access-edge-computing-to-power-artificial-intelligence-for-automotive",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/digital-parenting/blogs/story-time-books-help-children-be-resilient-online/story-time-books.html",
+    "destination": "/news/inclusion/story-time-books-help-children-be-resilient-online",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/voyager-live-network-trial.html",
+    "destination": "/news/technology/voyager-live-network-trial",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/era-of-the-automated-car-comes-a-step-closer.html",
+    "destination": "/news/technology/era-of-the-automated-car-comes-a-step-closer",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/what-do-toilets-text.html",
+    "destination": "/news/technology/what-do-toilets-text",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/mission-to-empower-women-and-girls.html",
+    "destination": "/news/vodafone-foundation/mission-to-empower-women-and-girls",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/access-toeducation.html",
+    "destination": "/news/vodafone-foundation/access-toeducation",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/annualreport/annualreport15/index.html",
+    "destination": "https://investors.vodafone.com/reports-information/latest-annual-results",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2014/thirtieth_anniversary_uk_mobile_call.html",
+    "destination": "/news/press-release/thirtieth_anniversary_uk_mobile_call",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/decade-of-mobile-transformation.html",
+    "destination": "/news/vodafone-foundation/decade-of-mobile-transformation",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/vodafone-to-co-operate-on-integrated-sim-with-arm.html",
+    "destination": "/news/technology/vodafone-to-co-operate-on-integrated-sim-with-arm",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/what-do-toilets-text.html",
+    "destination": "/news/technology/what-do-toilets-text",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/stopping-disease-outbreak.html",
+    "destination": "/news/vodafone-foundation/stopping-disease-outbreak",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/breaking-human-trafficking-cycle-with-mobile-technology.html",
+    "destination": "/news/technology/breaking-human-trafficking-cycle-with-mobile-technology",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/telecoms-industry-first-openran-rfi.html",
+    "destination": "/news/technology/telecoms-industry-first-openran-rfi",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/supercharging-the-future.html",
+    "destination": "/news/technology/supercharging-the-future",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/news-and-media/vodafone-group-releases/news/global-maternity-policy.html",
+    "destination": "/news/press-release/global-maternity-policy",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/connected-cars.html",
+    "destination": "/news/digital-society/connected-cars",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/public-policy/policy-positions/artificial-intelligence-framework.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/policy-positions/artificial-intelligence-framework",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/mamabird.html",
+    "destination": "/news/technology/mamabird",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/news-and-media/vodafone-group-releases/news/mobile-tracking-and-control-technology-for-long-distance-drone-flights.html",
+    "destination": "/news/press-release/mobile-tracking-and-control-technology-for-long-distance-drone-flights",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/foundation/instant-schools.html",
+    "destination": "/vodafone-foundation/focus-areas/instant-schools",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/what/technology-blog/mec-complementing-5g-radio-technology.html",
+    "destination": "/news/technology/mec-complementing-5g-radio-technology",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/technology/blog/unlicensed-spectrum-4g.html",
+    "destination": "/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2018/vodafone-launches-2019-global-trends-report-and-announces-enterprise-brand-refresh.html",
+    "destination": "/news/press-release/vodafone-launches-2019-global-trends-report-and-announces-enterprise-brand-refresh",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/foundation/instant-network-schools.html",
+    "destination": "/vodafone-foundation/focus-areas/instant-network-schools",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/what-we-do/public-policy/what-if.html",
+    "destination": "/about-vodafone/how-we-operate/public-policy/what-if",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/index/media/vodafone-group-releases/2018/largest-international-future-jobs-programme.html",
+    "destination": "/news/press-release/largest-international-future-jobs-programme",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/vodafone/vodcom/en_gb/home/perspectives/blog/future-of-ai-and-emotion.html",
+    "destination": "/news/technology/future-of-ai-and-emotion",
+    "statusCode": 301
+  },
+  {
+    "source": "/about-vodafone/what-we-do/consumer-products-and-services/devices/vodafone-mobile-devices/mobile-broadband-software/mobile-broadband-software-faqs",
+    "destination": "/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation/mobile-broadband-software/faq",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19",
+    "destination": "/about-vodafone/how-we-operate/covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news",
+    "destination": "/about-vodafone/how-we-operate/covid-19/news",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/stories/spotlight-stories-internet-things-and-future-agriculture",
+    "destination": "/news/digital-society/stories/spotlight-stories-internet-things-and-future-agriculture",
+    "statusCode": 301
+  }
+]

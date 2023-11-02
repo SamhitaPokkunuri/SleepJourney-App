@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.62 77.15"><defs>
+<style>
+.cls-1{fill:#f4f4f4;}
+.cls-2{fill:#ddd;}
+.cls-3{fill:none;stroke:#494d4e;stroke-linecap:round;stroke-miterlimit:10;stroke-width:3px;}
+.cls-4{fill:#e60101;}
+.cls-5{fill:#ebebeb;}
+</style></defs>
+<g id="Layer_2" data-name="Layer 2">
+<g id="Layer_1-2" data-name="Layer 1">
+<path fill='#f4f4f4' d="M35,77.15l.77-26.56h8.8l.77,26.56H73.91L57.51,0H43.08l.24,8.27H37L37.23,0H24.1L7.71,77.15Zm1.71-58.62h6.93l.46,15.9H36.22Z"/>
+<polygon fill='#ddd' points="24.1 0 19.74 0 0 77.15 7.71 77.15 24.1 0"/>
+<polygon fill='#ddd' points="57.51 0 73.91 77.15 81.62 77.15 61.88 0 57.51 0"/>
+<path fill='#ddd' d="M43.08,0l.24,8.27H37L37.23,0ZM35,77.15l.77-26.56h8.8l.77,26.56Zm1.71-58.62h6.93l.46,15.9H36.22Z"/>
+<line fill='none' stroke='#494d4e' stroke-linecap='round' stroke-miterlimit='10' stroke-width='3px' x1="10.47" y1="21.68" x2="10.47" y2="49.94"/>
+<path fill='#e60101' d="M1.4,23.85H19.53a1.18,1.18,0,0,0,1-1.76L11.48,6.38a1.18,1.18,0,0,0-2,0L.38,22.09a1.18,1.18,0,0,0,1,1.76Z"/>
+<polygon fill='#ebebeb' points="2.83 21.85 10.46 8.62 18.11 21.85 2.83 21.85"/></g></g></svg>

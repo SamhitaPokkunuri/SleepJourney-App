@@ -1,0 +1,528 @@
+{
+  "clientId": "9265d586-bb00-4fcf-ae4f-9934afa276e8",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "validationIssues": [],
+  "originalContent": "<div class=\"wp-block-vdfblocks-section vdf-background-vodafonered vdf-text-darkgrey vdf-sustai\">\n\n\n\n\n\n</div>",
+  "attributes": {
+    "customColors": {
+      "background": "#F4F4F4"
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": true,
+      "text": "Our contribution to the United Nations Sustainable Development Goals (SDGs)",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": true,
+      "text": "Our approach is contributing to SDGs:",
+      "textColor": "initial"
+    },
+    "paddingTop": true,
+    "paddingBottom": true,
+    "className": "vdf-background-shadegrey",
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    }
+  },
+  "innerBlocks": [
+    {
+      "clientId": "5d626440-852e-43e1-b14e-7dc4eb2fddae",
+      "name": "core/group",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "widthControlExt": {
+          "outerWidth": 10
+        },
+        "vdfblocks": {
+          "custom": true
+        },
+        "className": "vdf-sustainable-dev-goals"
+      },
+      "innerBlocks": [
+        {
+          "clientId": "8b155e2f-72e0-4368-aca5-1907016d5575",
+          "name": "core/columns",
+          "isValid": true,
+          "attributes": {
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "392eaa8e-d395-4508-babe-d69e9159c37b",
+              "name": "core/column",
+              "isValid": true,
+              "validationIssues": [],
+              "originalContent": "<div class=\"wp-block-column\">\n\n\n\n</div>",
+              "attributes": {
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": [
+                {
+                  "clientId": "17ea53eb-7da3-4253-9832-bc56efef513a",
+                  "name": "core/image",
+                  "isValid": true,
+                  "validationIssues": [],
+                  "originalContent": "<figure class=\"wp-block-image size-large\"><img src=\"https://www.vodafone.com/content/dam/vodcom/images/vdf_images_2019/sustainable-development-goals/07-affordable-clean-energy.png\" alt=\"\" class=\"wp-image-1\"/></figure>",
+                  "attributes": {
+                    "url": "https://www.vodafone.com/content/dam/vodcom/images/vdf_images_2019/sustainable-development-goals/07-affordable-clean-energy.png",
+                    "alt": "",
+                    "caption": "",
+                    "id": 1,
+                    "sizeSlug": "large",
+                    "linkDestination": "none",
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                },
+                {
+                  "clientId": "a80ee4a1-78c7-4aa7-9f0c-67aacc25313b",
+                  "name": "core/heading",
+                  "isValid": true,
+                  "validationIssues": [],
+                  "originalContent": "<h5><strong>SDG 13</strong></h5>",
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "content": "<strong>SDG 13</strong>",
+                    "level": 5,
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                },
+                {
+                  "clientId": "ce10c0bd-a5d5-4d89-a5fc-8ba935c47e09",
+                  "name": "core/paragraph",
+                  "isValid": true,
+                  "validationIssues": [],
+                  "originalContent": "<p>Take urgent action to combat climate change and its impacts.</p>",
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "content": "Take urgent action to combat climate change and its impacts.",
+                    "dropCap": false,
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                }
+              ]
+            },
+            {
+              "clientId": "aaea069b-1e09-4704-b14f-6616bfbffa8e",
+              "name": "core/column",
+              "isValid": true,
+              "validationIssues": [],
+              "originalContent": "<div class=\"wp-block-column\">\n\n\n\n</div>",
+              "attributes": {
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": [
+                {
+                  "clientId": "664e84b1-0e8b-4430-88ba-0cf95f340e24",
+                  "name": "core/image",
+                  "isValid": true,
+                  "validationIssues": [],
+                  "originalContent": "<figure class=\"wp-block-image size-large\"><img src=\"https://www.vodafone.com/content/dam/vodcom/images/vdf_images_2019/sustainable-development-goals/climate-action.png\" alt=\"\" class=\"wp-image-3\"/></figure>",
+                  "attributes": {
+                    "url": "https://www.vodafone.com/content/dam/vodcom/images/vdf_images_2019/sustainable-development-goals/climate-action.png",
+                    "alt": "",
+                    "caption": "",
+                    "id": 3,
+                    "sizeSlug": "large",
+                    "linkDestination": "none",
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                },
+                {
+                  "clientId": "2a6859ed-f00c-42a6-b47f-79016c6463c4",
+                  "name": "core/heading",
+                  "isValid": true,
+                  "validationIssues": [],
+                  "originalContent": "<h5><strong>SDG 13</strong></h5>",
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "content": "<strong>SDG 13</strong>",
+                    "level": 5,
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                },
+                {
+                  "clientId": "b578b475-a768-4026-9e55-687fb3c58bd5",
+                  "name": "core/paragraph",
+                  "isValid": true,
+                  "validationIssues": [],
+                  "originalContent": "<p>Take urgent action to combat climate change and its impacts.</p>",
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "content": "Take urgent action to combat climate change and its impacts.",
+                    "dropCap": false,
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clientId": "a324ae67-4e4a-4bb0-b057-34eddbbb31dd",
+      "name": "core/paragraph",
+      "isValid": true,
+      "validationIssues": [],
+      "originalContent": "<p class=\"col-8\">Our commitments to reduce our GHG emissions, move to renewable electricity sources and improve our energy efficiency particularly support SDG 13, which is focused on climate action, and SDG 7, which includes a focus on clean energy.</p>",
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "Our commitments to reduce our GHG emissions, move to renewable electricity sources and improve our energy efficiency particularly support SDG 13, which is focused on climate action, and SDG 7, which includes a focus on clean energy.",
+        "dropCap": false,
+        "className": "col-8",
+        "widthControlExt": {
+          "outerWidth": 8
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "d4d1a5e6-b5ac-4d1d-b695-715d0f4b6d91",
+      "name": "core/paragraph",
+      "isValid": true,
+      "validationIssues": [],
+      "originalContent": "<p class=\"col-8\">We believe we can have the greatest impact on five of the UN SDGs through our networks, products and services and through the work of the Vodafone Foundation.</p>",
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "We believe we can have the greatest impact on five of the UN SDGs through our networks, products and services and through the work of the Vodafone Foundation.",
+        "dropCap": false,
+        "className": "col-8",
+        "widthControlExt": {
+          "outerWidth": 8
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "6e788184-ca40-4293-a2a5-026f78947177",
+      "name": "core/heading",
+      "isValid": true,
+      "validationIssues": [],
+      "originalContent": "<h4 class=\"has-text-align-center\"><a href=\"https://www.vodafone.com/our-purpose/our-contribution-to-un-sdgs\">Find out more about our contribution to the UN SDGs</a></h4>",
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "align": "center",
+        "content": "<a href=\"https://www.vodafone.com/our-purpose/our-contribution-to-un-sdgs\">Find out more about our contribution to the UN SDGs</a>",
+        "level": 4,
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.613" height="53.254" viewBox="0 0 47.613 53.254">
+    <defs>
+        <filter id="1msx4rlgna" width="47.613" height="53.254" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#1msx4rlgna)" transform="translate(9 6) translate(-9 -6)">
+            <path fill="#fff" d="M39.607 20A14.82 14.82 0 0 0 24.8 34.807c0 13.808 14.807 20.447 14.807 20.447s14.807-6.639 14.807-20.447A14.82 14.82 0 0 0 39.607 20zm0 24.266a9.166 9.166 0 1 1 9.166-9.166 9.178 9.178 0 0 1-9.166 9.166z" transform="translate(-15.8 -14)"/>
+        </g>
+        <g>
+            <path fill="none" d="M0 0H20.448V20.448H0z" transform="translate(9 6) translate(4.549 4.166)"/>
+            <g>
+                <path fill="#9c2aa0" d="M20.392 10.2A10.2 10.2 0 1 1 10.2 0a10.2 10.2 0 0 1 10.2 10.2" transform="translate(9 6) translate(4.549 4.166)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,303 @@
+{
+  "clientId": "6e8a5056-18cd-4d3b-8d44-660fd02dbbd7324532-asda12",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "attributes": {
+    "customColors": {
+      "text": "",
+      "background": "#F4F4F4"
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": false,
+      "text": "Vodafone news",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "paddingTop": false,
+    "paddingBottom": false,
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    },
+    "className": "vdf-background-shadegrey"
+  },
+  "innerBlocks": [
+    {
+      "clientId": "09b6cc60-9052-4c9a-a489-0e9a935fe5b4",
+      "name": "vdfblocks/content-list",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "count": "1",
+        "columns": [1, 2, 3],
+        "imageAspectRatio": "16:9",
+        "title": {
+          "toggle": true,
+          "text": ""
+        },
+        "showCategory": true,
+        "showDate": true,
+        "showDescription": true,
+        "showImage": true,
+        "showTitle": true,
+        "sources": {
+          "mode": "search-filter",
+          "sortRule": "date",
+          "sortingDirection": "desc",
+          "contentType": "",
+          "maxArticles": "10",
+          "startAfter": "0"
+        },
+        "searchFilter": {
+          "dateRange": true,
+          "categories": true,
+          "pagination": true,
+          "paginationType": "load-more",
+          "selectedCategories": ["46", "51"]
+        },
+        "contentTypes": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "basic_article",
+            "label": "Basic Article"
+          },
+          {
+            "value": "case_study",
+            "label": "Case Study"
+          },
+          {
+            "value": "dreamlab_news",
+            "label": "Dreamlab News"
+          },
+          {
+            "value": "dreamlab_page",
+            "label": "Dreamlab Page"
+          },
+          {
+            "value": "landing_page",
+            "label": "Landing Page"
+          },
+          {
+            "value": "markets",
+            "label": "Markets"
+          },
+          {
+            "value": "page",
+            "label": "Basic Page"
+          },
+          {
+            "value": "people",
+            "label": "People"
+          },
+          {
+            "value": "stories",
+            "label": "Stories"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          }
+        ],
+        "tags": [],
+        "categories": [
+          {
+            "tid": "51",
+            "vid": "categories",
+            "name": "Innovation"
+          },
+          {
+            "tid": "46",
+            "vid": "categories",
+            "name": "Technology"
+          }
+        ],
+        "subTypes": [
+          {
+            "value": "",
+            "label": "Select subtype"
+          },
+          {
+            "value": "91",
+            "label": "Perspectives"
+          },
+          {
+            "value": "101",
+            "label": "Porsche Formula E"
+          },
+          {
+            "value": "96",
+            "label": "Vodafone group releases"
+          }
+        ],
+        "content": [
+          {
+            "id": "76",
+            "title": "Another perspectives",
+            "featureImage": [
+              {
+                "target_id": "86",
+                "alt": "",
+                "title": "",
+                "width": "2880",
+                "height": "800"
+              }
+            ],
+            "featureImageUrl": "http://vfdotcomdev.prod.acquia-sites.com/sites/default/files/2020-08/vodafone-foundation.jpg",
+            "description": "another perspectives",
+            "created": "Tue, 08/18/2020 - 22:17",
+            "url": "/http%3A/vfdotcomdev.prod.acquia-sites.com/perspectives/blog/%255Bnode%253Atext%255D",
+            "type": "basic_article",
+            "typeId": "node",
+            "bundle": "basic_article",
+            "category": "Vodafone Foundation"
+          },
+          {
+            "id": "71",
+            "title": "Release test",
+            "featureImage": [
+              {
+                "target_id": "86",
+                "alt": "",
+                "title": "",
+                "width": "2880",
+                "height": "800"
+              }
+            ],
+            "featureImageUrl": "http://vfdotcomdev.prod.acquia-sites.com/sites/default/files/2020-08/vodafone-foundation.jpg",
+            "description": "release desc",
+            "created": "Tue, 08/18/2020 - 22:01",
+            "url": "/vodafone-group-release-url-path",
+            "type": "basic_article",
+            "typeId": "node",
+            "bundle": "basic_article",
+            "category": "Vodafone Foundation"
+          },
+          {
+            "id": "66",
+            "title": "this is a test perspective",
+            "featureImage": [
+              {
+                "target_id": "86",
+                "alt": "",
+                "title": "",
+                "width": "2880",
+                "height": "800"
+              }
+            ],
+            "featureImageUrl": "http://vfdotcomdev.prod.acquia-sites.com/sites/default/files/2020-08/vodafone-foundation.jpg",
+            "description": "Perspectives article",
+            "created": "Tue, 08/18/2020 - 21:43",
+            "url": "/perspectives-url-path",
+            "type": "basic_article",
+            "typeId": "node",
+            "bundle": "basic_article",
+            "category": "Vodafone Foundation"
+          },
+          {
+            "id": "41",
+            "title": "How to ensure all children have the digital skills they need",
+            "featureImage": [
+              {
+                "target_id": "96",
+                "alt": "",
+                "title": "",
+                "width": "780",
+                "height": "520"
+              }
+            ],
+            "featureImageUrl": "http://vfdotcomdev.prod.acquia-sites.com/sites/default/files/2020-08/ensure-children-digital-skills.jpg",
+            "description": "The challenges caused by the COVID-19 pandemic have been significant and wide-ranging – some of which could be anticipated, but others were unexpected.",
+            "created": "Fri, 08/14/2020 - 14:28",
+            "url": "/node/41",
+            "type": "basic_article",
+            "typeId": "node",
+            "bundle": "basic_article",
+            "category": "Vodafone Foundation"
+          },
+          {
+            "id": "36",
+            "title": "Building a sustainable future",
+            "featureImage": [
+              {
+                "target_id": "121",
+                "alt": "",
+                "title": "",
+                "width": "780",
+                "height": "520"
+              }
+            ],
+            "featureImageUrl": "http://vfdotcomdev.prod.acquia-sites.com/sites/default/files/2020-08/sustainable-future.jpg",
+            "description": "COVID-19, and the lockdown to contain this awful virus, has reminded us of humanity’s incredible ability to adapt.",
+            "created": "Fri, 08/14/2020 - 14:26",
+            "url": "/node/36",
+            "type": "basic_article",
+            "typeId": "node",
+            "bundle": "basic_article",
+            "category": "Vodafone Foundation"
+          },
+          {
+            "id": "616",
+            "title": "this is a test perspective",
+            "featureImage": [
+              {
+                "target_id": "86",
+                "alt": "",
+                "title": "",
+                "width": "2880",
+                "height": "800"
+              }
+            ],
+            "featureImageUrl": "http://vfdotcomdev.prod.acquia-sites.com/sites/default/files/2020-08/vodafone-foundation.jpg",
+            "description": "Perspectives article",
+            "created": "Tue, 08/18/2020 - 21:43",
+            "url": "/perspectives-url-path",
+            "type": "basic_article",
+            "typeId": "node",
+            "bundle": "basic_article",
+            "category": "Vodafone Foundation"
+          }
+        ],
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    }
+  ]
+}

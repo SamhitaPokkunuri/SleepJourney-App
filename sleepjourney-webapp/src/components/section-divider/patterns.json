@@ -1,0 +1,62 @@
+{
+  "Pattern01": {
+    "name": "pattern-01",
+    "height": 111,
+    "width": 1920
+  },
+  "Pattern02": {
+    "name": "pattern-02",
+    "height": 110,
+    "width": 1920
+  },
+  "Pattern03": {
+    "name": "pattern-03",
+    "height": 150,
+    "width": 1920
+  },
+  "Pattern04": {
+    "name": "pattern-04",
+    "height": 160,
+    "width": 1920
+  },
+  "Pattern05": {
+    "name": "pattern-05",
+    "height": 110,
+    "width": 1920
+  },
+  "Pattern06": {
+    "name": "pattern-06",
+    "height": 130,
+    "width": 1920
+  },
+  "Pattern07": {
+    "name": "pattern-07",
+    "height": 100,
+    "width": 1920
+  },
+  "Pattern08": {
+    "name": "pattern-08",
+    "height": 125,
+    "width": 1920
+  },
+  "Pattern09": {
+    "name": "pattern-09",
+    "height": 91,
+    "width": 1920
+  },
+  "Pattern10": {
+    "name": "pattern-10",
+    "height": 86,
+    "width": 1920
+  },
+  "Pattern11": {
+    "name": "pattern-11",
+    "height": 90,
+    "width": 1920
+  },
+  "Pattern12": {
+    "name": "pattern-12",
+    "height": 135,
+    "width": 1920
+  }
+}

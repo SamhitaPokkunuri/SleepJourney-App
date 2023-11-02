@@ -1,0 +1,207 @@
+{
+  "clientId": "6e8a5056-18cd-4d3b-8d44-660fd02dbbd7",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "attributes": {
+    "customColors": {
+      "text": "",
+      "background": "#F4F4F4"
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": true,
+      "text": "Our leadership",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "paddingTop": true,
+    "paddingBottom": true,
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    },
+    "className": "vdf-background-shadegrey"
+  },
+  "innerBlocks": [
+    {
+      "clientId": "5796966f-18e8-4354-a8b2-cbd4bedffef1",
+      "name": "vdfblocks/card",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "columns": 1,
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": [
+        {
+          "clientId": "29d6ef39-c4ed-49c9-87b6-affbf9d4b3f9",
+          "name": "vdfblocks/card-item",
+          "isValid": true,
+          "attributes": {
+            "title": {
+              "toggle": true,
+              "text": "Executive Committee"
+            },
+            "description": {
+              "toggle": true,
+              "text": "Chaired by Nick Read, the Executive Committee focuses on managing Vodafone’s business affairs as a whole, which includes delivering a competitive strategy in fulfilment of our purpose, driving financial performance, ensuring good succession planning and developing a diverse talent pipeline."
+            },
+            "image": {
+              "toggle": true,
+              "url": "http://localhost:3000/media/img2.jpeg",
+              "id": 2
+            },
+            "link": {
+              "toggle": true,
+              "url": "",
+              "openAs": "overlay",
+              "rel": ""
+            },
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": []
+        }
+      ]
+    },
+    {
+      "clientId": "56656ab9-a8db-4aed-896d-8e6b8de7bf9b",
+      "name": "vdfblocks/card",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "columns": 3,
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": [
+        {
+          "clientId": "fe119570-6ce7-42a6-b6b4-237a49aa81ea",
+          "name": "vdfblocks/card-item",
+          "isValid": true,
+          "attributes": {
+            "title": {
+              "toggle": true,
+              "text": "Europe Consumer"
+            },
+            "description": {
+              "toggle": true,
+              "text": "<br>We aim to drive growth in the European consumer segment by developing deeper customer relationships."
+            },
+            "image": {
+              "toggle": true,
+              "url": "http://localhost:3000/media/img1.jpg",
+              "id": 1
+            },
+            "link": {
+              "toggle": true,
+              "url": "",
+              "openAs": "overlay",
+              "rel": ""
+            },
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": []
+        },
+        {
+          "clientId": "a04c4197-6ee7-4b58-a30c-05c079e076c5",
+          "name": "vdfblocks/card-item",
+          "isValid": true,
+          "attributes": {
+            "title": {
+              "toggle": true,
+              "text": "Emerging Consumer"
+            },
+            "description": {
+              "toggle": true,
+              "text": "<br>We see a significant opportunity to grow in digital and financial services in our emerging consumer segment."
+            },
+            "image": {
+              "toggle": true,
+              "url": "http://localhost:3000/media/img2.jpeg",
+              "id": 2
+            },
+            "link": {
+              "toggle": true,
+              "url": "",
+              "openAs": "overlay",
+              "rel": ""
+            },
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": []
+        },
+        {
+          "clientId": "029c51ac-152e-436b-9679-4c7f909d051b",
+          "name": "vdfblocks/card-item",
+          "isValid": true,
+          "attributes": {
+            "title": {
+              "toggle": true,
+              "text": "Vodafone Business"
+            },
+            "description": {
+              "toggle": true,
+              "text": "<br>Our strategy is to drive growth by cross-selling NGN fixed, IoT, and Cloud services to our business customers."
+            },
+            "image": {
+              "toggle": true,
+              "url": "http://localhost:3000/media/img3.png",
+              "id": 3
+            },
+            "link": {
+              "toggle": true,
+              "url": "",
+              "openAs": "overlay",
+              "rel": ""
+            },
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": []
+        }
+      ]
+    }
+  ]
+}

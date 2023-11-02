@@ -1,0 +1,8 @@
+<svg width="192" height="188" viewBox="0 0 192 188" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M30.7495 88H161.25C162.765 88 164 89.2344 164 90.75V144C164 152.844 156.843 160 148 160H43.9995C35.1558 160 27.9995 152.844 27.9995 144V90.75C27.9995 89.2344 29.2339 88 30.7495 88Z" stroke="white" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M172 80C172 84.4219 168.422 88 164 88H28C23.5781 88 20 84.4219 20 80V72C20 67.5781 23.5781 64 28 64H172V80Z" stroke="white" stroke-width="8.00001" stroke-linecap="round"/>
+<path d="M51.6255 28.0479H64.0005C75.0474 28.0479 84.0005 37.001 84.0005 48.0479V64.0479H55.688C44.6411 64.0479 35.688 55.0947 35.688 44.0479C35.688 35.2197 42.813 28.0635 51.6255 28.0479Z" stroke="white" stroke-width="8.00001" stroke-linecap="round"/>
+<path d="M136.313 64L108 64V48C108 36.9531 116.954 28 128 28H140.313C149.157 28 156.313 35.1719 156.313 44C156.313 55.0469 147.36 64 136.313 64Z" stroke="white" stroke-width="8.00001" stroke-linecap="round"/>
+<path d="M84 64H108V160H84V64Z" stroke="white" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 40.3438C102.625 40.3438 108 45.7188 108 52.3438V64H84V52.3438C84 45.7188 89.375 40.3438 96 40.3438Z" stroke="white" stroke-width="8.00001" stroke-linecap="round"/>
+</svg>

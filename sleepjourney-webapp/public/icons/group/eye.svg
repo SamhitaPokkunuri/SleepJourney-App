@@ -1,0 +1,30 @@
+<svg id="mail-new-hi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192"><defs>
+<style>
+.cls-1{fill:#eaeaea;}
+.cls-2{fill:none;}
+.cls-3{opacity:0.2;fill:url(#linear-gradient);}
+.cls-4{fill:#4a4d4e;}
+</style>
+<linearGradient id="linear-gradient" x1="96" y1="65.3" x2="96" y2="131.02" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient>
+</defs>
+<g id="Apps_ic_hi">
+<g id="Bill_ic_hi">
+<g id="Report_ic_hi">
+<g id="vodafone_store_ic_hi">
+<g id="Broadband_ic_hi">
+<g id="Business_ic_hi">
+<g id="Calendar_ic_hi">
+<g id="Camera_ic_hi">
+<g id="Data_ic_hi">
+<g id="Desktop_ic_hi">
+<g id="Document_ic_hi">
+<g id="Edit_ic_hi">
+<g id="Enterprise_ic_hi">
+<g id="Call_ic_hi">
+<g id="Location_ic_hi">
+<g id="Mail_new_ic_hi">
+<path fill='#eaeaea' d="M170.27,83.83C138.88,38.58,96,41.57,96,41.57s-42.88-3-74.27,42.26c-3.56,6-5.73,9-5.73,12.61,0,0,.14,5.76,5.69,13.09S52.92,151.31,96,151.31s68.75-34.44,74.31-41.78S176,96.44,176,96.44C176,92.84,173.83,89.85,170.27,83.83Z" transform="translate(0 0)"/>
+<rect id="Bounding_Box" data-name="Bounding Box" fill='none' width="192" height="192"/>
+<circle style='opacity:0.1' fill='url(#linear-gradient)' cx="96" cy="96" r="32.86"/>
+<circle fill='#4a4d4e' cx="96" cy="96" r="18.78"/></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g>
+</svg>

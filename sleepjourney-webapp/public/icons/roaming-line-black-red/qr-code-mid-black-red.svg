@@ -1,0 +1,10 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M28 52V28H52" stroke="#333333" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 140V164H52" stroke="#333333" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140 164H164V140" stroke="#333333" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M164 52V28H140" stroke="#333333" stroke-width="8.00001" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M84.0004 58.0005V78.0005C84.0004 81.313 81.3129 84.0005 78.0004 84.0005H58.0003C54.6878 84.0005 52.0003 81.313 52.0003 78.0005V58.0005C52.0003 54.688 54.6878 52.0005 58.0003 52.0005H78.0004C81.3129 52.0005 84.0004 54.688 84.0004 58.0005Z" stroke="#E60000" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M84.0004 114V134C84.0004 137.313 81.3129 140 78.0004 140H58.0003C54.6878 140 52.0003 137.313 52.0003 134V114C52.0003 110.688 54.6878 108 58.0003 108H78.0004C81.3129 108 84.0004 110.688 84.0004 114Z" stroke="#E60000" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M124.001 114V118C124.001 121.313 121.313 124 118.001 124H114.001C110.688 124 108.001 121.313 108.001 118V114C108.001 110.688 110.688 108 114.001 108H118.001C121.313 108 124.001 110.688 124.001 114Z" stroke="#E60000" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140 58.0005V78.0005C140 81.313 137.312 84.0005 134 84.0005H114C110.687 84.0005 108 81.313 108 78.0005V58.0005C108 54.688 110.687 52.0005 114 52.0005H134C137.312 52.0005 140 54.688 140 58.0005Z" stroke="#E60000" stroke-width="8.00001" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

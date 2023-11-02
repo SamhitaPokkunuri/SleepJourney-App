@@ -1,0 +1,41 @@
+[functions]
+  node_bundler = "esbuild"
+
+[[redirects]]
+ from = "/business"
+ to = "/business/home"
+ status = 301
+
+# Rewrites
+[[redirects]]
+ from = "/business/*"
+ to = "https://oci.prod.eol.vodafone.com/business/:splat"
+ status = 200
+
+# Rewrites
+[[redirects]]
+ from = "/content/dam/vodcom/*"
+ to = "https://content-prod.vodafone.com/sites/default/files/content/dam/vodcom/:splat"
+ status = 200
+
+# Rewrites
+[[redirects]]
+ from = "/sites/default/files/*"
+ to = "https://content-prod.vodafone.com/sites/default/files/:splat"
+ status = 200
+
+[[redirects]]
+ from = "/etc/designs/vodafone-simplicity/*"
+ to = "https://content-prod.vodafone.com/sites/default/files/html-static/vodafone-com/etc/designs/vodafone-simplicity/:splat"
+ status = 200
+
+[[redirects]]
+ from = "/etc/vodafone-simplicity/*"
+ to = "https://content-prod.vodafone.com/sites/default/files/html-static/vodafone-com/etc/vodafone-simplicity/:splat"
+ status = 200
+
+[[redirects]]
+ from = "/sites/Satellite/*"
+ to = "https://oci.prod.eol.vodafone.com/sites/Satellite/:splat"
+ status = 200
+

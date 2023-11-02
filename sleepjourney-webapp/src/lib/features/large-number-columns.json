@@ -1,0 +1,600 @@
+{
+  "clientId": "3f821eac-1e08-4ef2-aafa-88de7d79070e",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "attributes": {
+    "customColors": {
+      "text": "",
+      "background": ""
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Stone Grey",
+        "color": "#4a4d4e"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": true,
+      "text": "Worldwide service reach",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "paddingTop": true,
+    "paddingBottom": true,
+    "fullWidth": false,
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    }
+  },
+  "innerBlocks": [
+    {
+      "clientId": "3fed8335-00b0-4350-9464-01053e588f8d",
+      "name": "core/columns",
+      "isValid": true,
+      "attributes": {
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": [
+        {
+          "clientId": "6be49370-bacc-4af3-9989-35308b5e3cc6",
+          "name": "core/column",
+          "isValid": true,
+          "attributes": {
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "1e52ccf9-327a-4e60-bc13-4a6284399eca",
+              "name": "vdfblocks/large-number",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "#E20613",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "value": "48",
+                "align": "center",
+                "numberSize": 100,
+                "vdfblocks": {
+                  "custom": true
+                },
+                "className": "vdf-text-vodafonered"
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "4ddc4ec1-89ba-41bd-a82d-ceefe6493345",
+              "name": "core/heading",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "Partner markets",
+                "level": 4,
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                },
+                "align": "center"
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "7383e038-d73f-4426-a1fa-a065056e9e5c",
+              "name": "core/paragraph",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "To extend our reach beyond the companies we own, we have partnership agreements with local operators in 48 countries",
+                "dropCap": false,
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                },
+                "align": "center"
+              },
+              "innerBlocks": []
+            }
+          ]
+        },
+        {
+          "clientId": "158d24ca-3a04-4936-9a12-65b24591d755",
+          "name": "core/column",
+          "isValid": true,
+          "attributes": {
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "81964063-63f4-425f-80da-0b8b38d7c344",
+              "name": "vdfblocks/large-number",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "#E20613",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "value": "74",
+                "align": "center",
+                "numberSize": 100,
+                "vdfblocks": {
+                  "custom": true
+                },
+                "className": "vdf-text-vodafonered"
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "b7cf0f79-3a8b-477d-b8f3-3802fcda2491",
+              "name": "core/heading",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "Countries with IP-VPN",
+                "level": 4,
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                },
+                "align": "center"
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "4004c077-bc5c-491e-8664-d740a0db2e70",
+              "name": "core/paragraph",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "We are among the top five internet providers globally and one of the largest operators of submarine cables",
+                "dropCap": false,
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                },
+                "align": "center"
+              },
+              "innerBlocks": []
+            }
+          ]
+        },
+        {
+          "clientId": "41cc6b04-d5af-4f94-8a84-e3dd0a2ec3f2",
+          "name": "core/column",
+          "isValid": true,
+          "attributes": {
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "a4068ef6-0b68-46e4-bbb8-e7ad686efa00",
+              "name": "vdfblocks/large-number",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "#E20613",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "value": "168",
+                "align": "center",
+                "numberSize": 100,
+                "vdfblocks": {
+                  "custom": true
+                },
+                "className": "vdf-text-vodafonered"
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "6d67484d-f1a2-4a69-b42a-ed5ba79a1fb3",
+              "name": "core/heading",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "Countries with 4G roaming",
+                "level": 4,
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                },
+                "align": "center"
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "7ddf57fa-e193-47d8-87a1-d0c4e758f6b4",
+              "name": "core/paragraph",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Stone Grey",
+                    "color": "#4a4d4e"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "Our leading global 4G roaming footprint serves twice as many destinations as the next best local competitor in most of our markets",
+                "dropCap": false,
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                },
+                "align": "center"
+              },
+              "innerBlocks": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

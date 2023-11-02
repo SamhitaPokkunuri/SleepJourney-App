@@ -1,0 +1,438 @@
+{
+  "clientId": "40b7fc81-88b2-48be-b3c7-5c8623cbf6f5",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "attributes": {
+    "customColors": {
+      "text": "",
+      "background": "#F4F4F4"
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Stone Grey",
+        "color": "#4a4d4e"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "paddingTop": true,
+    "paddingBottom": true,
+    "fullWidth": false,
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    },
+    "className": "vdf-background-shadegrey"
+  },
+  "innerBlocks": [
+    {
+      "clientId": "b2f15242-7cd0-486a-96c0-b0b3ef4e9fcb",
+      "name": "core/group",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        },
+        "className": "vdf-large-number-feature"
+      },
+      "innerBlocks": [
+        {
+          "clientId": "b7ebe597-5b8a-4819-9b38-4c05cd69f605",
+          "name": "core/columns",
+          "isValid": true,
+          "attributes": {
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "c24800ab-a9bf-4405-b72c-1031c8407db8",
+              "name": "core/column",
+              "isValid": true,
+              "attributes": {
+                "width": 66.66,
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": [
+                {
+                  "clientId": "ef6ccf32-1a0f-4fec-b8d3-3678f4fae6ef",
+                  "name": "vdfblocks/large-number",
+                  "isValid": true,
+                  "attributes": {
+                    "customColors": {
+                      "text": "#E20613",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Stone Grey",
+                        "color": "#4a4d4e"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "value": "127m",
+                    "align": "left",
+                    "numberSize": "260",
+                    "vdfblocks": {
+                      "custom": true
+                    },
+                    "className": "vdf-text-vodafonered is-style-dropcase"
+                  },
+                  "innerBlocks": []
+                },
+                {
+                  "clientId": "322ad93a-fa35-4f43-838a-540499959da6",
+                  "name": "core/paragraph",
+                  "isValid": true,
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Stone Grey",
+                        "color": "#4a4d4e"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "content": "lives improved since 2016",
+                    "dropCap": false,
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                }
+              ]
+            },
+            {
+              "clientId": "e077b8ec-58eb-41aa-a177-40e4417f8ea6",
+              "name": "core/column",
+              "isValid": true,
+              "attributes": {
+                "width": 33.33,
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": [
+                {
+                  "clientId": "cb76b588-b93d-4296-9055-21b7ba9de6ac",
+                  "name": "vdfblocks/large-number",
+                  "isValid": true,
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Stone Grey",
+                        "color": "#4a4d4e"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "value": "90<span>.</span>6m",
+                    "align": "left",
+                    "numberSize": 100,
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                },
+                {
+                  "clientId": "e689ea10-09c9-4c69-8bc9-155d7a19ca06",
+                  "name": "core/paragraph",
+                  "isValid": true,
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Stone Grey",
+                        "color": "#4a4d4e"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "content": "indirect beneficiaries",
+                    "dropCap": false,
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                },
+                {
+                  "clientId": "05eeaaa7-68f5-4d14-ad7e-aae743e158d0",
+                  "name": "vdfblocks/large-number",
+                  "isValid": true,
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Stone Grey",
+                        "color": "#4a4d4e"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "value": "36<span>.</span>4m",
+                    "align": "left",
+                    "numberSize": 100,
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                },
+                {
+                  "clientId": "d7a877f1-5028-4039-83f0-4ffde47aefd4",
+                  "name": "core/paragraph",
+                  "isValid": true,
+                  "attributes": {
+                    "customColors": {
+                      "text": "",
+                      "background": ""
+                    },
+                    "displayTextColor": true,
+                    "displayBackgroundColor": false,
+                    "textColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Dark Grey",
+                        "color": "#333333"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "backgroundColors": [
+                      {
+                        "name": "White",
+                        "color": "#FFFFFF"
+                      },
+                      {
+                        "name": "Shade Grey",
+                        "color": "#F4F4F4"
+                      },
+                      {
+                        "name": "Stone Grey",
+                        "color": "#4a4d4e"
+                      },
+                      {
+                        "name": "Vodafone Red",
+                        "color": "#E20613"
+                      }
+                    ],
+                    "content": "direct beneficiaries",
+                    "dropCap": false,
+                    "widthControlExt": {
+                      "outerWidth": 12
+                    },
+                    "vdfblocks": {
+                      "custom": true
+                    }
+                  },
+                  "innerBlocks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

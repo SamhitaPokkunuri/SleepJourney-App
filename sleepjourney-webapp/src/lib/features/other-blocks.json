@@ -1,0 +1,626 @@
+{
+  "clientId": "81e1784e-59a9-417d-8f74-2276fa7a18a8",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "attributes": {
+    "customColors": {
+      "text": "",
+      "background": ""
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": true,
+      "text": "Other blocks",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "paddingTop": true,
+    "paddingBottom": true,
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    }
+  },
+  "innerBlocks": [
+    {
+      "clientId": "78ab53f2-e253-446b-b246-e200471ee564",
+      "name": "vdfblocks/social-feed",
+      "isValid": true,
+      "attributes": {
+        "heading": "Vodafone Foundation Social Feed",
+        "hasTwitter": true,
+        "hasInstagram": true,
+        "twitterPostCount": 2,
+        "instagramPostCount": 2,
+        "twitterFeed": "Vodafone Foundation",
+        "instagramFeed": "Vodafone Foundation",
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "6ab0ca0d-31bc-4801-8628-81566a8d2666",
+      "name": "vdfblocks/file-list",
+      "isValid": true,
+      "attributes": {
+        "count": "1",
+        "title": {
+          "toggle": true,
+          "text": "This is my cat file list"
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": [
+        {
+          "clientId": "3fec1551-736c-409a-b1dd-038d5baaebce",
+          "name": "core/file",
+          "isValid": true,
+          "attributes": {
+            "showDownloadButton": true,
+            "vdfblocks": {
+              "custom": true
+            },
+            "behaviour": "download",
+            "downloadButtonText": "Download",
+            "href": "http://localhost:3000/media/video1.mp4",
+            "textLinkHref": "http://localhost:3000/media/video1.mp4",
+            "id": 4,
+            "fileName": "A cat picture"
+          },
+          "innerBlocks": []
+        },
+        {
+          "clientId": "f17807ea-0597-445d-8bdd-50ee9c0d2a25",
+          "name": "core/file",
+          "isValid": true,
+          "attributes": {
+            "showDownloadButton": true,
+            "vdfblocks": {
+              "custom": true
+            },
+            "behaviour": "download",
+            "downloadButtonText": "Download",
+            "href": "http://localhost:3000/media/img1.jpg",
+            "textLinkHref": "http://localhost:3000/media/img1.jpg",
+            "id": 1,
+            "fileName": "Another cat picture"
+          },
+          "innerBlocks": []
+        }
+      ]
+    },
+    {
+      "clientId": "474934d9-0f6d-4857-b7f8-cc8646224809",
+      "name": "vdfblocks/social-profiles",
+      "isValid": true,
+      "attributes": {
+        "textAlign": "left",
+        "facebook": "a",
+        "twitter": "www.twitter.com/vodafone",
+        "instagram": "a",
+        "linkedin": "a",
+        "youtube": "a",
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "7b7fb7a0-05ad-40f9-8094-f94c7d9d53b1",
+      "name": "vdfblocks/social-share",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "textAlign": "right",
+        "facebook": false,
+        "linkedin": false,
+        "twitter": true,
+        "email": false,
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "e19d37e8-6c9e-4887-9315-56c54774d089",
+      "name": "core/table",
+      "isValid": true,
+      "attributes": {
+        "hasFixedLayout": false,
+        "caption": "Adding a caption for testing",
+        "head": [
+          {
+            "cells": [
+              {
+                "content": "Label one",
+                "tag": "th"
+              },
+              {
+                "content": "Label two",
+                "tag": "th"
+              },
+              {
+                "content": "Label three",
+                "tag": "th"
+              },
+              {
+                "content": "Label four",
+                "tag": "th"
+              }
+            ]
+          }
+        ],
+        "body": [
+          {
+            "cells": [
+              {
+                "content": "test",
+                "tag": "td"
+              },
+              {
+                "content": "very",
+                "tag": "td"
+              },
+              {
+                "content": "columns",
+                "tag": "td"
+              },
+              {
+                "content": "some",
+                "tag": "td"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": "another",
+                "tag": "td"
+              },
+              {
+                "content": "useful",
+                "tag": "td"
+              },
+              {
+                "content": "are",
+                "tag": "td"
+              },
+              {
+                "content": "more",
+                "tag": "td"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": "and ",
+                "tag": "td"
+              },
+              {
+                "content": "data",
+                "tag": "td"
+              },
+              {
+                "content": "colored",
+                "tag": "td"
+              },
+              {
+                "content": "table",
+                "tag": "td"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "content": "another",
+                "tag": "td"
+              },
+              {
+                "content": "here",
+                "tag": "td"
+              },
+              {
+                "content": "nicely",
+                "tag": "td"
+              },
+              {
+                "content": "content",
+                "tag": "td"
+              }
+            ]
+          }
+        ],
+        "foot": [],
+        "className": "is-style-vdf-colourful",
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "ead86d97-da92-48e9-89c0-586588ca7607",
+      "name": "core/quote",
+      "isValid": true,
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "value": "<p>This is a cool quote</p>",
+        "citation": "Some cool person",
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "e7982a4a-8956-484b-a2d1-d98e4b84ceac",
+      "name": "vdfblocks/iframe",
+      "isValid": true,
+      "attributes": {
+        "url": "https://tools.eurolandir.com/tools/ticker/html/?companycode=uk-vod&v=chart_lse&lang=en-gb",
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "eae5ea9d-b3c6-4039-ad0b-677e86aae0ff",
+      "name": "core/heading",
+      "isValid": true,
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "This is a heading 2",
+        "level": 2,
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "4bf0259e-ae7c-46ea-b4b4-62e2daffcd16",
+      "name": "core/heading",
+      "isValid": true,
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "This is a heading 3",
+        "level": 3,
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "c5945b2b-3ffc-43c8-b7c5-bb3ee93807bb",
+      "name": "core/heading",
+      "isValid": true,
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "This is a heading 4",
+        "level": 4,
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "3422c11a-6ce4-4599-a85b-5ec7340fbe59",
+      "name": "core/heading",
+      "isValid": true,
+      "attributes": {
+        "customColors": {
+          "text": "",
+          "background": ""
+        },
+        "displayTextColor": true,
+        "displayBackgroundColor": false,
+        "textColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Dark Grey",
+            "color": "#333333"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "backgroundColors": [
+          {
+            "name": "White",
+            "color": "#FFFFFF"
+          },
+          {
+            "name": "Shade Grey",
+            "color": "#F4F4F4"
+          },
+          {
+            "name": "Vodafone Red",
+            "color": "#E20613"
+          }
+        ],
+        "content": "This is a heading 5",
+        "level": 5,
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    },
+    {
+      "clientId": "b71deba9-ea8d-4ae6-b5f3-85687170c2bf",
+      "name": "core/group",
+      "isValid": true,
+      "attributes": {
+        "tagName": "div",
+        "widthControlExt": {
+          "outerWidth": 12
+        },
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": [
+        {
+          "clientId": "1ef61d80-9292-4cd8-bb89-e65adf298545",
+          "name": "core/paragraph",
+          "isValid": true,
+          "attributes": {
+            "customColors": {
+              "text": "",
+              "background": ""
+            },
+            "displayTextColor": true,
+            "displayBackgroundColor": false,
+            "textColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Dark Grey",
+                "color": "#333333"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "backgroundColors": [
+              {
+                "name": "White",
+                "color": "#FFFFFF"
+              },
+              {
+                "name": "Shade Grey",
+                "color": "#F4F4F4"
+              },
+              {
+                "name": "Vodafone Red",
+                "color": "#E20613"
+              }
+            ],
+            "content": "Testing paragraph within a group for width testing",
+            "dropCap": false,
+            "widthControlExt": {
+              "outerWidth": 8
+            },
+            "vdfblocks": {
+              "custom": true
+            },
+            "className": "col-8"
+          },
+          "innerBlocks": []
+        }
+      ]
+    },
+    {
+      "clientId": "6a5b9f8e-3d0a-435b-9459-da5e9ab87dd4",
+      "name": "core/spacer",
+      "isValid": true,
+      "attributes": {
+        "height": 100,
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": []
+    }
+  ]
+}

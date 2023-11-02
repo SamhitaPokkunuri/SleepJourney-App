@@ -1,0 +1,7 @@
+{
+  "extends": ["next", "prettier"],
+  "rules": {
+    "prefer-const": "error",
+    "no-unused-vars": "error"
+  }
+}

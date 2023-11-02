@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 134.13 126.38"><defs>
+<style>
+.cls-1{fill:none;}
+.cls-2{fill:#ebebeb;}
+.cls-3{fill:#ddd;}
+.cls-4{fill:#f4f4f4;}
+.cls-5{stroke:#e60101;stroke-linejoin:round;fill:none;stroke-linecap:round;stroke-width:3.73px;}
+.cls-6{clip-path:url(#clip-path);}
+.cls-7{fill:url(#linear-gradient);}
+.cls-8{fill:#ca0001;}
+.cls-9{fill:#e60101;}
+.cls-10{stroke:#494d4e;stroke-miterlimit:10;fill:none;stroke-linecap:round;stroke-width:3.73px;}
+</style>
+<clipPath id="clip-path"><path fill='none' d="M118.62,63.19v.32A55.78,55.78,0,1,1,62.85,7.41h.37A55.77,55.77,0,0,1,118.62,63.19Z"/></clipPath>
+<linearGradient id="linear-gradient" x1="56.09" y1="54.72" x2="97.94" y2="96.57" gradientTransform="matrix(0.8, 0.68, -0.8, 0.68, 95.09, -33.81)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-opacity="0.25"/><stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<g id="Layer_2" data-name="Layer 2">
+<g id="Layer_1-2" data-name="Layer 1">
+<path fill='#ebebeb' d="M126.37,63.19c0,.66,0,1.31,0,2a62.89,62.89,0,1,1,0-2Z"/>
+<path fill='#ddd' d="M119,61.6v.31A55.78,55.78,0,1,1,63.19,5.81h.36A55.78,55.78,0,0,1,119,61.6Z"/>
+<path fill='#f4f4f4' d="M118.62,63.19v.32A55.78,55.78,0,1,1,62.85,7.41h.37A55.77,55.77,0,0,1,118.62,63.19Z"/>
+<path stroke='#e60101' stroke-linecap='round' stroke-width='3.73px' stroke-linejoin='round' fill='none' d="M89.65,90.48l9.24,9.24a51.54,51.54,0,0,0,15-36.44h-13"/>
+<path fill='#ddd' d="M63.17,74.6h0a11.41,11.41,0,0,1-.78-22.79l.8,0A11.46,11.46,0,0,1,74.57,62.4,11.41,11.41,0,0,1,64,74.58Zm0-21.78c-.24,0-.49,0-.73,0a10.37,10.37,0,0,0-9.62,11.07,10.38,10.38,0,0,0,10.33,9.64h0c.24,0,.49,0,.74,0a10.37,10.37,0,0,0,9.62-11.07A10.4,10.4,0,0,0,63.19,52.82Z"/>
+<g clip-path='url(#clip-path)'><rect fill='url(#linear-gradient)' x="70.87" y="41.27" width="50.63" height="56.71" transform="translate(-21.06 88.4) rotate(-45)"/></g>
+<path fill='#ca0001' d="M59.56,62.18l30-30A3.46,3.46,0,0,1,94.5,37L64.28,67.26Z"/>
+<path fill='#e60101' d="M94.5,32.14a3.47,3.47,0,0,0-4.9,0L61,60.71l3.72,4.78L95.51,34.75A3.5,3.5,0,0,0,94.5,32.14Z"/>
+<path fill='#ca0001' d="M69.69,62.75a6.52,6.52,0,1,1-7-6A6.52,6.52,0,0,1,69.69,62.75Z"/>
+<path fill='#e60101' d="M69.65,62.14c.23,3.26-2.5,6.1-6.1,6.36s-6.69-2.19-6.92-5.45,2.51-6.11,6.1-6.36S69.42,58.88,69.65,62.14Z"/>
+<path fill='#ebebeb' d="M82.42,99.18a5.4,5.4,0,0,0-4.58-2.53H48.32A5.39,5.39,0,0,0,44,98.88L33.37,113.41l.83.41c7.12,3.54,21.21,6.88,29,6.88,8.37,0,20.75-3.57,27.42-6.88l.77-.38Zm-.23,11.4a.75.75,0,0,1-.46.46,70,70,0,0,1-19.33,2.89,77.57,77.57,0,0,1-18.8-2.84.71.71,0,0,1-.49-.46.74.74,0,0,1,.1-.66l5.17-7.09a.72.72,0,0,1,.58-.29H77.14a.7.7,0,0,1,.62.34l4.34,7A.73.73,0,0,1,82.19,110.58Z"/>
+<line stroke='#494d4e' stroke-linecap='round' stroke-width='3.73px' stroke-linejoin='round' fill='none' x1="63.11" y1="11.79" x2="63.11" y2="24.72"/>
+<line stroke='#494d4e' stroke-linecap='round' stroke-width='3.73px' stroke-linejoin='round' fill='none' x1="26.83" y1="26.63" x2="35.98" y2="35.78"/>
+<line stroke='#494d4e' stroke-linecap='round' stroke-width='3.73px' stroke-linejoin='round' fill='none' x1="11.78" y1="63.19" x2="24.71" y2="63.19"/>
+<line stroke='#494d4e' stroke-linecap='round' stroke-width='3.73px' stroke-linejoin='round' fill='none' x1="26.83" y1="99.54" x2="35.98" y2="90.39"/>
+</g>
+</g>
+</svg>

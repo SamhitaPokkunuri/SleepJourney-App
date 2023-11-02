@@ -1,0 +1,112 @@
+# this defines which stage a job runs in. More at: https://docs.gitlab.com/ee/ci/yaml/#stage
+stages:
+  - deploy
+
+# this defines an array of commands that should run before each job’s script commands. More at: https://docs.gitlab.com/ee/ci/yaml/#before_script
+before_script:
+  - 'curl -X POST --data-urlencode "payload={\"channel\": \"#vdf_vigor_deployments\", \"username\": \"vdf-deploy-bot\", \"text\": \"Starting deployment <$CI_PROJECT_URL|vdf-front-end> -> $CI_COMMIT_TAG. <$CI_PROJECT_URL/commit/$CI_COMMIT_SHA|Commit> | <$CI_PROJECT_URL/pipelines/$CI_PIPELINE_ID|Pipeline> | <$CI_PROJECT_URL/-/jobs/$CI_JOB_ID|Job>\", \"icon_emoji\": \":robot_face:\"}" $SLACK_TOKEN'
+
+# this is deploy stage
+deploy:
+  stage: deploy
+  # this defines Docker image to use for the job. This is a custom image. More at https://docs.gitlab.com/ee/ci/yaml/#image
+  image: registry.gitlab.com/dauntless-solutions/vodafone/vigor/vdf-front-end
+  # this defines only when a job runs. Now it will run on tags and merge requests. More at https://docs.gitlab.com/ee/ci/yaml/#only--except
+  only:
+    - /^\d+(?:\.\d?\d\.\d?\d)?$/
+  # this specifies commands for the runner to execute. More at https://docs.gitlab.com/ee/ci/yaml/#script
+  script:
+    # Series of git commands for versioning and pushing the code to acquia server
+    - git config --global user.email "dev@wearedauntless.com"
+    - git config --global user.name "Ratchet"
+    - git fetch --all
+    - git branch | grep '*'
+    - export VAR_GIT_REMOTE="$(git remote | grep vdf)"
+    - echo $VAR_GIT_REMOTE
+    - if [ ! -x $VAR_GIT_REMOTE ]; then git remote remove vdf; fi
+    - git remote add vdf vfdotcomnode@svn-15460.prod.hosting.acquia.com:vfdotcomnode.git
+    - export VAR_GIT_TAG_STAGING="$(git describe --tags `git rev-list --tags --max-count=1`)-staging"
+    - export VAR_GIT_TAG_PROD="$(git describe --tags `git rev-list --tags --max-count=1`)-production"
+    - echo "Starting to deploy $VAR_GIT_TAG_PROD"
+    - mv robots.production.txt ./public/robots.txt
+    - git add ./public/robots.txt
+    - git commit -am "adding content for version $VAR_GIT_TAG_PROD"
+    - git tag -a $VAR_GIT_TAG_PROD -m "Version $VAR_GIT_TAG_PROD"
+    - git push vdf $VAR_GIT_TAG_PROD
+    # acquia pipeline command to start pipeline
+    - /pipelines start --application-id bf30dbca-7a15-4a19-a742-92c887900b13
+    # sending notification to slack
+    - 'curl -X POST --data-urlencode "payload={\"channel\": \"#vdf_vigor_deployments\", \"username\": \"vdf-deploy-bot\", \"text\": \"Finished deployment production <$CI_PROJECT_URL|vdf-front-end> -> $CI_COMMIT_TAG. <$CI_PROJECT_URL/commit/$CI_COMMIT_SHA|Commit> | <$CI_PROJECT_URL/pipelines/$CI_PIPELINE_ID|Pipeline> | <$CI_PROJECT_URL/-/jobs/$CI_JOB_ID|Job>\", \"icon_emoji\": \":robot_face:\"}" $SLACK_TOKEN'
+    # Series of git commands for versioning and pushing the code to acquia server for staging
+    - echo "starting to deploy $VAR_GIT_TAG_STAGING"
+    - rm -rf .env.production
+    - mv .env.staging .env.production
+    - mv robots.staging.txt ./public/robots.txt
+    - git add ./public/robots.txt
+    - git commit -am "adding content for version $VAR_GIT_TAG_STAGING"
+    - git tag -a $VAR_GIT_TAG_STAGING -m "Version $VAR_GIT_TAG_STAGING"
+    - git push vdf $VAR_GIT_TAG_STAGING
+    # acquia pipeline command to start pipeline
+    - /pipelines start --application-id bf30dbca-7a15-4a19-a742-92c887900b13
+    # sending notification to slack
+    - 'curl -X POST --data-urlencode "payload={\"channel\": \"#vdf_vigor_deployments\", \"username\": \"vdf-deploy-bot\", \"text\": \"Finished deployment staging <$CI_PROJECT_URL|vdf-front-end> -> $CI_COMMIT_TAG. <$CI_PROJECT_URL/commit/$CI_COMMIT_SHA|Commit> | <$CI_PROJECT_URL/pipelines/$CI_PIPELINE_ID|Pipeline> | <$CI_PROJECT_URL/-/jobs/$CI_JOB_ID|Job>\", \"icon_emoji\": \":robot_face:\"}" $SLACK_TOKEN'
+
+# this is deploy-stage for building code for stage only
+deploy-stage:
+  stage: deploy
+  # this defines Docker image to use for the job. This is a custom image. More at https://docs.gitlab.com/ee/ci/yaml/#image
+  image: registry.gitlab.com/dauntless-solutions/vodafone/vigor/vdf-front-end
+  # this defines only when a job runs. Now it will run on tags and merge requests. More at https://docs.gitlab.com/ee/ci/yaml/#only--except
+  only:
+    - /^\d+(?:\.\d?\d\.\d?\d-RC[0-9]+)?$/
+  script:
+     # Series of git commands for versioning and pushing the code to acquia server
+    - git config --global user.email "dev@wearedauntless.com"
+    - git config --global user.name "Ratchet"
+    - git fetch --all
+    - export VAR_GIT_TAG="$(git describe --tags)"
+    - echo "current tag $VAR_GIT_TAG"
+    - export VAR_GIT_REMOTE="$(git remote | grep vdf)"
+    - echo $VAR_GIT_REMOTE
+    - if [ ! -x $VAR_GIT_REMOTE ]; then git remote remove vdf; fi
+    - git remote add vdf vfdotcomnode@svn-15460.prod.hosting.acquia.com:vfdotcomnode.git
+    - export VAR_GIT_TAG_STAGING="$VAR_GIT_TAG-staging"
+    - echo "starting to deploy $VAR_GIT_TAG_STAGING"
+    - rm -rf .env.production
+    - mv .env.staging .env.production
+    - mv robots.staging.txt ./public/robots.txt
+    - git add ./public/robots.txt
+    - git commit -am "adding content for version $VAR_GIT_TAG_STAGING"
+    - git tag -a $VAR_GIT_TAG_STAGING -m "Version $VAR_GIT_TAG_STAGING"
+    - git push vdf $VAR_GIT_TAG_STAGING
+    # acquia pipeline command to start pipeline
+    - /pipelines start --application-id bf30dbca-7a15-4a19-a742-92c887900b13
+    # sending notification to slack,
+    - 'curl -X POST --data-urlencode "payload={\"channel\": \"#vdf_vigor_deployments\", \"username\": \"vdf-deploy-bot\", \"text\": \"Finished deployment staging <$CI_PROJECT_URL|vdf-front-end> -> $CI_COMMIT_TAG. <$CI_PROJECT_URL/commit/$CI_COMMIT_SHA|Commit> | <$CI_PROJECT_URL/pipelines/$CI_PIPELINE_ID|Pipeline> | <$CI_PROJECT_URL/-/jobs/$CI_JOB_ID|Job>\", \"icon_emoji\": \":robot_face:\"}" $SLACK_TOKEN'
+
+deploy-dev:
+  stage: deploy
+  image: registry.gitlab.com/dauntless-solutions/vodafone/vigor/vdf-front-end
+  only:
+    - /^\d+(?:\.\d?\d\.\d?\d-DEV[0-9]+)?$/
+  script:
+    - git config --global user.email "dev@wearedauntless.com"
+    - git config --global user.name "Ratchet"
+    - git fetch --all
+    - export VAR_GIT_TAG="$(git describe --tags)"
+    - echo "current tag $VAR_GIT_TAG"
+    - export VAR_GIT_REMOTE="$(git remote | grep vdf)"
+    - echo $VAR_GIT_REMOTE
+    - if [ ! -x $VAR_GIT_REMOTE ]; then git remote remove vdf; fi
+    - git remote add vdf vfdotcomnode@svn-15460.prod.hosting.acquia.com:vfdotcomnode.git
+    - export VAR_GIT_TAG_DEV="$VAR_GIT_TAG-development"
+    - echo "starting to deploy $VAR_GIT_TAG_DEV"
+    - rm -rf .env.production
+    - mv .env.development .env.production
+    - mv robots.staging.txt ./public/robots.txt
+    - git add ./public/robots.txt
+    - git commit -am "adding content for version $VAR_GIT_TAG_DEV"
+    - git tag -a $VAR_GIT_TAG_DEV -m "Version $VAR_GIT_TAG_DEV"
+    - git push vdf $VAR_GIT_TAG_DEV
+    - /pipelines start --application-id bf30dbca-7a15-4a19-a742-92c887900b13
+    - 'curl -X POST --data-urlencode "payload={\"channel\": \"#vdf_vigor_deployments\", \"username\": \"vdf-deploy-bot\", \"text\": \"Finished deployment dev <$CI_PROJECT_URL|vdf-front-end> -> $CI_COMMIT_TAG. <$CI_PROJECT_URL/commit/$CI_COMMIT_SHA|Commit> | <$CI_PROJECT_URL/pipelines/$CI_PIPELINE_ID|Pipeline> | <$CI_PROJECT_URL/-/jobs/$CI_JOB_ID|Job>\", \"icon_emoji\": \":robot_face:\"}" $SLACK_TOKEN'

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="116.558"
+   height="118.5"
+   viewBox="0 0 116.558 118.5"
+   version="1.1"
+   id="svg409"
+   sodipodi:docname="person-one-standing.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata415">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs413" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="959"
+     id="namedview411"
+     showgrid="false"
+     inkscape:zoom="6.2025316"
+     inkscape:cx="32.669498"
+     inkscape:cy="59.25"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg409" />
+  <g
+     id="Group_1"
+     data-name="Group 1"
+     transform="translate(-401.21163,-481)">
+    <circle
+       id="Ellipse_1"
+       data-name="Ellipse 1"
+       cx="9"
+       cy="9"
+       r="9"
+       transform="translate(451.5,484)"
+       fill="none"
+       stroke="#e60000"
+       stroke-width="6" />
+    <path
+       id="Union_1"
+       data-name="Union 1"
+       d="M 7,68 V 41.542 A 10.005,10.005 0 0 1 0,32 V 10 A 10,10 0 0 1 10,0 h 12 a 10,10 0 0 1 10,10 v 22 a 10,10 0 0 1 -7,9.542 V 68 Z"
+       transform="translate(443.5,508)"
+       fill="none"
+       stroke="#e60000"
+       stroke-width="7" />
+    <path
+       id="Path_1"
+       data-name="Path 1"
+       d="m 0,0 h 39 l 8,20 H -8 Z"
+       transform="translate(440.5,576)"
+       fill="none"
+       stroke="#e60000"
+       stroke-linejoin="round"
+       stroke-width="7" />
+  </g>
+</svg>

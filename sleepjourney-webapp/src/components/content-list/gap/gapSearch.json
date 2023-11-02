@@ -1,0 +1,43 @@
+{
+  "documents": {
+    "InvestorRelation": {
+      "id": 77021,
+      "title": "Vodafone Investors",
+      "url": {
+        "url": "https://investors.vodafone.com/",
+        "openAs": "new-tab"
+      },
+      "status": true,
+      "description": "Vodafone investors.",
+      "thumbnailImage": "/sites/default/files/2020-11/990_day2_India_Niphad_Fiza-%26-sister_9846.jpg.rendition.992.992.jpg.rendition.3840.3840.jpg",
+      "category": "InvestorRelation",
+      "gapSearch": true
+    },
+    "Career": {
+      "id": 76996,
+      "title": "Vodafone Career",
+      "url": {
+        "url": "https://careers.vodafone.com/",
+        "openAs": "new-tab"
+      },
+      "status": true,
+      "description": "Vodafone career.",
+      "thumbnailImage": "/sites/default/files/2020-11/home_hero.jpg",
+      "category": "Career",
+      "gapSearch": true
+    },
+    "Business": {
+      "id": 76999,
+      "title": "Vodafone Business",
+      "url": {
+        "url": "https://www.vodafone.com/business/home",
+        "openAs": "new-tab"
+      },
+      "status": true,
+      "description": "Vodafone business.",
+      "thumbnailImage": "/sites/default/files/2020-09/what_we_do_vodafone-business-780x385_0.jpg",
+      "category": "Business",
+      "gapSearch": true
+    }
+  }
+}

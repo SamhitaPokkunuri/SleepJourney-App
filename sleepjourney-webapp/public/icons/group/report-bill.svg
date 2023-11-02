@@ -1,0 +1,34 @@
+<svg id="document-hi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192"><defs>
+<style>
+.cls-1{fill:#ebebeb;}
+.cls-2{opacity:0.06;}
+.cls-3{opacity:0.2;fill:url(#Unbenannter_Verlauf_12);}
+.cls-4{fill:none;}
+.cls-5{stroke:#4a4d4e; fill:#4a4d4e;stroke-linecap:round;stroke-miterlimit:10;stroke-width:4px;}
+.cls-6{stroke:#e60000; fill:#4a4d4e;stroke-linecap:round;stroke-miterlimit:10;stroke-width:4px;}
+.cls-7{fill:#e60000;}
+</style>
+<linearGradient id="Unbenannter_Verlauf_12" x1="125.08" y1="44.36" x2="159.64" y2="78.92" gradientUnits="userSpaceOnUse">
+<stop offset="0"/><stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<g id="Apps_ic_hi">
+<g id="Bill_ic_hi">
+<g id="Report_ic_hi">
+<g id="vodafone_store_ic_hi">
+<g id="Broadband_ic_hi">
+<g id="Business_ic_hi">
+<g id="Calendar_ic_hi">
+<g id="Camera_ic_hi">
+<g id="Data_ic_hi">
+<g id="Desktop_ic_hi">
+<g id="Document_ic_hi">
+<path fill='#ebebeb' d="M40,44V160h0a16,16,0,0,0,16,16h80a16,16,0,0,0,16-16h0V56H128a16,16,0,0,1-16-16V16H56A16,16,0,0,0,40,32V44" transform="translate(0 0)"/>
+<path fill='#ebebeb' d="M152,56H128a16,16,0,0,1-16-16V16Z" transform="translate(0 0)"/>
+<path style='opacity:0.06' d="M128,54a16,16,0,0,1-16-16v2a16,16,0,0,0,16,16h24l-2-2Z" transform="translate(0 0)"/>
+<path style='opacity:0.06' fill='url(#Unbenannter_Verlauf_12)' d="M128,56c-.53,0-1,0-1.57-.08l-.61-.09c-.3,0-.6-.07-.89-.13s-.53-.12-.8-.19-.43-.1-.64-.17-.6-.19-.9-.3l-.47-.17c-.33-.13-.65-.28-1-.43l-.32-.15c-.35-.18-.69-.36-1-.56l-.19-.12c-.36-.22-.71-.46-1.05-.7l-.09-.07c-.36-.27-.71-.55-1-.84h0L152,86.56V56Z" transform="translate(0 0)"/>
+<rect fill='none' width="192" height="192"/>
+<path style='opacity:0.06' d="M136,174H56a16,16,0,0,1-16-16v2a16,16,0,0,0,16,16h80a16,16,0,0,0,16-16v-2A16,16,0,0,1,136,174Z" transform="translate(0 0)"/>
+<line fill='#4a4d4e' stroke='#4a4d4e' stroke-linecap='round' stroke-miterlimit='10' stroke-width='4px' x1="61.73" y1="131.86" x2="129.74" y2="131.86"/>
+<line fill='#4a4d4e' stroke='#e60000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='4px' x1="109.45" y1="148.15" x2="129.74" y2="148.15"/>
+<circle fill='#e60000' cx="59.99" cy="35.92" r="8.06"/></g></g></g></g></g></g></g></g></g></g></g></svg>

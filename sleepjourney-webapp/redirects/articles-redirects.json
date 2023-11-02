@@ -1,0 +1,662 @@
+[
+  {
+    "source": "/our-purpose/operating-responsibly/child-online-safety/blogs/:path",
+    "destination": "/news/inclusion/:path",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/operating-responsibly/child-online-safety/parents-and-carers/decoding-code/:path",
+    "destination": "/news/technology/:path",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/vodafone-foundation-brings-emergency-connectivity-lesvos",
+    "destination": "/news/vodafone-foundation/vodafone-foundation-brings-emergency-connectivity-lesvos",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/year-has-made-us-realise-being-connected-really-matters",
+    "destination": "/news/digital-society/year-has-made-us-realise-being-connected-really-matters",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/how-technology-can-help-us-build-education-systems-of-the-future",
+    "destination": "/news/digital-society/how-technology-can-help-us-build-education-systems-of-the-future",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/how-technology-is-connecting-mothers-with-critical-health-services-in-africa",
+    "destination": "/news/vodafone-foundation/how-technology-is-connecting-mothers-with-critical-health-services-in-africa",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/become-a-dreamracer-and-race-to-help-fight-covid-19",
+    "destination": "/news/vodafone-foundation/become-a-dreamracer-and-race-to-help-fight-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/how-vodafone-foundation-continues-to-support-refugee-education",
+    "destination": "/news/vodafone-foundation/how-vodafone-foundation-continues-to-support-refugee-education",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/vodafone-greece-foundation-remote-learning-for-young-refugees",
+    "destination": "/news/inclusion/vodafone-greece-foundation-remote-learning-for-young-refugees",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/vodafone-ghana-foundation-helps-frontline-workers-against-covid-19",
+    "destination": "/news/technology/vodafone-ghana-foundation-helps-frontline-workers-against-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/vodafone-albania-foundation-redforkids",
+    "destination": "/news/vodafone-foundation/vodafone-albania-foundation-redforkids",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/domestic-violence-abuse-providing-support-during-isolation",
+    "destination": "/news/vodafone-foundation/domestic-violence-abuse-providing-support-during-isolation",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/vodafone-spain-foundation-telephone-support-senior",
+    "destination": "/news/vodafone-foundation/vodafone-spain-foundation-telephone-support-senior",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/harnessing-ai-and-mobile-supercomputing",
+    "destination": "/news/viewpoint/harnessing-ai-and-mobile-supercomputing",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/providing-technology-and-compassion-to-those-most-in-need",
+    "destination": "/news/technology/providing-technology-and-compassion-to-those-most-in-need",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/supporting-health-services-during-the-covid-19-crisis",
+    "destination": "/news/vodafone-foundation/supporting-health-services-during-the-covid-19-crisis",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/vodafone-hungary-new-lifesaver-app-features",
+    "destination": "/news/vodafone-foundation/vodafone-hungary-new-lifesaver-app-features",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/covid-19-online-doctor-consultations",
+    "destination": "/news/technology/covid-19-online-doctor-consultations",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/5g-and-health",
+    "destination": "/news/technology/5g-and-health",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/thought-leadership-piece-on-the-network-and-connectivity",
+    "destination": "/news/viewpoint/thought-leadership-piece-on-the-network-and-connectivity",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/update-on-vodafone-networks",
+    "destination": "/news/technology/update-on-vodafone-networks",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/vodafones-italy-ceo-discusses-the-coronavirus-crisis",
+    "destination": "/news/viewpoint/vodafones-italy-ceo-discusses-the-coronavirus-crisis",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/vodafone-italy-tv-advert-made-entirely-home-staying-close-using-connectivity",
+    "destination": "/news/services/vodafone-italy-tv-advert-made-entirely-home-staying-close-using-connectivity",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news/:path",
+    "destination": "/news/digital-society/:path",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/operating-responsibly/child-online-safety/parents-and-carers/family-views/markus_and_max",
+    "destination": "/news/products/markus_and_max",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/operating-responsibly/child-online-safety/parents-and-carers/family-views/oliver-and-mabel",
+    "destination": "/news/products/oliver-and-mabel",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/operating-responsibly/child-online-safety/parents-and-carers/family-views/danielle-eva-avery",
+    "destination": "/news/public-policy/danielle-eva-avery",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/operating-responsibly/child-online-safety/parents-and-carers/family-views/:path",
+    "destination": "/news/inclusion/:path",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/innovation/innovation-stories/:path",
+    "destination": "/news/technology/:path",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/technology/innovation/success-stories/:path",
+    "destination": "/news/technology/:path",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/public-policy/vodafone-in-europe/gig-economy-or-giga-economy",
+    "destination": "/news/public-policy/gig-economy-or-giga-economy",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/partnermarkets/partner-markets-stories/news/vodafone-and-sunrise-announce-partnership-agreement",
+    "destination": "/news/press-release/vodafone-and-sunrise-announce-partnership-agreement",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/partnermarkets/partner-markets-stories/news/afrimax-cameroon",
+    "destination": "/news/press-release/afrimax-cameroon",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/partnermarkets/partner-markets-stories/news/:path",
+    "destination": "/news/services/:path",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-announces-new-employee-fundraising-initiative",
+    "destination": "/news/press-release/vodafone-announces-new-employee-fundraising-initiative",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-foundation-imperial-college-london-team-up-with-dreamlab-against-coronavirus",
+    "destination": "/news/vodafone-foundation-news/vodafone-foundation-imperial-college-london-team-up-with-dreamlab-against-coronavirus",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/mohamed-salah-joins-up-with-vodafone-foundation",
+    "destination": "/news/press-release/mohamed-salah-joins-up-with-vodafone-foundation",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/art-students-in-kenyan-refugee-camp-amazed-by",
+    "destination": "/news/press-release/art-students-in-kenyan-refugee-camp-amazed-by",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-foundation-and-unhcr-expand-instant-network-schools-programme",
+    "destination": "/news/press-release/vodafone-foundation-and-unhcr-expand-instant-network-schools-programme",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-foundation-director-andrew-dunnett-to-assume-additional-responsibility-for-vodafone-sustainable-business-function",
+    "destination": "/news/press-release/vodafone-foundation-director-andrew-dunnett-to-assume-additional-responsibility-for-vodafone-sustainable-business-function",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-foundation-use-aggregate-data",
+    "destination": "/news/press-release/vodafone-foundation-use-aggregate-data",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/instantschools-forafrica",
+    "destination": "/news/press-release/instantschools-forafrica",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-foundation-instant-network-team-deployed-to-nepal",
+    "destination": "/news/press-release/vodafone-foundation-instant-network-team-deployed-to-nepal",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-launch-nreal-ar-and-mr-glasses-across-europe",
+    "destination": "/news/press-release/vodafone-launch-nreal-ar-and-mr-glasses-across-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-recognised-cdp-score-climate-change-actions-and-transparency",
+    "destination": "/news/press-release/vodafone-recognised-cdp-score-climate-change-actions-and-transparency",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/major-european-operators-commit-open-ran-developments",
+    "destination": "/news/press-release/major-european-operators-commit-open-ran-developments",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/mts-vodafone-extend-strategic-partnership",
+    "destination": "/news/press-release/mts-vodafone-extend-strategic-partnership",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/vodafone-group-plc-vantage-towers",
+    "destination": "/news/press-release/vodafone-group-plc-vantage-towers",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/discovery-and-vodafone-announce-landmark-partnership-including-new-discovery-streaming-service",
+    "destination": "/news/press-release/discovery-and-vodafone-announce-landmark-partnership-including-new-discovery-streaming-service",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/combination-tower-assets-vodafone-greece-and-wind-hellas-completed",
+    "destination": "/news/press-release/combination-tower-assets-vodafone-greece-and-wind-hellas-completed",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafone-named-top-25-global-corporate-working-start-ups",
+    "destination": "/news/digital-society/vodafone-named-top-25-global-corporate-working-start-ups",
+    "statusCode": 301
+  },
+  {
+    "source": "/if-europe-serious-about-its-data-strategy-it-needs-get-eprivacy-right",
+    "destination": "/news/viewpoint/if-europe-serious-about-its-data-strategy-it-needs-get-eprivacy-right",
+    "statusCode": 301
+  },
+  {
+    "source": "/vodafone-ghana-best-telecom-company",
+    "destination": "/news/digital-society/vodafone-ghana-best-telecom-company",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/public-policy/creating-stronger-digital-europe",
+    "destination": "/news/viewpoint/creating-stronger-digital-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/public-policy/if-europe-serious-about-its-data-strategy-it-needs-get-eprivacy-right",
+    "destination": "/news/viewpoint/if-europe-serious-about-its-data-strategy-it-needs-get-eprivacy-right",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/planet/how-digitisation-helping-pave-way-climate-neutrality",
+    "destination": "/news/viewpoint/how-digitisation-helping-pave-way-climate-neutrality",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/planet/tackling-e-waste-and-enabling-circular-economy-electronic-products",
+    "destination": "/news/viewpoint/tackling-e-waste-and-enabling-circular-economy-electronic-products",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/digital-society/sme-digitalisation",
+    "destination": "/news/viewpoint/sme-digitalisation",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/planet/building-a-sustainable-future",
+    "destination": "/news/viewpoint/building-a-sustainable-future",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/digital-society/four-ways-digitisation-can-unlock-africas-recovery",
+    "destination": "/news/viewpoint/four-ways-digitisation-can-unlock-africas-recovery",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/digital-society/societal-resilience",
+    "destination": "/news/viewpoint/societal-resilience",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/public-policy/onnected-car-legislation",
+    "destination": "/news/viewpoint/onnected-car-legislation",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/planet/lower-carbon-energy",
+    "destination": "/news/viewpoint/lower-carbon-energy",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/inclusion/storm-igen",
+    "destination": "/news/viewpoint/storm-igen",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/digital-society/big-data-analytics",
+    "destination": "/news/viewpoint/big-data-analytics",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/digital-society/digital-resilience-the-foundation-of-a-safer-internet",
+    "destination": "/news/viewpoint/digital-resilience-the-foundation-of-a-safer-internet",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/vodafone-foundation-announces-european-digital-skills-drive-release",
+    "destination": "/news/press-release/skills-upload-europe",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/digital-society/factory-of-the-future",
+    "destination": "/news/viewpoint/factory-of-the-future",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/harnessing-ai-and-mobile-supercomputing",
+    "destination": "/news/viewpoint/harnessing-ai-and-mobile-supercomputing",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/planet/vodafone-recognised-cdp-score-climate-change-actions-and-transparency",
+    "destination": "/news/press-release/vodafone-recognised-cdp-score-climate-change-actions-and-transparency",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/vodafone-announces-new-employee-fundraising-initiative",
+    "destination": "/news/press-release/vodafone-announces-new-employee-fundraising-initiative",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/vodafone-foundation-imperial-college-london-team-up-with-dreamlab-against-coronavirus",
+    "destination": "/news/press-release/vodafone-foundation-imperial-college-london-team-up-with-dreamlab-against-coronavirus",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/mohamed-salah-joins-up-with-vodafone-foundation",
+    "destination": "/news/press-release/mohamed-salah-joins-up-with-vodafone-foundation",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/art-students-in-kenyan-refugee-camp-amazed-by",
+    "destination": "/news/press-release/art-students-in-kenyan-refugee-camp-amazed-by",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/vodafone-foundation-director-andrew-dunnett-to-assume-additional-responsibility-for-vodafone-sustainable-business-function",
+    "destination": "/news/press-release/vodafone-foundation-director-andrew-dunnett-to-assume-additional-responsibility-for-vodafone-sustainable-business-function",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/vodafone-foundation-use-aggregate-data",
+    "destination": "/news/press-release/vodafone-foundation-use-aggregate-data",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/instantschools-forafrica",
+    "destination": "/news/press-release/instantschools-forafrica",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/vodafone-foundation/vodafone-foundation-instant-network-team-deployed-to-nepal",
+    "destination": "/news/press-release/vodafone-foundation-instant-network-team-deployed-to-nepal",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media/vodafone-group-releases/news/:path",
+    "destination": "/news/press-release/:path",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/technology/vodafone-and-ast-spacemobile-unveil-launch-plans-space-based-mobile-network-initially-reaching-16",
+    "destination": "/news/press-release/vodafone-and-ast-spacemobile-unveil-launch-plans-space-based-mobile-network-initially-reaching-16",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/inclusion/m-pesa-created",
+    "destination": "/news/viewpoint/m-pesa-created",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-extends-partnership-agreement-in-ukraine",
+    "destination": "/news/press-release/vodafone-extends-partnership-agreement-in-ukraine",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/technology/vodafone-and-sunrise-announce-partnership-agreement",
+    "destination": "/news/press-release/vodafone-and-sunrise-announce-partnership-agreement",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-oman-future-telecommunications-announce-new-partnership-that-will-bring-the-vodafone-brand-to-oman",
+    "destination": "/news/press-release/vodafone-oman-future-telecommunications-announce-new-partnership-that-will-bring-the-vodafone-brand-to-oman",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-group-completes-sale-of-vodafone-new-zealand",
+    "destination": "/news/press-release/vodafone-group-completes-sale-of-vodafone-new-zealand",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-group-announces-sale-of-vodafone-new-zealand-and-new-partner-market-agreement",
+    "destination": "/news/press-release/vodafone-group-announces-sale-of-vodafone-new-zealand-and-new-partner-market-agreement",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/completion-of-the-sale-of-vodafone-qatar",
+    "destination": "/news/press-release/completion-of-the-sale-of-vodafone-qatar",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/qatar-foundation-to-acquire-vodafone-stake",
+    "destination": "/news/press-release/qatar-foundation-to-acquire-vodafone-stake",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/softbank-strategic-alliance",
+    "destination": "/news/press-release/softbank-strategic-alliance",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-tdc",
+    "destination": "/news/press-release/vodafone-tdc",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-tele2",
+    "destination": "/news/press-release/vodafone-tele2",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-starhub-singapore",
+    "destination": "/news/press-release/vodafone-starhub-singapore",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/technology/afrimax-cameroon",
+    "destination": "/news/press-release/afrimax-cameroon",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/afrimax-zambia",
+    "destination": "/news/press-release/afrimax-zambia",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-and-sfr-renew-partner-market-agreement-for-four-years",
+    "destination": "/news/press-release/vodafone-and-sfr-renew-partner-market-agreement-for-four-years",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-swisscom",
+    "destination": "/news/press-release/vodafone-swisscom",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/vodafone-globacom-partnership",
+    "destination": "/news/press-release/vodafone-globacom-partnership",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/mts-ukraine",
+    "destination": "/news/press-release/mts-ukraine",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/btcl",
+    "destination": "/news/press-release/btcl",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/services/guam-cnmi",
+    "destination": "/news/press-release/guam-cnmi",
+    "statusCode": 301
+  },
+  {
+    "source": "/porsche-formula-e-racing-sponsorship/formula-e-season-berlin-finale/podium-at-the-restart-second-place-for-porsche-and-lotterer-in-berlin",
+    "destination": "/news/digital-society/podium-restart-second-place-porsche-and-lotterer-berlin",
+    "statusCode": 301
+  },
+  {
+    "source": "/porsche-formula-e-racing-sponsorship/formula-e-season-berlin-finale/porsche-formula-e-team-visit-vodafone",
+    "destination": "/news/digital-society/porsche-formula-e-team-visit-vodafone",
+    "statusCode": 301
+  },
+  {
+    "source": "/porsche-formula-e-racing-sponsorship/formula-e-season-berlin-finale/pascal-wehrlein-joins-andre-lotterer-as-driver-pairing",
+    "destination": "/news/planet/pascal-wehrlein-joins-andre-lotterer-driver-pairing-season-7-porsche",
+    "statusCode": 301
+  },
+  {
+    "source": "/europeconnected/desi",
+    "destination": "/about-vodafone/how-we-operate/public-policy/desi-and-the-benefits-of-a-digital-society",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/where-we-operate/partner-markets/news/Vodafone-and-Telecom-Argentina-announce-partnership-agreement",
+    "destination": "/news/press-release/vodafone-and-telecom-argentina-announce-partnership-agreement",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/where-we-operate/partner-markets/news/softbank-strategic-alliance",
+    "destination": "/news/press-release/softbank-strategic-alliance",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/vodafone-spain-foundation-telephone-support-senior",
+    "destination": "/news/vodafone-foundation/vodafone-spain-foundation-telephone-support-senior",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/meet-some-of-our-amazing-employees",
+    "destination": "/news/digital-society/meet-some-of-our-amazing-employees",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps",
+    "destination": "/dreamlab",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/vodafone-greece-foundation-remote-learning-for-young-refugees",
+    "destination": "/news/inclusion/vodafone-greece-foundation-remote-learning-for-young-refugees",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/sandbox/smart-summer2",
+    "destination": "/news/technology/smart-summer",
+    "statusCode": 301
+  },
+  {
+    "source": "/perspectives/sandbox/spider-man-vodafone-future-jobs-finder",
+    "destination": "/news/inclusion/what-digital-job-could-spider-man-do",
+    "statusCode": 301
+  },
+  {
+    "source": "/about/where-we-operate/partner-markets/news/vodafone-expands-partnership-programme-to-movicel-in-angola",
+    "destination": "/news/press-release/vodafone-expands-partnership-programme-to-movicel-in-angola",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/czech-republic/news/tam.je/dreamlabgoogle",
+    "destination": "/what-we-do/services/apps/dreamlab/czech-republic/news/dreamlab-enables-imperial-college-london-to-accelerate-search-for-drugs-and-hyperfoods-that-could-potentially-help-those-with-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/providing-technology-and-compassion-to-those-most-in-need",
+    "destination": "/news/technology/providing-technology-and-compassion-to-those-most-in-need",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/vodafone_employees_get_creative_masks",
+    "destination": "/news/digital-society/vodafone_employees_get_creative_masks",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/videos-connected/vodafone-employees-stayconnected",
+    "destination": "/covid19/videos/vodafone-employees-stayconnected",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/vodafone-ghana-foundation-helps-frontline-workers-against-covid-19",
+    "destination": "/news/technology/vodafone-ghana-foundation-helps-frontline-workers-against-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/connectivity-and-comfort-at-the-click-of-a-button",
+    "destination": "/news/digital-society/connectivity-and-comfort-at-the-click-of-a-button",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid19/news-connected/become-a-dreamracer-and-race-to-help-fight-covid-19",
+    "destination": "/news/vodafone-foundation/become-a-dreamracer-and-race-to-help-fight-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/digital-parenting/parents-and-carers/be-strong-online",
+    "destination": "/sustainable-business/our-purpose-pillars/inclusion-all",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/inclusion/peer-pressure",
+    "destination": "/our-purpose/operating-responsibly/child-online-safety/blogs",
+    "statusCode": 301
+  },
+  {
+    "source": "/our-purpose/operating-responsibly/child-online-safety/free-resources/be-strong-emojis",
+    "destination": "/news/inclusion/be-strong-online-emojis",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/shareholders/dividends-test",
+    "destination": "https://investors.vodafone.com/individual-shareholders/dividends",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/shareholders/dividends",
+    "destination": "https://investors.vodafone.com/individual-shareholders/dividends",
+    "statusCode": 301
+  },
+  {
+    "source": "/investors/shareholders/adr-holders-dividends",
+    "destination": "https://investors.vodafone.com/individual-shareholders/dividends",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/media/news-images/vf_s_more_do_more_getmore.gif",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/iot/gartner-positions-vodafone-as-a-leader-in-its-magic-quadrant-for-managed-m2m-services-worldwide-2016-10-20",
+    "destination": "/news/press-release/hybrid-cloud-hosting",
+    "statusCode": 301
+  },
+  {
+    "source": "/content/dam/vodafone-images/investors/pdfs/bond-final-terms/eur-sept-25.pdf",
+    "destination": "/sites/default/files/2020-09/eur-sept-25.pdf",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/press-release/c.flato@eslgaming.com",
+    "destination": "/news/press-release/vodafone-esl-announce-international-esports-partnership",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-we-do/services/apps/dreamlab/czech-republic/news/tam.je/dreamlabapple",
+    "destination": "/what-we-do/services/apps/dreamlab/czech-republic/news/dreamlab-dokon_uje-1-fazi-sveho-projektu-corona-ai",
+    "statusCode": 301
+  },
+  {
+    "source": "/news-and-media",
+    "destination": "/news",
+    "statusCode": 301
+  }
+]

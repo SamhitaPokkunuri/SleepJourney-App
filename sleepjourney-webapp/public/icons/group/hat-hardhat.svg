@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 161.48 110.54"><defs>
+<style>
+.cls-1{fill:none;}
+.cls-2{fill:#ebebeb;}
+.cls-3{fill:#ddd;}
+.cls-4{stroke:#ddd;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2.99px;fill:none;}
+.cls-5{clip-path:url(#clip-path);}
+.cls-6{fill:url(#linear-gradient);}
+.cls-7{fill:#e60101;}
+</style>
+<clipPath id="clip-path" transform="translate(0 3.01)">
+<path fill='none' d="M67.81,104.56c37.45,0,67.81-10.62,67.81-23.72,0-2.62-1.22-5.14-3.46-7.5a93.26,93.26,0,0,0-2.87-16.84S125.61,44,119,34.45a63.78,63.78,0,0,0-16.4-15.64h0l-2-6.78c-9.32-4.34-12-4.71-12-4.71L80.52,74.48Z"/></clipPath>
+<linearGradient id="linear-gradient" x1="451.24" y1="490.94" x2="461.65" y2="501.35" gradientTransform="matrix(4.3, 4.25, -4.3, 4.25, 276.93, -3995.69)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-opacity="0.25"/><stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<g id="Layer_2" data-name="Layer 2">
+<g id="Layer_1-2" data-name="Layer 1">
+<path fill='#ebebeb' d="M132.16,73.34a93.26,93.26,0,0,0-2.87-16.84S125.61,44,119,34.45a63.78,63.78,0,0,0-16.4-15.64h0l-2-6.78c-9.32-4.34-12-4.71-12-4.71h0L84.16,1.38c-13.19-3.11-32.51,0-32.51,0L47,7.41h0a103.26,103.26,0,0,0-12,4.43L33,18.53h0c-4.15,2-13.66,12.34-13.66,12.34S16.6,33.79,11,44.06C6,53,4,69.28,3.51,73.29,1.24,75.66,0,78.2,0,80.84c0,13.1,30.36,23.72,67.81,23.72s67.81-10.62,67.81-23.72C135.62,78.22,134.4,75.7,132.16,73.34Z" transform="translate(0 3.01)"/>
+<path fill='#ddd' d="M54.19,75.05a1.49,1.49,0,0,1-1.48-1.39L47,7.41l4.61-6,4,72.07A1.5,1.5,0,0,1,54.3,75Z" transform="translate(0 3.01)"/>
+<path fill='#ddd' d="M42.14,38.87a1.5,1.5,0,0,1-1.41-1L33,18.53l2.07-6.69,8.47,25a1.51,1.51,0,0,1-.89,1.92A1.52,1.52,0,0,1,42.14,38.87Z" transform="translate(0 3.01)"/>
+<path fill='#ddd' d="M93.5,39.2a1.5,1.5,0,0,0,1.4-1l7.72-19.41-2-6.78L92.09,37.19a1.5,1.5,0,0,0,.9,1.92A1.52,1.52,0,0,0,93.5,39.2Z" transform="translate(0 3.01)"/>
+<path stroke='#ddd' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2.99px' fill='none' d="M13.18,75.72C30.79,86.25,49.83,88.38,67.81,88.38c18.94,0,38.14-1,54.63-12.66" transform="translate(0 3.01)"/>
+<g clip-path='url(#clip-path)'>
+<rect fill='url(#linear-gradient)' x="72.31" y="8" width="67.8" height="88.53" transform="translate(-5.84 93.42) rotate(-45)"/>
+</g>
+<path fill='#ddd' d="M81.65,75.05a1.49,1.49,0,0,0,1.48-1.39L88.59,7.32,84.16,1.38l-4,72.07A1.49,1.49,0,0,0,81.54,75Z" transform="translate(0 3.01)"/>
+<circle fill='#e60101' cx="67.81" cy="70.36" r="6.09"/>
+</g>
+</g>
+</svg>

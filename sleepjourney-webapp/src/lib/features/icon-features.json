@@ -1,0 +1,710 @@
+{
+  "clientId": "81e1784e-59a9-417d-8f74-2276fa7a18a8aa1",
+  "name": "vdfblocks/section",
+  "isValid": true,
+  "attributes": {
+    "customColors": {
+      "text": "",
+      "background": ""
+    },
+    "displayTextColor": true,
+    "displayBackgroundColor": true,
+    "textColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Dark Grey",
+        "color": "#333333"
+      }
+    ],
+    "backgroundColors": [
+      {
+        "name": "White",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Shade Grey",
+        "color": "#F4F4F4"
+      },
+      {
+        "name": "Vodafone Red",
+        "color": "#E20613"
+      }
+    ],
+    "tagName": "div",
+    "title": {
+      "toggle": true,
+      "text": "Icon Features",
+      "textColor": "initial"
+    },
+    "subTitle": {
+      "toggle": false,
+      "text": "",
+      "textColor": "initial"
+    },
+    "paddingTop": true,
+    "paddingBottom": true,
+    "vdfBackgroundControl": {
+      "bgImage": {}
+    },
+    "vdfblocks": {
+      "custom": true
+    }
+  },
+  "innerBlocks": [
+    {
+      "clientId": "a284fd5a-06d4-426d-a112-385416e07356",
+      "name": "vdfblocks/features",
+      "isValid": true,
+      "attributes": {
+        "paddingUnit": "px",
+        "paddingSize": "small",
+        "paddingSyncUnits": false,
+        "paddingSyncUnitsTablet": true,
+        "paddingSyncUnitsMobile": true,
+        "marginUnit": "px",
+        "marginSize": "no",
+        "marginSyncUnits": false,
+        "marginSyncUnitsTablet": false,
+        "marginSyncUnitsMobile": false,
+        "hasMarginControl": true,
+        "hasAlignmentControls": true,
+        "hasStackedControl": true,
+        "backgroundType": "image",
+        "backgroundPosition": "center center",
+        "backgroundRepeat": "no-repeat",
+        "backgroundOverlay": 0,
+        "hasParallax": false,
+        "videoMuted": true,
+        "videoLoop": true,
+        "openPopover": false,
+        "headingLevel": 4,
+        "columns": 4,
+        "contentAlign": "center",
+        "vdfblocks": {
+          "custom": true
+        }
+      },
+      "innerBlocks": [
+        {
+          "clientId": "c083d084-949c-490c-be61-f7c5be6b2b03",
+          "name": "vdfblocks/feature",
+          "isValid": true,
+          "attributes": {
+            "paddingUnit": "px",
+            "paddingSize": "small",
+            "paddingSyncUnits": false,
+            "paddingSyncUnitsTablet": true,
+            "paddingSyncUnitsMobile": true,
+            "marginUnit": "px",
+            "marginSize": "no",
+            "marginSyncUnits": false,
+            "marginSyncUnitsTablet": false,
+            "marginSyncUnitsMobile": false,
+            "hasMarginControl": true,
+            "hasAlignmentControls": true,
+            "hasStackedControl": true,
+            "backgroundType": "image",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "no-repeat",
+            "backgroundOverlay": 0,
+            "hasParallax": false,
+            "videoMuted": true,
+            "videoLoop": true,
+            "openPopover": false,
+            "headingLevel": 4,
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "51133030-ffb2-4c1f-8272-28f7da2184a8",
+              "name": "vdfblocks/icon",
+              "isValid": true,
+              "attributes": {
+                "icon": "Home",
+                "iconSize": "medium",
+                "hasContentAlign": false,
+                "height": 60,
+                "width": 60,
+                "borderRadius": 0,
+                "padding": 0,
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "bf8e2029-0b87-47a1-9a6c-d15ee53c8310",
+              "name": "core/heading",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "Icon Features Title",
+                "level": 4,
+                "placeholder": "Add icon features title…",
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "45b37c98-68bf-4dbf-ae07-6f77a719d1d1",
+              "name": "core/paragraph",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "This is a icon features block that you can use to highlight features.",
+                "dropCap": false,
+                "placeholder": "Add icon features content",
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            }
+          ]
+        },
+        {
+          "clientId": "83fc1e3f-c3cf-444e-a8e2-9745c43bd2a8",
+          "name": "vdfblocks/feature",
+          "isValid": true,
+          "attributes": {
+            "paddingUnit": "px",
+            "paddingSize": "small",
+            "paddingSyncUnits": false,
+            "paddingSyncUnitsTablet": true,
+            "paddingSyncUnitsMobile": true,
+            "marginUnit": "px",
+            "marginSize": "no",
+            "marginSyncUnits": false,
+            "marginSyncUnitsTablet": false,
+            "marginSyncUnitsMobile": false,
+            "hasMarginControl": true,
+            "hasAlignmentControls": true,
+            "hasStackedControl": true,
+            "backgroundType": "image",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "no-repeat",
+            "backgroundOverlay": 0,
+            "hasParallax": false,
+            "videoMuted": true,
+            "videoLoop": true,
+            "openPopover": false,
+            "headingLevel": 4,
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "48097f5d-6ea6-4976-b467-403a4c41ef15",
+              "name": "vdfblocks/icon",
+              "isValid": true,
+              "attributes": {
+                "icon": "Bundles",
+                "iconSize": "medium",
+                "hasContentAlign": false,
+                "height": 60,
+                "width": 60,
+                "borderRadius": 0,
+                "padding": 0,
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "a994810b-799c-4447-85b5-6d7505772e63",
+              "name": "core/heading",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "Icon Features Title",
+                "level": 4,
+                "placeholder": "Add icon features title…",
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "640f359a-0ac1-4881-bc92-5c6f8a84c8f4",
+              "name": "core/paragraph",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "This is a icon features block that you can use to highlight features.",
+                "dropCap": false,
+                "placeholder": "Add icon features content",
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            }
+          ]
+        },
+        {
+          "clientId": "72b02473-ea3f-4b6a-958f-5f14530d1030",
+          "name": "vdfblocks/feature",
+          "isValid": true,
+          "attributes": {
+            "paddingUnit": "px",
+            "paddingSize": "small",
+            "paddingSyncUnits": false,
+            "paddingSyncUnitsTablet": true,
+            "paddingSyncUnitsMobile": true,
+            "marginUnit": "px",
+            "marginSize": "no",
+            "marginSyncUnits": false,
+            "marginSyncUnitsTablet": false,
+            "marginSyncUnitsMobile": false,
+            "hasMarginControl": true,
+            "hasAlignmentControls": true,
+            "hasStackedControl": true,
+            "backgroundType": "image",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "no-repeat",
+            "backgroundOverlay": 0,
+            "hasParallax": false,
+            "videoMuted": true,
+            "videoLoop": true,
+            "openPopover": false,
+            "headingLevel": 4,
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "9fc84049-613b-4f64-b14b-acfba749a9ce",
+              "name": "vdfblocks/icon",
+              "isValid": true,
+              "attributes": {
+                "icon": "Clock",
+                "iconSize": "medium",
+                "hasContentAlign": false,
+                "height": 60,
+                "width": 60,
+                "borderRadius": 0,
+                "padding": 0,
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "149f825c-d6e2-46f4-886b-11c2c4d9c0fc",
+              "name": "core/heading",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "Icon Features Title",
+                "level": 4,
+                "placeholder": "Add icon features title…",
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "8a37e6dc-271a-4963-8a9f-3b253734042a",
+              "name": "core/paragraph",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "This is a icon features block that you can use to highlight features.",
+                "dropCap": false,
+                "placeholder": "Add icon features content",
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            }
+          ]
+        },
+        {
+          "clientId": "9fd2b7b9-b652-45bf-8f87-a381c6907ff8",
+          "name": "vdfblocks/feature",
+          "isValid": true,
+          "attributes": {
+            "paddingUnit": "px",
+            "paddingSize": "small",
+            "paddingSyncUnits": false,
+            "paddingSyncUnitsTablet": true,
+            "paddingSyncUnitsMobile": true,
+            "marginUnit": "px",
+            "marginSize": "no",
+            "marginSyncUnits": false,
+            "marginSyncUnitsTablet": false,
+            "marginSyncUnitsMobile": false,
+            "hasMarginControl": true,
+            "hasAlignmentControls": true,
+            "hasStackedControl": true,
+            "backgroundType": "image",
+            "backgroundPosition": "center center",
+            "backgroundRepeat": "no-repeat",
+            "backgroundOverlay": 0,
+            "hasParallax": false,
+            "videoMuted": true,
+            "videoLoop": true,
+            "openPopover": false,
+            "headingLevel": 4,
+            "vdfblocks": {
+              "custom": true
+            }
+          },
+          "innerBlocks": [
+            {
+              "clientId": "d09a172a-d856-42fd-8e5b-b5a27c58be14",
+              "name": "vdfblocks/icon",
+              "isValid": true,
+              "attributes": {
+                "icon": "Edit",
+                "iconSize": "medium",
+                "hasContentAlign": false,
+                "height": 60,
+                "width": 60,
+                "borderRadius": 0,
+                "padding": 0,
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "bf7054c4-11e1-45f1-ad9d-9e425f86aaa8",
+              "name": "core/heading",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "Icon Features Title",
+                "level": 4,
+                "placeholder": "Add icon features title…",
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            },
+            {
+              "clientId": "9dd3caa5-d8f9-4c62-b962-846e24537d9d",
+              "name": "core/paragraph",
+              "isValid": true,
+              "attributes": {
+                "customColors": {
+                  "text": "",
+                  "background": ""
+                },
+                "displayTextColor": true,
+                "displayBackgroundColor": false,
+                "textColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Dark Grey",
+                    "color": "#333333"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "backgroundColors": [
+                  {
+                    "name": "White",
+                    "color": "#FFFFFF"
+                  },
+                  {
+                    "name": "Shade Grey",
+                    "color": "#F4F4F4"
+                  },
+                  {
+                    "name": "Vodafone Red",
+                    "color": "#E20613"
+                  }
+                ],
+                "content": "This is a icon features block that you can use to highlight features.",
+                "dropCap": false,
+                "placeholder": "Add icon features content",
+                "widthControlExt": {
+                  "outerWidth": 12
+                },
+                "vdfblocks": {
+                  "custom": true
+                }
+              },
+              "innerBlocks": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

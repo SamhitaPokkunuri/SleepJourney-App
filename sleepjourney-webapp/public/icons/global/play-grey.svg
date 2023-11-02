@@ -1,0 +1,25 @@
+<svg id="fa7fa6d6-e766-4879-8591-74d4436cc0e4" data-name="Apps_ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192">
+    <defs>
+        <clipPath id="3a51d2c5-a6d7-4bb4-9d36-4d1c98564071" transform="translate(0 0)">
+            <rect x="16" y="16" width="160" height="160" rx="80" ry="80" fill="none" />
+        </clipPath>
+        <linearGradient id="1d9f1c16-9270-471e-acb6-27b8d0fb7285" x1="321.52" y1="-1277.6" x2="321.52" y2="-1210.41" gradientTransform="matrix(0.56, -0.56, 0.71, 0.71, 825.43, 1191.62)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" />
+            <stop offset="1" stop-opacity="0" />
+        </linearGradient>
+    </defs>
+    <title>play-hi-dark</title>
+    <g id="daeacc10-d11e-44fb-8e1c-56d96f0995c3" data-name="Apps_ic_hi">
+        <g id="65052cae-edc5-447c-a616-12fbbb658203" data-name="Bill_ic_hi">
+            <g id="81178f45-755b-4746-b8dd-2ee7cba63d54" data-name="Report_ic_hi">
+                <g id="c79ceaa1-d931-456b-81fb-579f71752e62" data-name="vodafone_store_ic_hi">
+                    <g id="73178cfd-8a4b-41ec-ba7d-a48dd55941d9" data-name="Broadband_ic_hi">
+                        <rect width="192" height="192" fill="none" />
+                        <rect x="16" y="16" width="160" height="160" rx="80" ry="80" fill="#333333" />
+                        <path d="M135,89.17,86.41,53c-3.13-2.57-6.27-3.18-9.35-1.83A8.69,8.69,0,0,0,72,58.78,2,2,0,0,0,72,59v74a8.47,8.47,0,0,0,8,8.53h.24a8.32,8.32,0,0,0,5.08-1.73l.86-.64,47.51-35.32,1.36-1A8.18,8.18,0,0,0,135,89.17Z" transform="translate(0 0)" fill="#fff" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100.22 130.18"><defs>
+<style>
+.cls-1{fill:#ddd;}
+.cls-2{fill:#ebebeb;}
+.cls-3{fill:#e60101;}
+.cls-4{stroke:#494d4e;stroke-width:1.82px; fill:none;stroke-linecap:round;stroke-miterlimit:10;}
+.cls-5{fill:url(#linear-gradient);}
+.cls-6{stroke:#e60101;stroke-width:4px; fill:none;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<linearGradient id="linear-gradient" x1="11.52" y1="24.08" x2="88.89" y2="101.45" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#515151"/><stop offset="1" stop-color="#343434"/>
+</linearGradient>
+</defs>
+<g id="Layer_2" data-name="Layer 2">
+<g id="Layer_1-2" data-name="Layer 1">
+<rect fill='#ddd' x="17.56" y="1.82" width="65.09" height="128.36" rx="6.69"/>
+<rect fill='#ebebeb' x="17.56" width="65.09" height="128.36" rx="6.69"/>
+<circle fill='#e60101' cx="50.36" cy="120.53" r="4.9"/>
+<circle fill='#e60101' cx="39.75" cy="7.63" r="0.96"/>
+<line stroke='#494d4e' stroke-width='1.82px' fill='none' stroke-linecap='round' stroke-miterlimit='10' x1="44.35" y1="7.63" x2="56.06" y2="7.63"/>
+<rect fill='url(#linear-gradient)' x="21.11" y="13.34" width="58.19" height="98.85" rx="1.97"/>
+<line stroke='#e60101' stroke-width='1.82px'  fill='none' stroke-linecap='round' stroke-miterlimit='10' x1="98.22" y1="16.98" x2="2" y2="113.2"/>
+</g>
+</g>
+</svg>

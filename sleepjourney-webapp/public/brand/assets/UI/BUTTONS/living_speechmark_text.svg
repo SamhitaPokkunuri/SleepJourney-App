@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205.04 39.62">
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Layer_2" data-name="Layer 2">
+      <text transform="translate(50.46 16.1)" style="font-size: 19.236270904541016px;fill: #e60000;font-family: VodafoneRg-Bold, Vodafone Rg;font-weight: 700">Living Speechmark<tspan x="0" y="19.24">Gene</tspan><tspan x="41.51" y="19.24" style="letter-spacing: -0.009950278354356905em">r</tspan><tspan x="48.17" y="19.24">ator</tspan></text>
+      <g>
+        <circle cx="19.81" cy="19.81" r="19.81" style="fill: #e60000"/>
+        <path d="M20,30.86c-5.45,0-11.11-4.63-11.13-12.09a16.81,16.81,0,0,1,6-12.5,19.76,19.76,0,0,1,12-4.52,5.31,5.31,0,0,1,1.43.15,8.24,8.24,0,0,0-6.47,7.91,2.34,2.34,0,0,0,0,.33c6,1.46,8.77,5.1,8.79,10.14A10.61,10.61,0,0,1,20,30.86Z" style="fill: #fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

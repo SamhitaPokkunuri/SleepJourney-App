@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68.118" height="94.719" viewBox="0 0 68.118 94.719">
+    <defs>
+        <style>
+            .cls-2{fill:#e60000}
+        </style>
+    </defs>
+    <g id="Radio_antennas" transform="translate(-505.941 -430.011)">
+        <path id="Path_13936" fill="#fff" d="M128.06 120.75a4 4 0 0 1-4-4V62a4 4 0 0 1 8 0v54.75a4 4 0 0 1-4 4z" transform="translate(412.027 403.98)"/>
+        <g id="_77f18b41-157a-40ca-ab4d-ba994b0e9cf0" transform="translate(412.027 404)">
+            <path id="Path_13939" d="M160 43.33a2 2 0 0 1-1.43-.59 43.33 43.33 0 0 0-61.2 0 2.026 2.026 0 0 1-2.86-2.87 47.37 47.37 0 0 1 66.92 0 2.03 2.03 0 0 1-1.43 3.46z" fill='#e60000' transform="translate(0 -.02)"/>
+        </g>
+        <g id="cdbd5f61-fd0a-4e50-ba06-a76e9b6374d3" transform="translate(412.027 404)">
+            <path id="Path_13940" d="M147.54 54a2 2 0 0 1-.91-.22 1.92 1.92 0 0 1-.53-.38 25.52 25.52 0 0 0-36 0 2.026 2.026 0 1 1-2.86-2.87 29.57 29.57 0 0 1 41.74 0l.07.07.1.12a2 2 0 0 1-1.61 3.28z" fill='#e60000' transform="translate(0 -.02)"/>
+        </g>
+    </g>
+</svg>
